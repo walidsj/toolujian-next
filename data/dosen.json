@@ -1,0 +1,4995 @@
+[
+  {
+    "id": "1",
+    "matkul_id": "12",
+    "class": "6-01",
+    "name": "Nur Aisyah Kustiani"
+  },
+  { "id": "2", "matkul_id": "13", "class": "6-01", "name": "Rachma Aprilia" },
+  { "id": "3", "matkul_id": "10", "class": "6-01", "name": "Dyah Purwanti" },
+  { "id": "4", "matkul_id": "11", "class": "6-01", "name": "Muhadi Prabowo" },
+  { "id": "5", "matkul_id": "9", "class": "6-01", "name": "Yogi Ishwara" },
+  { "id": "6", "matkul_id": "8", "class": "6-01", "name": "Deni Herdiyana" },
+  {
+    "id": "7",
+    "matkul_id": "12",
+    "class": "6-02",
+    "name": "Moh. Luthfi Mahrus"
+  },
+  { "id": "8", "matkul_id": "13", "class": "6-02", "name": "Bagas Johantri" },
+  { "id": "9", "matkul_id": "10", "class": "6-02", "name": "Dyah Purwanti" },
+  { "id": "10", "matkul_id": "11", "class": "6-02", "name": "Muhadi Prabowo" },
+  { "id": "11", "matkul_id": "9", "class": "6-02", "name": "Yogi Ishwara" },
+  { "id": "12", "matkul_id": "8", "class": "6-02", "name": "Deni Herdiyana" },
+  { "id": "13", "matkul_id": "12", "class": "6-03", "name": "Maman Suhendra" },
+  {
+    "id": "14",
+    "matkul_id": "13",
+    "class": "6-03",
+    "name": "Moh. Luthfi Mahrus"
+  },
+  { "id": "15", "matkul_id": "10", "class": "6-03", "name": "Siswanto" },
+  { "id": "16", "matkul_id": "11", "class": "6-03", "name": "Muhadi Prabowo" },
+  { "id": "17", "matkul_id": "9", "class": "6-03", "name": "Sunu Soebroto" },
+  { "id": "18", "matkul_id": "8", "class": "6-03", "name": "Budi Susilo" },
+  {
+    "id": "19",
+    "matkul_id": "12",
+    "class": "6-04",
+    "name": "Lestari Kurniawati"
+  },
+  {
+    "id": "20",
+    "matkul_id": "13",
+    "class": "6-04",
+    "name": "Resi Ariyasa Qadri"
+  },
+  { "id": "21", "matkul_id": "10", "class": "6-04", "name": "Siswanto" },
+  { "id": "22", "matkul_id": "11", "class": "6-04", "name": "Didik Kurniawan" },
+  { "id": "23", "matkul_id": "9", "class": "6-04", "name": "Sunu Soebroto" },
+  { "id": "24", "matkul_id": "8", "class": "6-04", "name": "Budi Susilo" },
+  { "id": "25", "matkul_id": "12", "class": "6-05", "name": "Erny Arianty" },
+  { "id": "26", "matkul_id": "13", "class": "6-05", "name": "Rachma Aprilia" },
+  { "id": "27", "matkul_id": "10", "class": "6-05", "name": "Siswanto" },
+  { "id": "28", "matkul_id": "11", "class": "6-05", "name": "Didik Kurniawan" },
+  { "id": "29", "matkul_id": "9", "class": "6-05", "name": "Marmah Hadi" },
+  { "id": "30", "matkul_id": "8", "class": "6-05", "name": "Iskandar" },
+  { "id": "31", "matkul_id": "12", "class": "6-06", "name": "Zef Arfiansyah" },
+  {
+    "id": "32",
+    "matkul_id": "13",
+    "class": "6-06",
+    "name": "Lestari Kurniawati"
+  },
+  { "id": "33", "matkul_id": "10", "class": "6-06", "name": "Iin Indrawati" },
+  { "id": "34", "matkul_id": "11", "class": "6-06", "name": "Didik Kurniawan" },
+  { "id": "35", "matkul_id": "9", "class": "6-06", "name": "Marmah Hadi" },
+  { "id": "36", "matkul_id": "8", "class": "6-06", "name": "Iskandar" },
+  {
+    "id": "37",
+    "matkul_id": "12",
+    "class": "6-07",
+    "name": "Moh. Luthfi Mahrus"
+  },
+  { "id": "38", "matkul_id": "13", "class": "6-07", "name": "Alfi Mufidah" },
+  { "id": "39", "matkul_id": "10", "class": "6-07", "name": "Iin Indrawati" },
+  { "id": "40", "matkul_id": "11", "class": "6-07", "name": "Bagas Johantri" },
+  { "id": "41", "matkul_id": "9", "class": "6-07", "name": "Marmah Hadi" },
+  { "id": "42", "matkul_id": "8", "class": "6-07", "name": "Miftahul Hadi" },
+  {
+    "id": "43",
+    "matkul_id": "12",
+    "class": "6-08",
+    "name": "Ali Tafriji Biswan"
+  },
+  { "id": "44", "matkul_id": "13", "class": "6-08", "name": "Maman Suhendra" },
+  { "id": "45", "matkul_id": "10", "class": "6-08", "name": "Agung Dinarjito" },
+  { "id": "46", "matkul_id": "11", "class": "6-08", "name": "Bagas Johantri" },
+  { "id": "47", "matkul_id": "9", "class": "6-08", "name": "Soffan Marsus" },
+  { "id": "48", "matkul_id": "8", "class": "6-08", "name": "Miftahul Hadi" },
+  {
+    "id": "49",
+    "matkul_id": "12",
+    "class": "6-09",
+    "name": "Arifah Fibri Andriani"
+  },
+  {
+    "id": "50",
+    "matkul_id": "13",
+    "class": "6-09",
+    "name": "Ali Tafriji Biswan"
+  },
+  { "id": "51", "matkul_id": "10", "class": "6-09", "name": "Agung Dinarjito" },
+  { "id": "52", "matkul_id": "11", "class": "6-09", "name": "Bagas Johantri" },
+  { "id": "53", "matkul_id": "9", "class": "6-09", "name": "Soffan Marsus" },
+  { "id": "54", "matkul_id": "8", "class": "6-09", "name": "Rahmat Mulyono" },
+  { "id": "55", "matkul_id": "33", "class": "6-01", "name": "Dyah Purwanti" },
+  { "id": "56", "matkul_id": "32", "class": "6-01", "name": "Danung Wiyadi" },
+  {
+    "id": "57",
+    "matkul_id": "31",
+    "class": "6-01",
+    "name": "Muchammad Yudhistira Faisal Anggara"
+  },
+  { "id": "58", "matkul_id": "30", "class": "6-01", "name": "Khalimi" },
+  { "id": "59", "matkul_id": "33", "class": "6-02", "name": "Dyah Purwanti" },
+  { "id": "60", "matkul_id": "32", "class": "6-02", "name": "Danung Wiyadi" },
+  {
+    "id": "61",
+    "matkul_id": "31",
+    "class": "6-02",
+    "name": "Muchammad Yudhistira Faisal Anggara"
+  },
+  { "id": "62", "matkul_id": "30", "class": "6-02", "name": "Khalimi" },
+  { "id": "63", "matkul_id": "33", "class": "6-03", "name": "Dyah Purwanti" },
+  {
+    "id": "64",
+    "matkul_id": "32",
+    "class": "6-03",
+    "name": "Yunita Meldasari"
+  },
+  { "id": "65", "matkul_id": "31", "class": "6-03", "name": "Andy Wijaya" },
+  {
+    "id": "66",
+    "matkul_id": "30",
+    "class": "6-03",
+    "name": "Adnan Topan Husodo"
+  },
+  { "id": "67", "matkul_id": "33", "class": "6-04", "name": "Iin Indrawati" },
+  {
+    "id": "68",
+    "matkul_id": "32",
+    "class": "6-04",
+    "name": "Yunita Meldasari"
+  },
+  { "id": "69", "matkul_id": "31", "class": "6-04", "name": "Andy Wijaya" },
+  {
+    "id": "70",
+    "matkul_id": "30",
+    "class": "6-04",
+    "name": "Ichsani Fahrudin"
+  },
+  {
+    "id": "71",
+    "matkul_id": "33",
+    "class": "6-05",
+    "name": "Rahmadi Murwanto"
+  },
+  {
+    "id": "72",
+    "matkul_id": "32",
+    "class": "6-05",
+    "name": "Johan Pratama Iman Sujarwo"
+  },
+  {
+    "id": "73",
+    "matkul_id": "31",
+    "class": "6-05",
+    "name": "Teuku Raja Irfan Radarma"
+  },
+  { "id": "74", "matkul_id": "30", "class": "6-05", "name": "Sakti Prabowo" },
+  { "id": "75", "matkul_id": "33", "class": "6-06", "name": "Akhmad Khabibi" },
+  {
+    "id": "76",
+    "matkul_id": "32",
+    "class": "6-06",
+    "name": "Johan Pratama Iman Sujarwo"
+  },
+  { "id": "77", "matkul_id": "31", "class": "6-06", "name": "Heros Karyonoto" },
+  { "id": "78", "matkul_id": "30", "class": "6-06", "name": "Sakti Prabowo" },
+  {
+    "id": "79",
+    "matkul_id": "33",
+    "class": "6-07",
+    "name": "Rahmadi Murwanto"
+  },
+  { "id": "80", "matkul_id": "32", "class": "6-07", "name": "Peter Umar" },
+  { "id": "81", "matkul_id": "31", "class": "6-07", "name": "Heros Karyonoto" },
+  { "id": "82", "matkul_id": "30", "class": "6-07", "name": "Sakti Prabowo" },
+  { "id": "83", "matkul_id": "33", "class": "6-08", "name": "Akhmad Khabibi" },
+  { "id": "84", "matkul_id": "32", "class": "6-08", "name": "Peter Umar" },
+  { "id": "85", "matkul_id": "31", "class": "6-08", "name": "Ennoch Sindang" },
+  { "id": "86", "matkul_id": "30", "class": "6-08", "name": "Subagio" },
+  { "id": "87", "matkul_id": "33", "class": "6-09", "name": "Akhmad Khabibi" },
+  { "id": "88", "matkul_id": "32", "class": "6-09", "name": "Riza Faiz Ahmad" },
+  { "id": "89", "matkul_id": "31", "class": "6-09", "name": "Ennoch Sindang" },
+  { "id": "90", "matkul_id": "30", "class": "6-09", "name": "Subagio" },
+  { "id": "91", "matkul_id": "33", "class": "6-10", "name": "Hendro Nugroho" },
+  { "id": "92", "matkul_id": "32", "class": "6-10", "name": "Riza Faiz Ahmad" },
+  { "id": "93", "matkul_id": "31", "class": "6-10", "name": "Ennoch Sindang" },
+  { "id": "94", "matkul_id": "30", "class": "6-10", "name": "Subagio" },
+  { "id": "95", "matkul_id": "33", "class": "6-11", "name": "Hendro Nugroho" },
+  {
+    "id": "96",
+    "matkul_id": "32",
+    "class": "6-11",
+    "name": "Nanang Findhi Ismail"
+  },
+  { "id": "97", "matkul_id": "31", "class": "6-11", "name": "Tri Achmadi" },
+  { "id": "98", "matkul_id": "30", "class": "6-11", "name": "Subagio" },
+  { "id": "99", "matkul_id": "33", "class": "6-12", "name": "Hendro Nugroho" },
+  { "id": "100", "matkul_id": "32", "class": "6-12", "name": "Sopian" },
+  { "id": "101", "matkul_id": "31", "class": "6-12", "name": "Tri Achmadi" },
+  { "id": "102", "matkul_id": "30", "class": "6-12", "name": "Nadia Sarah" },
+  {
+    "id": "103",
+    "matkul_id": "33",
+    "class": "6-13",
+    "name": "Nia Pramita Sari"
+  },
+  { "id": "104", "matkul_id": "32", "class": "6-13", "name": "Merzi Umas" },
+  {
+    "id": "105",
+    "matkul_id": "31",
+    "class": "6-13",
+    "name": "Arifudin Miftakhul Huda"
+  },
+  { "id": "106", "matkul_id": "30", "class": "6-13", "name": "Marsono" },
+  {
+    "id": "107",
+    "matkul_id": "33",
+    "class": "6-14",
+    "name": "Nia Pramita Sari"
+  },
+  { "id": "108", "matkul_id": "32", "class": "6-14", "name": "Merzi Umas" },
+  {
+    "id": "109",
+    "matkul_id": "31",
+    "class": "6-14",
+    "name": "Arifudin Miftakhul Huda"
+  },
+  { "id": "110", "matkul_id": "30", "class": "6-14", "name": "Marsono" },
+  { "id": "111", "matkul_id": "33", "class": "6-15", "name": "Edy Purnomo" },
+  { "id": "112", "matkul_id": "32", "class": "6-15", "name": "Dewi Hariyani" },
+  {
+    "id": "113",
+    "matkul_id": "31",
+    "class": "6-15",
+    "name": "Dadang Risman Sunandar"
+  },
+  {
+    "id": "114",
+    "matkul_id": "30",
+    "class": "6-15",
+    "name": "Raditya Hendra Pratama"
+  },
+  { "id": "115", "matkul_id": "33", "class": "6-16", "name": "Iin Indrawati" },
+  { "id": "116", "matkul_id": "32", "class": "6-16", "name": "Dewi Hariyani" },
+  {
+    "id": "117",
+    "matkul_id": "31",
+    "class": "6-16",
+    "name": "Dadang Risman Sunandar"
+  },
+  {
+    "id": "118",
+    "matkul_id": "30",
+    "class": "6-16",
+    "name": "Muhammad Indra Furqon"
+  },
+  {
+    "id": "119",
+    "matkul_id": "33",
+    "class": "6-17",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  { "id": "120", "matkul_id": "32", "class": "6-17", "name": "Edi Sunyoto" },
+  { "id": "121", "matkul_id": "31", "class": "6-17", "name": "Irwan Supranto" },
+  {
+    "id": "122",
+    "matkul_id": "30",
+    "class": "6-17",
+    "name": "Mochamad Agung Sasongko"
+  },
+  {
+    "id": "123",
+    "matkul_id": "33",
+    "class": "6-18",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  { "id": "124", "matkul_id": "32", "class": "6-18", "name": "Edi Sunyoto" },
+  {
+    "id": "125",
+    "matkul_id": "31",
+    "class": "6-18",
+    "name": "Dwi Hary Prasojo"
+  },
+  {
+    "id": "126",
+    "matkul_id": "30",
+    "class": "6-18",
+    "name": "Herlina Tarigan"
+  },
+  {
+    "id": "127",
+    "matkul_id": "33",
+    "class": "6-19",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  { "id": "128", "matkul_id": "32", "class": "6-19", "name": "Edy Purwanto" },
+  {
+    "id": "129",
+    "matkul_id": "31",
+    "class": "6-19",
+    "name": "Dwi Hary Prasojo"
+  },
+  {
+    "id": "130",
+    "matkul_id": "30",
+    "class": "6-19",
+    "name": "Ridzky Aditya Saputra"
+  },
+  {
+    "id": "131",
+    "matkul_id": "33",
+    "class": "6-20",
+    "name": "Syarifarudin Afa"
+  },
+  { "id": "132", "matkul_id": "32", "class": "6-20", "name": "Edy Purwanto" },
+  { "id": "133", "matkul_id": "31", "class": "6-20", "name": "Agung Nugroho" },
+  {
+    "id": "134",
+    "matkul_id": "30",
+    "class": "6-20",
+    "name": "Djoko Hidayanto"
+  },
+  { "id": "135", "matkul_id": "33", "class": "6-21", "name": "Ika wahyuni" },
+  {
+    "id": "136",
+    "matkul_id": "32",
+    "class": "6-21",
+    "name": "David HM Hasibuan"
+  },
+  { "id": "137", "matkul_id": "31", "class": "6-21", "name": "Agung Nugroho" },
+  { "id": "138", "matkul_id": "30", "class": "6-21", "name": "Sopian" },
+  { "id": "139", "matkul_id": "33", "class": "6-22", "name": "Ika wahyuni" },
+  {
+    "id": "140",
+    "matkul_id": "32",
+    "class": "6-22",
+    "name": "David HM Hasibuan"
+  },
+  { "id": "141", "matkul_id": "31", "class": "6-22", "name": "Agung Nugroho" },
+  {
+    "id": "142",
+    "matkul_id": "30",
+    "class": "6-22",
+    "name": "Muhammad Sahlan Ramadhan Solichin"
+  },
+  { "id": "143", "matkul_id": "33", "class": "6-23", "name": "Nurhidayati" },
+  { "id": "144", "matkul_id": "32", "class": "6-23", "name": "Eko Suprapto" },
+  {
+    "id": "145",
+    "matkul_id": "31",
+    "class": "6-23",
+    "name": "Bary R. Pratama"
+  },
+  { "id": "146", "matkul_id": "30", "class": "6-23", "name": "Sopian" },
+  { "id": "147", "matkul_id": "33", "class": "6-24", "name": "Nurhidayati" },
+  { "id": "148", "matkul_id": "32", "class": "6-24", "name": "Eko Suprapto" },
+  {
+    "id": "149",
+    "matkul_id": "31",
+    "class": "6-24",
+    "name": "Bary R. Pratama"
+  },
+  { "id": "150", "matkul_id": "30", "class": "6-24", "name": "Sukarno" },
+  {
+    "id": "151",
+    "matkul_id": "33",
+    "class": "6-25",
+    "name": "Riky Rizky Junaedi"
+  },
+  {
+    "id": "152",
+    "matkul_id": "32",
+    "class": "6-25",
+    "name": "Fitriansyah Monasfaly"
+  },
+  { "id": "153", "matkul_id": "31", "class": "6-25", "name": "M. Zuhdi" },
+  { "id": "154", "matkul_id": "30", "class": "6-25", "name": "Sukarno" },
+  { "id": "155", "matkul_id": "33", "class": "6-26", "name": "Edy Purnomo" },
+  {
+    "id": "156",
+    "matkul_id": "32",
+    "class": "6-26",
+    "name": "Fitriansyah Monasfaly"
+  },
+  { "id": "157", "matkul_id": "31", "class": "6-26", "name": "M. Zuhdi" },
+  { "id": "158", "matkul_id": "30", "class": "6-26", "name": "Sukarno" },
+  {
+    "id": "159",
+    "matkul_id": "33",
+    "class": "6-27",
+    "name": "Riky Rizky Junaedi"
+  },
+  { "id": "160", "matkul_id": "32", "class": "6-27", "name": "Imran" },
+  { "id": "161", "matkul_id": "31", "class": "6-27", "name": "M. Zuhdi" },
+  { "id": "162", "matkul_id": "30", "class": "6-27", "name": "Subagio" },
+  {
+    "id": "163",
+    "matkul_id": "33",
+    "class": "6-28",
+    "name": "Agung Dinarjito"
+  },
+  { "id": "164", "matkul_id": "32", "class": "6-28", "name": "Imran" },
+  {
+    "id": "165",
+    "matkul_id": "31",
+    "class": "6-28",
+    "name": "Ananda Anggara S"
+  },
+  { "id": "166", "matkul_id": "30", "class": "6-28", "name": "Embun" },
+  {
+    "id": "167",
+    "matkul_id": "33",
+    "class": "6-29",
+    "name": "Agung Dinarjito"
+  },
+  {
+    "id": "168",
+    "matkul_id": "32",
+    "class": "6-29",
+    "name": "Muhamad Panjiwinata"
+  },
+  {
+    "id": "169",
+    "matkul_id": "31",
+    "class": "6-29",
+    "name": "Ananda Anggara S"
+  },
+  { "id": "170", "matkul_id": "30", "class": "6-29", "name": "Imaduddin" },
+  { "id": "171", "matkul_id": "33", "class": "6-30", "name": "Cucu Pujasetia" },
+  {
+    "id": "172",
+    "matkul_id": "32",
+    "class": "6-30",
+    "name": "Muhamad Panjiwinata"
+  },
+  { "id": "173", "matkul_id": "31", "class": "6-30", "name": "Kartika Djati" },
+  { "id": "174", "matkul_id": "30", "class": "6-30", "name": "Imaduddin" },
+  { "id": "175", "matkul_id": "33", "class": "6-31", "name": "Kodirin" },
+  {
+    "id": "176",
+    "matkul_id": "32",
+    "class": "6-31",
+    "name": "Ervin Septian Firdaus"
+  },
+  { "id": "177", "matkul_id": "31", "class": "6-31", "name": "Agung Darono" },
+  { "id": "178", "matkul_id": "30", "class": "6-31", "name": "Diaz Priantara" },
+  {
+    "id": "179",
+    "matkul_id": "33",
+    "class": "6-32",
+    "name": "Muhammad Abdul Muis"
+  },
+  {
+    "id": "180",
+    "matkul_id": "32",
+    "class": "6-32",
+    "name": "Ervin Septian Firdaus"
+  },
+  { "id": "181", "matkul_id": "31", "class": "6-32", "name": "Agung Darono" },
+  { "id": "182", "matkul_id": "30", "class": "6-32", "name": "Sopian" },
+  { "id": "183", "matkul_id": "33", "class": "6-33", "name": "Edy Purnomo" },
+  { "id": "184", "matkul_id": "32", "class": "6-33", "name": "Muhadi Prabowo" },
+  {
+    "id": "185",
+    "matkul_id": "31",
+    "class": "6-33",
+    "name": "Maftuh Prihantono"
+  },
+  { "id": "186", "matkul_id": "30", "class": "6-33", "name": "Manggazali" },
+  { "id": "187", "matkul_id": "33", "class": "6-34", "name": "Ahmad Rusan" },
+  { "id": "188", "matkul_id": "32", "class": "6-34", "name": "Muhadi Prabowo" },
+  {
+    "id": "189",
+    "matkul_id": "31",
+    "class": "6-34",
+    "name": "Maftuh Prihantono"
+  },
+  {
+    "id": "190",
+    "matkul_id": "30",
+    "class": "6-34",
+    "name": "Ichsani Fahrudin"
+  },
+  {
+    "id": "191",
+    "matkul_id": "33",
+    "class": "6-35",
+    "name": "Syarifarudin Afa"
+  },
+  {
+    "id": "192",
+    "matkul_id": "32",
+    "class": "6-35",
+    "name": "Nanang Findhi Ismail"
+  },
+  {
+    "id": "193",
+    "matkul_id": "31",
+    "class": "6-35",
+    "name": "Bakhas Nasrani Diso"
+  },
+  {
+    "id": "194",
+    "matkul_id": "30",
+    "class": "6-35",
+    "name": "Raditya Hendra Pratama"
+  },
+  {
+    "id": "195",
+    "matkul_id": "33",
+    "class": "6-36",
+    "name": "Muhammad Abdul Muis"
+  },
+  { "id": "196", "matkul_id": "32", "class": "6-36", "name": "Sopian" },
+  {
+    "id": "197",
+    "matkul_id": "31",
+    "class": "6-36",
+    "name": "Bakhas Nasrani Diso"
+  },
+  { "id": "198", "matkul_id": "30", "class": "6-36", "name": "Hari Sasmito" },
+  { "id": "199", "matkul_id": "33", "class": "6-37", "name": "Dyah Purwanti" },
+  { "id": "200", "matkul_id": "32", "class": "6-37", "name": "Ketut Sunarta" },
+  {
+    "id": "201",
+    "matkul_id": "31",
+    "class": "6-37",
+    "name": "Jarvik Fuad Rizky"
+  },
+  {
+    "id": "202",
+    "matkul_id": "30",
+    "class": "6-37",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  { "id": "203", "matkul_id": "33", "class": "6-38", "name": "Iin Indrawati" },
+  { "id": "204", "matkul_id": "32", "class": "6-38", "name": "Ketut Sunarta" },
+  {
+    "id": "205",
+    "matkul_id": "31",
+    "class": "6-38",
+    "name": "Jarvik Fuad Rizky"
+  },
+  {
+    "id": "206",
+    "matkul_id": "30",
+    "class": "6-38",
+    "name": "Akhmad Firdiansyah"
+  },
+  {
+    "id": "207",
+    "matkul_id": "33",
+    "class": "6-39",
+    "name": "Riky Rizky Junaedi"
+  },
+  { "id": "208", "matkul_id": "32", "class": "6-39", "name": "Tjahjo Winarto" },
+  {
+    "id": "209",
+    "matkul_id": "31",
+    "class": "6-39",
+    "name": "Priambodo Rokhmat Pratama"
+  },
+  {
+    "id": "210",
+    "matkul_id": "30",
+    "class": "6-39",
+    "name": "Lysa Novita Sirait"
+  },
+  {
+    "id": "211",
+    "matkul_id": "33",
+    "class": "6-40",
+    "name": "Manggiarto Dwi Sadono"
+  },
+  { "id": "212", "matkul_id": "32", "class": "6-40", "name": "Tjahjo Winarto" },
+  {
+    "id": "213",
+    "matkul_id": "31",
+    "class": "6-40",
+    "name": "Priambodo Rokhmat Pratama"
+  },
+  {
+    "id": "214",
+    "matkul_id": "30",
+    "class": "6-40",
+    "name": "Lysa Novita Sirait"
+  },
+  {
+    "id": "215",
+    "matkul_id": "33",
+    "class": "6-41",
+    "name": "Muhammad Abdul Muis"
+  },
+  { "id": "216", "matkul_id": "32", "class": "6-41", "name": "Adi Rasidi" },
+  { "id": "217", "matkul_id": "31", "class": "6-41", "name": "Reza Darmawan" },
+  { "id": "218", "matkul_id": "30", "class": "6-41", "name": "Budi Susilo" },
+  { "id": "219", "matkul_id": "33", "class": "6-42", "name": "Kodirin" },
+  { "id": "220", "matkul_id": "32", "class": "6-42", "name": "Adi Rasidi" },
+  {
+    "id": "221",
+    "matkul_id": "31",
+    "class": "6-42",
+    "name": "Frengky Amstrong Ompusunggu"
+  },
+  { "id": "222", "matkul_id": "30", "class": "6-42", "name": "Budi Susilo" },
+  { "id": "223", "matkul_id": "33", "class": "6-43", "name": "Kodirin" },
+  {
+    "id": "224",
+    "matkul_id": "32",
+    "class": "6-43",
+    "name": "Ahmad Burhanuddin Taufiq"
+  },
+  {
+    "id": "225",
+    "matkul_id": "31",
+    "class": "6-43",
+    "name": "Frengky Amstrong Ompusunggu"
+  },
+  { "id": "226", "matkul_id": "30", "class": "6-43", "name": "Budi Susilo" },
+  {
+    "id": "227",
+    "matkul_id": "33",
+    "class": "6-44",
+    "name": "Amrie Firmansyah"
+  },
+  {
+    "id": "228",
+    "matkul_id": "32",
+    "class": "6-44",
+    "name": "Ahmad Burhanuddin Taufiq"
+  },
+  {
+    "id": "229",
+    "matkul_id": "31",
+    "class": "6-44",
+    "name": "Widya Ari Pranayoga"
+  },
+  { "id": "230", "matkul_id": "30", "class": "6-44", "name": "Trisulo" },
+  {
+    "id": "231",
+    "matkul_id": "33",
+    "class": "6-45",
+    "name": "Amrie Firmansyah"
+  },
+  {
+    "id": "232",
+    "matkul_id": "32",
+    "class": "6-45",
+    "name": "Endang Kuswardhani"
+  },
+  {
+    "id": "233",
+    "matkul_id": "31",
+    "class": "6-45",
+    "name": "Widya Ari Pranayoga"
+  },
+  { "id": "234", "matkul_id": "30", "class": "6-45", "name": "Sri Murwani" },
+  {
+    "id": "235",
+    "matkul_id": "33",
+    "class": "6-46",
+    "name": "Amrie Firmansyah"
+  },
+  {
+    "id": "236",
+    "matkul_id": "32",
+    "class": "6-46",
+    "name": "Endang Kuswardhani"
+  },
+  { "id": "237", "matkul_id": "31", "class": "6-46", "name": "Muhammad Ihsan" },
+  {
+    "id": "238",
+    "matkul_id": "30",
+    "class": "6-46",
+    "name": "Moh Ibnu Ichwanusshofa"
+  },
+  {
+    "id": "239",
+    "matkul_id": "33",
+    "class": "6-47",
+    "name": "Agung Dinarjito"
+  },
+  {
+    "id": "240",
+    "matkul_id": "32",
+    "class": "6-47",
+    "name": "Thopan Aji Pratama"
+  },
+  { "id": "241", "matkul_id": "31", "class": "6-47", "name": "Muhammad Ihsan" },
+  { "id": "242", "matkul_id": "30", "class": "6-47", "name": "Anna Devi" },
+  {
+    "id": "243",
+    "matkul_id": "33",
+    "class": "6-48",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  {
+    "id": "244",
+    "matkul_id": "32",
+    "class": "6-48",
+    "name": "Thopan Aji Pratama"
+  },
+  {
+    "id": "245",
+    "matkul_id": "31",
+    "class": "6-48",
+    "name": "Ade Satya Wahana"
+  },
+  {
+    "id": "246",
+    "matkul_id": "30",
+    "class": "6-48",
+    "name": "Adnan Topan Husodo"
+  },
+  { "id": "247", "matkul_id": "33", "class": "6-49", "name": "Siswanto" },
+  {
+    "id": "248",
+    "matkul_id": "32",
+    "class": "6-49",
+    "name": "Yodi Armawidiatmo"
+  },
+  {
+    "id": "249",
+    "matkul_id": "31",
+    "class": "6-49",
+    "name": "Ade Satya Wahana"
+  },
+  {
+    "id": "250",
+    "matkul_id": "30",
+    "class": "6-49",
+    "name": "Roby Arya Brata"
+  },
+  { "id": "251", "matkul_id": "33", "class": "6-50", "name": "Siswanto" },
+  {
+    "id": "252",
+    "matkul_id": "32",
+    "class": "6-50",
+    "name": "Yodi Armawidiatmo"
+  },
+  {
+    "id": "253",
+    "matkul_id": "31",
+    "class": "6-50",
+    "name": "Teuku Raja Irfan Radarma"
+  },
+  {
+    "id": "254",
+    "matkul_id": "30",
+    "class": "6-50",
+    "name": "Roby Arya Brata"
+  },
+  { "id": "255", "matkul_id": "33", "class": "6-51", "name": "Amelia Sandra" },
+  { "id": "256", "matkul_id": "32", "class": "6-51", "name": "Zef Arfiansyah" },
+  { "id": "257", "matkul_id": "31", "class": "6-51", "name": "David Wungkana" },
+  { "id": "258", "matkul_id": "30", "class": "6-51", "name": "Suci Raharjo" },
+  { "id": "259", "matkul_id": "33", "class": "6-52", "name": "Amelia Sandra" },
+  { "id": "260", "matkul_id": "32", "class": "6-52", "name": "Zef Arfiansyah" },
+  { "id": "261", "matkul_id": "31", "class": "6-52", "name": "David Wungkana" },
+  {
+    "id": "262",
+    "matkul_id": "30",
+    "class": "6-52",
+    "name": "Wrenges Widyastuti"
+  },
+  {
+    "id": "263",
+    "matkul_id": "33",
+    "class": "6-53",
+    "name": "Manggiarto Dwi Sadono"
+  },
+  { "id": "264", "matkul_id": "32", "class": "6-53", "name": "Zef Arfiansyah" },
+  {
+    "id": "265",
+    "matkul_id": "31",
+    "class": "6-53",
+    "name": "Miftah Budi Setiawan"
+  },
+  { "id": "266", "matkul_id": "30", "class": "6-53", "name": "Sri Murwani" },
+  {
+    "id": "267",
+    "matkul_id": "33",
+    "class": "6-54",
+    "name": "Sigit Wahyu Kartiko"
+  },
+  { "id": "268", "matkul_id": "32", "class": "6-54", "name": "Tri Marhendra" },
+  {
+    "id": "269",
+    "matkul_id": "31",
+    "class": "6-54",
+    "name": "Reza Rizky Pratama"
+  },
+  { "id": "270", "matkul_id": "30", "class": "6-54", "name": "Trisulo" },
+  {
+    "id": "271",
+    "matkul_id": "33",
+    "class": "6-55",
+    "name": "Sigit Wahyu Kartiko"
+  },
+  {
+    "id": "272",
+    "matkul_id": "32",
+    "class": "6-55",
+    "name": "Kriesthian Widyantoro"
+  },
+  {
+    "id": "273",
+    "matkul_id": "31",
+    "class": "6-55",
+    "name": "Reza Rizky Pratama"
+  },
+  { "id": "274", "matkul_id": "30", "class": "6-55", "name": "Trisulo" },
+  { "id": "275", "matkul_id": "33", "class": "6-56", "name": "Cucu Pujasetia" },
+  {
+    "id": "276",
+    "matkul_id": "32",
+    "class": "6-56",
+    "name": "Kriesthian Widyantoro"
+  },
+  { "id": "277", "matkul_id": "31", "class": "6-56", "name": "Bentrastyadi" },
+  { "id": "278", "matkul_id": "30", "class": "6-56", "name": "Akhmad Solikin" },
+  { "id": "279", "matkul_id": "33", "class": "6-57", "name": "Akhmad Khabibi" },
+  { "id": "280", "matkul_id": "32", "class": "6-57", "name": "Tri Marhendra" },
+  { "id": "281", "matkul_id": "31", "class": "6-57", "name": "Bentrastyadi" },
+  {
+    "id": "282",
+    "matkul_id": "30",
+    "class": "6-57",
+    "name": "Indrayansyah Nur"
+  },
+  {
+    "id": "283",
+    "matkul_id": "33",
+    "class": "6-58",
+    "name": "Abdul Wahid Fajar Amin"
+  },
+  { "id": "284", "matkul_id": "32", "class": "6-58", "name": "Yusuf Istanto" },
+  { "id": "285", "matkul_id": "31", "class": "6-58", "name": "Andi Maulana" },
+  {
+    "id": "286",
+    "matkul_id": "30",
+    "class": "6-58",
+    "name": "Indrayansyah Nur"
+  },
+  {
+    "id": "287",
+    "matkul_id": "33",
+    "class": "6-59",
+    "name": "Abdul Wahid Fajar Amin"
+  },
+  { "id": "288", "matkul_id": "32", "class": "6-59", "name": "Yusuf Istanto" },
+  { "id": "289", "matkul_id": "31", "class": "6-59", "name": "Andi Maulana" },
+  {
+    "id": "290",
+    "matkul_id": "30",
+    "class": "6-59",
+    "name": "Indrayansyah Nur"
+  },
+  { "id": "291", "matkul_id": "1", "class": "4-01", "name": "Dian Handayani" },
+  {
+    "id": "292",
+    "matkul_id": "3",
+    "class": "4-01",
+    "name": "Rahayu Kusumawati"
+  },
+  { "id": "293", "matkul_id": "4", "class": "4-01", "name": "Nina Andriana" },
+  { "id": "294", "matkul_id": "6", "class": "4-01", "name": "Erny Arianty" },
+  { "id": "295", "matkul_id": "23", "class": "4-01", "name": "Akhmad Solikin" },
+  {
+    "id": "296",
+    "matkul_id": "24",
+    "class": "4-01",
+    "name": "Indri Riesfandiari"
+  },
+  {
+    "id": "297",
+    "matkul_id": "26",
+    "class": "4-01",
+    "name": "Resi Ariyasa Qadri"
+  },
+  { "id": "298", "matkul_id": "27", "class": "4-01", "name": "Abdul Ghoni" },
+  { "id": "299", "matkul_id": "25", "class": "4-01", "name": "Hari Sugiyanto" },
+  { "id": "300", "matkul_id": "28", "class": "4-01", "name": "Dani Ramdani" },
+  { "id": "301", "matkul_id": "29", "class": "4-01", "name": "Iskandar" },
+  { "id": "302", "matkul_id": "23", "class": "4-02", "name": "Akhmad Solikin" },
+  {
+    "id": "303",
+    "matkul_id": "24",
+    "class": "4-02",
+    "name": "Indri Riesfandiari"
+  },
+  {
+    "id": "304",
+    "matkul_id": "26",
+    "class": "4-02",
+    "name": "Lestari Kurniawati"
+  },
+  {
+    "id": "305",
+    "matkul_id": "27",
+    "class": "4-02",
+    "name": "Dita Rakhmadina"
+  },
+  { "id": "306", "matkul_id": "25", "class": "4-02", "name": "Hari Sugiyanto" },
+  { "id": "307", "matkul_id": "28", "class": "4-02", "name": "Dani Ramdani" },
+  { "id": "308", "matkul_id": "29", "class": "4-02", "name": "Iskandar" },
+  { "id": "309", "matkul_id": "23", "class": "4-03", "name": "Akhmad Solikin" },
+  { "id": "310", "matkul_id": "24", "class": "4-03", "name": "Rizqi Haniyah" },
+  {
+    "id": "311",
+    "matkul_id": "26",
+    "class": "4-03",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  {
+    "id": "312",
+    "matkul_id": "27",
+    "class": "4-03",
+    "name": "Lizal Feblianto"
+  },
+  { "id": "313", "matkul_id": "25", "class": "4-03", "name": "Hari Sugiyanto" },
+  {
+    "id": "314",
+    "matkul_id": "28",
+    "class": "4-03",
+    "name": "Agus Fredy Muthi'ul Wahab"
+  },
+  { "id": "315", "matkul_id": "29", "class": "4-03", "name": "Suprayitno" },
+  { "id": "316", "matkul_id": "23", "class": "4-04", "name": "Asqolani" },
+  { "id": "317", "matkul_id": "24", "class": "4-04", "name": "Rizqi Haniyah" },
+  { "id": "318", "matkul_id": "26", "class": "4-04", "name": "Muhtar Yahya" },
+  { "id": "319", "matkul_id": "27", "class": "4-04", "name": "Eko Purwanto" },
+  {
+    "id": "320",
+    "matkul_id": "25",
+    "class": "4-04",
+    "name": "Ria Dewi Ambarwati"
+  },
+  {
+    "id": "321",
+    "matkul_id": "28",
+    "class": "4-04",
+    "name": "Agus Fredy Muthi'ul Wahab"
+  },
+  { "id": "322", "matkul_id": "29", "class": "4-04", "name": "Suprayitno" },
+  { "id": "323", "matkul_id": "23", "class": "4-05", "name": "Asqolani" },
+  {
+    "id": "324",
+    "matkul_id": "24",
+    "class": "4-05",
+    "name": "Didik Kurniawan"
+  },
+  { "id": "325", "matkul_id": "26", "class": "4-05", "name": "Erny Arianty" },
+  { "id": "326", "matkul_id": "27", "class": "4-05", "name": "Rizqi Haniyah" },
+  {
+    "id": "327",
+    "matkul_id": "25",
+    "class": "4-05",
+    "name": "Yuniar Yanuar Rasyid"
+  },
+  {
+    "id": "328",
+    "matkul_id": "28",
+    "class": "4-05",
+    "name": "Hasanuddin Najib"
+  },
+  { "id": "329", "matkul_id": "29", "class": "4-05", "name": "Suprayitno" },
+  {
+    "id": "330",
+    "matkul_id": "23",
+    "class": "4-06",
+    "name": "I Gede Made Artha Dharmakarja"
+  },
+  {
+    "id": "331",
+    "matkul_id": "24",
+    "class": "4-06",
+    "name": "Didik Kurniawan"
+  },
+  { "id": "332", "matkul_id": "26", "class": "4-06", "name": "Erny Arianty" },
+  {
+    "id": "333",
+    "matkul_id": "27",
+    "class": "4-06",
+    "name": "Muhammad Rheza Ramadhan"
+  },
+  {
+    "id": "334",
+    "matkul_id": "25",
+    "class": "4-06",
+    "name": "Nur Aisyah Kustiani"
+  },
+  {
+    "id": "335",
+    "matkul_id": "28",
+    "class": "4-06",
+    "name": "Hasanuddin Najib"
+  },
+  { "id": "336", "matkul_id": "29", "class": "4-06", "name": "Suprayitno" },
+  {
+    "id": "337",
+    "matkul_id": "23",
+    "class": "4-07",
+    "name": "I Gede Made Artha Dharmakarja"
+  },
+  {
+    "id": "338",
+    "matkul_id": "24",
+    "class": "4-07",
+    "name": "Didik Kurniawan"
+  },
+  { "id": "339", "matkul_id": "26", "class": "4-07", "name": "Indra Asmadewa" },
+  {
+    "id": "340",
+    "matkul_id": "27",
+    "class": "4-07",
+    "name": "Septia Yudhi Nugraha"
+  },
+  {
+    "id": "341",
+    "matkul_id": "25",
+    "class": "4-07",
+    "name": "Nur Aisyah Kustiani"
+  },
+  { "id": "342", "matkul_id": "28", "class": "4-07", "name": "Mela Nurdialy" },
+  { "id": "343", "matkul_id": "29", "class": "4-07", "name": "Suprayitno" },
+  {
+    "id": "344",
+    "matkul_id": "23",
+    "class": "4-08",
+    "name": "Oscar Aries Dwina Aji Sayoga"
+  },
+  { "id": "345", "matkul_id": "24", "class": "4-08", "name": "Indra Asmadewa" },
+  {
+    "id": "346",
+    "matkul_id": "26",
+    "class": "4-08",
+    "name": "Raharjo Sugeng Utomo"
+  },
+  { "id": "347", "matkul_id": "27", "class": "4-08", "name": "Alfi Mufidah" },
+  { "id": "348", "matkul_id": "25", "class": "4-08", "name": "Mei Ling" },
+  { "id": "349", "matkul_id": "28", "class": "4-08", "name": "Mela Nurdialy" },
+  {
+    "id": "350",
+    "matkul_id": "29",
+    "class": "4-08",
+    "name": "Nurul Budi Utomo"
+  },
+  { "id": "351", "matkul_id": "23", "class": "4-09", "name": "Dian Handayani" },
+  { "id": "352", "matkul_id": "24", "class": "4-09", "name": "Indra Asmadewa" },
+  {
+    "id": "353",
+    "matkul_id": "26",
+    "class": "4-09",
+    "name": "Raharjo Sugeng Utomo"
+  },
+  {
+    "id": "354",
+    "matkul_id": "27",
+    "class": "4-09",
+    "name": "Aditya Agung Satrio"
+  },
+  {
+    "id": "355",
+    "matkul_id": "25",
+    "class": "4-09",
+    "name": "Ria Dewi Ambarwati"
+  },
+  {
+    "id": "356",
+    "matkul_id": "28",
+    "class": "4-09",
+    "name": "Muhammad Rheza Ramadhan"
+  },
+  {
+    "id": "357",
+    "matkul_id": "29",
+    "class": "4-09",
+    "name": "Nurul Budi Utomo"
+  },
+  { "id": "358", "matkul_id": "23", "class": "4-10", "name": "Dian Handayani" },
+  {
+    "id": "359",
+    "matkul_id": "24",
+    "class": "4-10",
+    "name": "Syanni Yustiani"
+  },
+  { "id": "360", "matkul_id": "26", "class": "4-10", "name": "Asep Supriatna" },
+  { "id": "361", "matkul_id": "27", "class": "4-10", "name": "Wing Hartopo" },
+  {
+    "id": "362",
+    "matkul_id": "25",
+    "class": "4-10",
+    "name": "Ria Dewi Ambarwati"
+  },
+  {
+    "id": "363",
+    "matkul_id": "28",
+    "class": "4-10",
+    "name": "Muhammad Rheza Ramadhan"
+  },
+  {
+    "id": "364",
+    "matkul_id": "29",
+    "class": "4-10",
+    "name": "Nurul Budi Utomo"
+  },
+  { "id": "365", "matkul_id": "23", "class": "4-11", "name": "Dian Handayani" },
+  { "id": "366", "matkul_id": "24", "class": "4-11", "name": "Luki Karunia" },
+  {
+    "id": "367",
+    "matkul_id": "26",
+    "class": "4-11",
+    "name": "Lestari Kurniawati"
+  },
+  {
+    "id": "368",
+    "matkul_id": "27",
+    "class": "4-11",
+    "name": "Syanni Yustiani"
+  },
+  {
+    "id": "369",
+    "matkul_id": "25",
+    "class": "4-11",
+    "name": "Ria Dewi Ambarwati"
+  },
+  { "id": "370", "matkul_id": "28", "class": "4-11", "name": "Aldi Pratama" },
+  {
+    "id": "371",
+    "matkul_id": "29",
+    "class": "4-11",
+    "name": "Andy Prasetiawan Hamzah"
+  },
+  { "id": "372", "matkul_id": "23", "class": "4-12", "name": "Retno Utari" },
+  {
+    "id": "373",
+    "matkul_id": "24",
+    "class": "4-12",
+    "name": "Syanni Yustiani"
+  },
+  { "id": "374", "matkul_id": "26", "class": "4-12", "name": "Asep Supriatna" },
+  {
+    "id": "375",
+    "matkul_id": "27",
+    "class": "4-12",
+    "name": "Ali Tafriji Biswan"
+  },
+  {
+    "id": "376",
+    "matkul_id": "25",
+    "class": "4-12",
+    "name": "Abdul Gani Dalimunthe"
+  },
+  { "id": "377", "matkul_id": "28", "class": "4-12", "name": "Aldi Pratama" },
+  {
+    "id": "378",
+    "matkul_id": "29",
+    "class": "4-12",
+    "name": "Andy Prasetiawan Hamzah"
+  },
+  { "id": "379", "matkul_id": "23", "class": "4-13", "name": "Retno Utari" },
+  { "id": "380", "matkul_id": "24", "class": "4-13", "name": "Mike Damayanti" },
+  {
+    "id": "381",
+    "matkul_id": "26",
+    "class": "4-13",
+    "name": "Rokhmat Taufiq Hidayat"
+  },
+  {
+    "id": "382",
+    "matkul_id": "27",
+    "class": "4-13",
+    "name": "Putri Nur Ayyini"
+  },
+  {
+    "id": "383",
+    "matkul_id": "25",
+    "class": "4-13",
+    "name": "Abdul Gani Dalimunthe"
+  },
+  { "id": "384", "matkul_id": "28", "class": "4-13", "name": "Edi Sugito" },
+  { "id": "385", "matkul_id": "29", "class": "4-13", "name": "Maryadi" },
+  { "id": "386", "matkul_id": "23", "class": "4-14", "name": "Bogy Ariyanto" },
+  { "id": "387", "matkul_id": "24", "class": "4-14", "name": "Mike Damayanti" },
+  {
+    "id": "388",
+    "matkul_id": "26",
+    "class": "4-14",
+    "name": "Beta Andri Anggiano Uliansyah"
+  },
+  {
+    "id": "389",
+    "matkul_id": "27",
+    "class": "4-14",
+    "name": "Amriza Nitra Wardani"
+  },
+  {
+    "id": "390",
+    "matkul_id": "25",
+    "class": "4-14",
+    "name": "Andy Prasetiawan Hamzah"
+  },
+  { "id": "391", "matkul_id": "28", "class": "4-14", "name": "Edi Sugito" },
+  { "id": "392", "matkul_id": "29", "class": "4-14", "name": "Maryadi" },
+  { "id": "393", "matkul_id": "23", "class": "4-15", "name": "Sukarno" },
+  {
+    "id": "394",
+    "matkul_id": "24",
+    "class": "4-15",
+    "name": "Ario Seno Nugroho"
+  },
+  {
+    "id": "395",
+    "matkul_id": "26",
+    "class": "4-15",
+    "name": "Ali Tafriji Biswan"
+  },
+  {
+    "id": "396",
+    "matkul_id": "27",
+    "class": "4-15",
+    "name": "Septia Yudhi Nugraha"
+  },
+  {
+    "id": "397",
+    "matkul_id": "25",
+    "class": "4-15",
+    "name": "Andy Prasetiawan Hamzah"
+  },
+  {
+    "id": "398",
+    "matkul_id": "28",
+    "class": "4-15",
+    "name": "Muhammad Hikmah"
+  },
+  { "id": "399", "matkul_id": "29", "class": "4-15", "name": "Maryadi" },
+  { "id": "400", "matkul_id": "23", "class": "4-16", "name": "Sukarno" },
+  {
+    "id": "401",
+    "matkul_id": "24",
+    "class": "4-16",
+    "name": "Ario Seno Nugroho"
+  },
+  {
+    "id": "402",
+    "matkul_id": "26",
+    "class": "4-16",
+    "name": "Lestari Kurniawati"
+  },
+  {
+    "id": "403",
+    "matkul_id": "27",
+    "class": "4-16",
+    "name": "Lulus Hery Triono"
+  },
+  {
+    "id": "404",
+    "matkul_id": "25",
+    "class": "4-16",
+    "name": "Andy Prasetiawan Hamzah"
+  },
+  {
+    "id": "405",
+    "matkul_id": "28",
+    "class": "4-16",
+    "name": "Muhammad Hikmah"
+  },
+  { "id": "406", "matkul_id": "29", "class": "4-16", "name": "Maryadi" },
+  { "id": "407", "matkul_id": "23", "class": "4-17", "name": "Fajar Yulianto" },
+  { "id": "408", "matkul_id": "24", "class": "4-17", "name": "Julius Ali" },
+  { "id": "409", "matkul_id": "26", "class": "4-17", "name": "Margono" },
+  {
+    "id": "410",
+    "matkul_id": "27",
+    "class": "4-17",
+    "name": "Putri Astrid Walagry Nusantara"
+  },
+  {
+    "id": "411",
+    "matkul_id": "25",
+    "class": "4-17",
+    "name": "Riya Dwi Handaka"
+  },
+  {
+    "id": "412",
+    "matkul_id": "28",
+    "class": "4-17",
+    "name": "Rindhaswari Laretna Sekarlarasati"
+  },
+  { "id": "413", "matkul_id": "29", "class": "4-17", "name": "Maryadi" },
+  { "id": "414", "matkul_id": "23", "class": "4-18", "name": "Fajar Yulianto" },
+  { "id": "415", "matkul_id": "24", "class": "4-18", "name": "Yeti Wulandari" },
+  { "id": "416", "matkul_id": "26", "class": "4-18", "name": "Margono" },
+  {
+    "id": "417",
+    "matkul_id": "27",
+    "class": "4-18",
+    "name": "Syanni Yustiani"
+  },
+  {
+    "id": "418",
+    "matkul_id": "25",
+    "class": "4-18",
+    "name": "Riya Dwi Handaka"
+  },
+  { "id": "419", "matkul_id": "28", "class": "4-18", "name": "Suharno" },
+  {
+    "id": "420",
+    "matkul_id": "29",
+    "class": "4-18",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  {
+    "id": "421",
+    "matkul_id": "23",
+    "class": "4-19",
+    "name": "Ari Gemini Parbinoto"
+  },
+  { "id": "422", "matkul_id": "24", "class": "4-19", "name": "Luki Karunia" },
+  { "id": "423", "matkul_id": "26", "class": "4-19", "name": "Puji Wibowo" },
+  { "id": "424", "matkul_id": "27", "class": "4-19", "name": "Wing Hartopo" },
+  {
+    "id": "425",
+    "matkul_id": "25",
+    "class": "4-19",
+    "name": "Riya Dwi Handaka"
+  },
+  { "id": "426", "matkul_id": "28", "class": "4-19", "name": "Suharno" },
+  {
+    "id": "427",
+    "matkul_id": "29",
+    "class": "4-19",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  { "id": "428", "matkul_id": "23", "class": "4-20", "name": "Tjahjo Winarto" },
+  { "id": "429", "matkul_id": "24", "class": "4-20", "name": "Kodirin" },
+  { "id": "430", "matkul_id": "26", "class": "4-20", "name": "Puji Wibowo" },
+  { "id": "431", "matkul_id": "27", "class": "4-20", "name": "Bagas Johantri" },
+  {
+    "id": "432",
+    "matkul_id": "25",
+    "class": "4-20",
+    "name": "Riya Dwi Handaka"
+  },
+  { "id": "433", "matkul_id": "28", "class": "4-20", "name": "Asqolani" },
+  { "id": "434", "matkul_id": "29", "class": "4-20", "name": "Marmah Hadi" },
+  { "id": "435", "matkul_id": "23", "class": "4-21", "name": "Tjahjo Winarto" },
+  { "id": "436", "matkul_id": "24", "class": "4-21", "name": "Kodirin" },
+  {
+    "id": "437",
+    "matkul_id": "26",
+    "class": "4-21",
+    "name": "Resi Ariyasa Qadri"
+  },
+  {
+    "id": "438",
+    "matkul_id": "27",
+    "class": "4-21",
+    "name": "Dita Rakhmadina"
+  },
+  { "id": "439", "matkul_id": "25", "class": "4-21", "name": "Puji Wibowo" },
+  { "id": "440", "matkul_id": "28", "class": "4-21", "name": "Asqolani" },
+  { "id": "441", "matkul_id": "29", "class": "4-21", "name": "Marmah Hadi" },
+  { "id": "442", "matkul_id": "23", "class": "4-22", "name": "Tjahjo Winarto" },
+  {
+    "id": "443",
+    "matkul_id": "24",
+    "class": "4-22",
+    "name": "Rahayu Kusumawati"
+  },
+  { "id": "444", "matkul_id": "26", "class": "4-22", "name": "Margono" },
+  {
+    "id": "445",
+    "matkul_id": "27",
+    "class": "4-22",
+    "name": "Elvira Andriyani"
+  },
+  { "id": "446", "matkul_id": "25", "class": "4-22", "name": "Puji Wibowo" },
+  { "id": "447", "matkul_id": "28", "class": "4-22", "name": "Asqolani" },
+  {
+    "id": "448",
+    "matkul_id": "29",
+    "class": "4-22",
+    "name": "Raditya Hendra Pratama"
+  },
+  { "id": "449", "matkul_id": "23", "class": "4-23", "name": "Joko Sustiyo" },
+  {
+    "id": "450",
+    "matkul_id": "24",
+    "class": "4-23",
+    "name": "Rahayu Kusumawati"
+  },
+  { "id": "451", "matkul_id": "26", "class": "4-23", "name": "Erny Arianty" },
+  {
+    "id": "452",
+    "matkul_id": "27",
+    "class": "4-23",
+    "name": "Putri Astrid Walagry Nusantara"
+  },
+  { "id": "453", "matkul_id": "25", "class": "4-23", "name": "Deni Herdiyana" },
+  { "id": "454", "matkul_id": "28", "class": "4-23", "name": "Sigit Rohmadi" },
+  {
+    "id": "455",
+    "matkul_id": "29",
+    "class": "4-23",
+    "name": "Raditya Hendra Pratama"
+  },
+  { "id": "456", "matkul_id": "23", "class": "4-24", "name": "Joko Sustiyo" },
+  {
+    "id": "457",
+    "matkul_id": "24",
+    "class": "4-24",
+    "name": "Rahayu Kusumawati"
+  },
+  {
+    "id": "458",
+    "matkul_id": "26",
+    "class": "4-24",
+    "name": "Arifah Fibri Andriani"
+  },
+  {
+    "id": "459",
+    "matkul_id": "27",
+    "class": "4-24",
+    "name": "Doni Pinda Supriyanto"
+  },
+  { "id": "460", "matkul_id": "25", "class": "4-24", "name": "Deni Herdiyana" },
+  { "id": "461", "matkul_id": "28", "class": "4-24", "name": "Sigit Rohmadi" },
+  {
+    "id": "462",
+    "matkul_id": "29",
+    "class": "4-24",
+    "name": "Raditya Hendra Pratama"
+  },
+  { "id": "463", "matkul_id": "23", "class": "4-25", "name": "Joko Sustiyo" },
+  {
+    "id": "464",
+    "matkul_id": "24",
+    "class": "4-25",
+    "name": "Fauzi Ismail Arif"
+  },
+  { "id": "465", "matkul_id": "26", "class": "4-25", "name": "Reskino" },
+  {
+    "id": "466",
+    "matkul_id": "27",
+    "class": "4-25",
+    "name": "Bayu Anggara Silvatika"
+  },
+  { "id": "467", "matkul_id": "25", "class": "4-25", "name": "Deni Herdiyana" },
+  {
+    "id": "468",
+    "matkul_id": "28",
+    "class": "4-25",
+    "name": "Sutan Parada Hutasoit"
+  },
+  { "id": "469", "matkul_id": "29", "class": "4-25", "name": "Soffan Marsus" },
+  {
+    "id": "470",
+    "matkul_id": "23",
+    "class": "4-26",
+    "name": "Yuniarto Hadiwibowo"
+  },
+  {
+    "id": "471",
+    "matkul_id": "24",
+    "class": "4-26",
+    "name": "Fauzi Ismail Arif"
+  },
+  { "id": "472", "matkul_id": "26", "class": "4-26", "name": "Maman Suhendra" },
+  {
+    "id": "473",
+    "matkul_id": "27",
+    "class": "4-26",
+    "name": "Mila Indriastuti"
+  },
+  { "id": "474", "matkul_id": "25", "class": "4-26", "name": "Azas Mabrur" },
+  { "id": "475", "matkul_id": "28", "class": "4-26", "name": "Teguh Sasmito" },
+  { "id": "476", "matkul_id": "29", "class": "4-26", "name": "Soffan Marsus" },
+  {
+    "id": "477",
+    "matkul_id": "23",
+    "class": "4-27",
+    "name": "Yuniarto Hadiwibowo"
+  },
+  {
+    "id": "478",
+    "matkul_id": "24",
+    "class": "4-27",
+    "name": "Achmad Saad Maulana"
+  },
+  { "id": "479", "matkul_id": "26", "class": "4-27", "name": "Ahmad Toha" },
+  {
+    "id": "480",
+    "matkul_id": "27",
+    "class": "4-27",
+    "name": "Doni Pinda Supriyanto"
+  },
+  { "id": "481", "matkul_id": "25", "class": "4-27", "name": "Azas Mabrur" },
+  { "id": "482", "matkul_id": "28", "class": "4-27", "name": "Teguh Sasmito" },
+  {
+    "id": "483",
+    "matkul_id": "29",
+    "class": "4-27",
+    "name": "Ikhsan Ainurrakhman"
+  },
+  {
+    "id": "484",
+    "matkul_id": "23",
+    "class": "4-28",
+    "name": "Yuniarto Hadiwibowo"
+  },
+  {
+    "id": "485",
+    "matkul_id": "24",
+    "class": "4-28",
+    "name": "Achmad Saad Maulana"
+  },
+  { "id": "486", "matkul_id": "26", "class": "4-28", "name": "Ahmad Toha" },
+  {
+    "id": "487",
+    "matkul_id": "27",
+    "class": "4-28",
+    "name": "Lulus Hery Triono"
+  },
+  {
+    "id": "488",
+    "matkul_id": "25",
+    "class": "4-28",
+    "name": "Untung Haryanto"
+  },
+  { "id": "489", "matkul_id": "28", "class": "4-28", "name": "Suparna Wijaya" },
+  {
+    "id": "490",
+    "matkul_id": "29",
+    "class": "4-28",
+    "name": "Khamami Herusantoso"
+  },
+  {
+    "id": "491",
+    "matkul_id": "23",
+    "class": "4-29",
+    "name": "Yuniarto Hadiwibowo"
+  },
+  {
+    "id": "492",
+    "matkul_id": "24",
+    "class": "4-29",
+    "name": "Syanni Yustiani"
+  },
+  {
+    "id": "493",
+    "matkul_id": "26",
+    "class": "4-29",
+    "name": "Moh. Luthfi Mahrus"
+  },
+  { "id": "494", "matkul_id": "27", "class": "4-29", "name": "Totoh Tholhah" },
+  {
+    "id": "495",
+    "matkul_id": "25",
+    "class": "4-29",
+    "name": "Untung Haryanto"
+  },
+  { "id": "496", "matkul_id": "28", "class": "4-29", "name": "Asrul Hidayat" },
+  {
+    "id": "497",
+    "matkul_id": "29",
+    "class": "4-29",
+    "name": "Khamami Herusantoso"
+  },
+  { "id": "498", "matkul_id": "23", "class": "4-30", "name": "Palupi Fajrin" },
+  { "id": "499", "matkul_id": "24", "class": "4-30", "name": "Nina Andriana" },
+  { "id": "500", "matkul_id": "26", "class": "4-30", "name": "Zef Arfiansyah" },
+  { "id": "501", "matkul_id": "27", "class": "4-30", "name": "Lidiyawati" },
+  { "id": "502", "matkul_id": "25", "class": "4-30", "name": "Joni Affandi" },
+  {
+    "id": "503",
+    "matkul_id": "28",
+    "class": "4-30",
+    "name": "Rindhaswari Laretna Sekarlarasati"
+  },
+  {
+    "id": "504",
+    "matkul_id": "29",
+    "class": "4-30",
+    "name": "Kresia Ramadanty"
+  },
+  {
+    "id": "505",
+    "matkul_id": "23",
+    "class": "4-31",
+    "name": "Eko Nur Surachman"
+  },
+  { "id": "506", "matkul_id": "24", "class": "4-31", "name": "Nina Andriana" },
+  { "id": "507", "matkul_id": "26", "class": "4-31", "name": "Sri Yanto" },
+  {
+    "id": "508",
+    "matkul_id": "27",
+    "class": "4-31",
+    "name": "Danik Damaryanti"
+  },
+  { "id": "509", "matkul_id": "25", "class": "4-31", "name": "Miftahul Hadi" },
+  { "id": "510", "matkul_id": "28", "class": "4-31", "name": "Hadi Setiawan" },
+  {
+    "id": "511",
+    "matkul_id": "29",
+    "class": "4-31",
+    "name": "Kresia Ramadanty"
+  },
+  {
+    "id": "512",
+    "matkul_id": "23",
+    "class": "4-32",
+    "name": "Eko Nur Surachman"
+  },
+  { "id": "513", "matkul_id": "24", "class": "4-32", "name": "Nina Andriana" },
+  {
+    "id": "514",
+    "matkul_id": "26",
+    "class": "4-32",
+    "name": "Nur Aisyah Kustiani"
+  },
+  {
+    "id": "515",
+    "matkul_id": "27",
+    "class": "4-32",
+    "name": "Muhammad Hafizh Ridha"
+  },
+  { "id": "516", "matkul_id": "25", "class": "4-32", "name": "Miftahul Hadi" },
+  { "id": "517", "matkul_id": "28", "class": "4-32", "name": "Hadi Setiawan" },
+  {
+    "id": "518",
+    "matkul_id": "29",
+    "class": "4-32",
+    "name": "Beny Iswaril Sirat"
+  },
+  {
+    "id": "519",
+    "matkul_id": "23",
+    "class": "4-33",
+    "name": "Eko Nur Surachman"
+  },
+  {
+    "id": "520",
+    "matkul_id": "24",
+    "class": "4-33",
+    "name": "Mohammad Windu Darmawan"
+  },
+  { "id": "521", "matkul_id": "26", "class": "4-33", "name": "Sri Yanto" },
+  { "id": "522", "matkul_id": "27", "class": "4-33", "name": "Eko Purwanto" },
+  { "id": "523", "matkul_id": "25", "class": "4-33", "name": "Miftahul Hadi" },
+  { "id": "524", "matkul_id": "28", "class": "4-33", "name": "Budi Prasetyo" },
+  {
+    "id": "525",
+    "matkul_id": "29",
+    "class": "4-33",
+    "name": "Beny Iswaril Sirat"
+  },
+  { "id": "526", "matkul_id": "23", "class": "4-34", "name": "Hari Sugiyanto" },
+  {
+    "id": "527",
+    "matkul_id": "24",
+    "class": "4-34",
+    "name": "Mohammad Windu Darmawan"
+  },
+  { "id": "528", "matkul_id": "26", "class": "4-34", "name": "Randy Kuswanto" },
+  { "id": "529", "matkul_id": "27", "class": "4-34", "name": "Rizqi Haniyah" },
+  {
+    "id": "530",
+    "matkul_id": "25",
+    "class": "4-34",
+    "name": "Januarti Tiurmaida"
+  },
+  { "id": "531", "matkul_id": "28", "class": "4-34", "name": "Budi Prasetyo" },
+  {
+    "id": "532",
+    "matkul_id": "29",
+    "class": "4-34",
+    "name": "Achmad Fauzan Sirat"
+  },
+  { "id": "533", "matkul_id": "23", "class": "4-35", "name": "Hari Sugiyanto" },
+  { "id": "534", "matkul_id": "24", "class": "4-35", "name": "Arief Ismail" },
+  {
+    "id": "535",
+    "matkul_id": "26",
+    "class": "4-35",
+    "name": "Nur Aisyah Kustiani"
+  },
+  {
+    "id": "536",
+    "matkul_id": "27",
+    "class": "4-35",
+    "name": "Lizal Feblianto"
+  },
+  {
+    "id": "537",
+    "matkul_id": "25",
+    "class": "4-35",
+    "name": "Januarti Tiurmaida"
+  },
+  {
+    "id": "538",
+    "matkul_id": "28",
+    "class": "4-35",
+    "name": "Timbul P. Siahaan"
+  },
+  {
+    "id": "539",
+    "matkul_id": "29",
+    "class": "4-35",
+    "name": "Achmad Fauzan Sirat"
+  },
+  {
+    "id": "540",
+    "matkul_id": "23",
+    "class": "4-36",
+    "name": "Resi Ariyasa Qadri"
+  },
+  { "id": "541", "matkul_id": "24", "class": "4-36", "name": "Arief Ismail" },
+  { "id": "542", "matkul_id": "26", "class": "4-36", "name": "Randy Kuswanto" },
+  {
+    "id": "543",
+    "matkul_id": "27",
+    "class": "4-36",
+    "name": "Muhammad Hafizh Ridha"
+  },
+  {
+    "id": "544",
+    "matkul_id": "25",
+    "class": "4-36",
+    "name": "Wahyu Eko Asmoro"
+  },
+  {
+    "id": "545",
+    "matkul_id": "28",
+    "class": "4-36",
+    "name": "Timbul P. Siahaan"
+  },
+  {
+    "id": "546",
+    "matkul_id": "29",
+    "class": "4-36",
+    "name": "Ferry Taufik Saleh"
+  },
+  {
+    "id": "547",
+    "matkul_id": "23",
+    "class": "4-37",
+    "name": "Ari Gemini Parbinoto"
+  },
+  { "id": "548", "matkul_id": "24", "class": "4-37", "name": "Budi Setiawan" },
+  {
+    "id": "549",
+    "matkul_id": "26",
+    "class": "4-37",
+    "name": "Resi Ariyasa Qadri"
+  },
+  {
+    "id": "550",
+    "matkul_id": "27",
+    "class": "4-37",
+    "name": "Octavian Abrianto"
+  },
+  {
+    "id": "551",
+    "matkul_id": "25",
+    "class": "4-37",
+    "name": "Wahyu Eko Asmoro"
+  },
+  { "id": "552", "matkul_id": "28", "class": "4-37", "name": "Suparna Wijaya" },
+  {
+    "id": "553",
+    "matkul_id": "29",
+    "class": "4-37",
+    "name": "Ferry Taufik Saleh"
+  },
+  { "id": "554", "matkul_id": "23", "class": "4-38", "name": "Dian Handayani" },
+  { "id": "555", "matkul_id": "24", "class": "4-38", "name": "Budi Setiawan" },
+  { "id": "556", "matkul_id": "26", "class": "4-38", "name": "Maman Suhendra" },
+  { "id": "557", "matkul_id": "27", "class": "4-38", "name": "Lidiyawati" },
+  {
+    "id": "558",
+    "matkul_id": "25",
+    "class": "4-38",
+    "name": "Mauritz Cristianus Raharjo Meta"
+  },
+  { "id": "559", "matkul_id": "28", "class": "4-38", "name": "Soni Samiono" },
+  {
+    "id": "560",
+    "matkul_id": "29",
+    "class": "4-38",
+    "name": "Muhammad Shadiq Khairi"
+  },
+  {
+    "id": "561",
+    "matkul_id": "23",
+    "class": "4-39",
+    "name": "Ajik Purnomoputro"
+  },
+  {
+    "id": "562",
+    "matkul_id": "24",
+    "class": "4-39",
+    "name": "Nanang Prasetyo Ernawan"
+  },
+  {
+    "id": "563",
+    "matkul_id": "26",
+    "class": "4-39",
+    "name": "Arifah Fibri Andriani"
+  },
+  {
+    "id": "564",
+    "matkul_id": "27",
+    "class": "4-39",
+    "name": "Achmad Saad Maulana"
+  },
+  {
+    "id": "565",
+    "matkul_id": "25",
+    "class": "4-39",
+    "name": "Mauritz Cristianus Raharjo Meta"
+  },
+  { "id": "566", "matkul_id": "28", "class": "4-39", "name": "Rieza Zainal" },
+  {
+    "id": "567",
+    "matkul_id": "29",
+    "class": "4-39",
+    "name": "Muhammad Shadiq Khairi"
+  },
+  {
+    "id": "568",
+    "matkul_id": "23",
+    "class": "4-40",
+    "name": "Ajik Purnomoputro"
+  },
+  {
+    "id": "569",
+    "matkul_id": "24",
+    "class": "4-40",
+    "name": "Nanang Prasetyo Ernawan"
+  },
+  {
+    "id": "570",
+    "matkul_id": "26",
+    "class": "4-40",
+    "name": "Zizin Pusmawati"
+  },
+  {
+    "id": "571",
+    "matkul_id": "27",
+    "class": "4-40",
+    "name": "Amriza Nitra Wardani"
+  },
+  {
+    "id": "572",
+    "matkul_id": "25",
+    "class": "4-40",
+    "name": "Ria Dewi Ambarwati"
+  },
+  { "id": "573", "matkul_id": "28", "class": "4-40", "name": "Rieza Zainal" },
+  {
+    "id": "574",
+    "matkul_id": "29",
+    "class": "4-40",
+    "name": "Widhayat Rudhi Windarta"
+  },
+  { "id": "575", "matkul_id": "23", "class": "4-41", "name": "Muh Nurkhamid" },
+  { "id": "576", "matkul_id": "24", "class": "4-41", "name": "Nina Andriana" },
+  { "id": "577", "matkul_id": "26", "class": "4-41", "name": "Rachma Aprilia" },
+  {
+    "id": "578",
+    "matkul_id": "27",
+    "class": "4-41",
+    "name": "Bayu Anggara Silvatika"
+  },
+  { "id": "579", "matkul_id": "25", "class": "4-41", "name": "Sumini" },
+  { "id": "580", "matkul_id": "28", "class": "4-41", "name": "Marsono" },
+  {
+    "id": "581",
+    "matkul_id": "29",
+    "class": "4-41",
+    "name": "Ikhsan Ainurrakhman"
+  },
+  { "id": "582", "matkul_id": "23", "class": "4-42", "name": "Muh Nurkhamid" },
+  { "id": "583", "matkul_id": "24", "class": "4-42", "name": "Rachma Aprilia" },
+  {
+    "id": "584",
+    "matkul_id": "26",
+    "class": "4-42",
+    "name": "Prayudi Nugroho"
+  },
+  {
+    "id": "585",
+    "matkul_id": "27",
+    "class": "4-42",
+    "name": "Mila Indriastuti"
+  },
+  { "id": "586", "matkul_id": "25", "class": "4-42", "name": "Sumini" },
+  { "id": "587", "matkul_id": "28", "class": "4-42", "name": "Marsono" },
+  { "id": "588", "matkul_id": "29", "class": "4-42", "name": "Nadief Kaelani" },
+  { "id": "589", "matkul_id": "23", "class": "4-43", "name": "Raynal Yasni" },
+  { "id": "590", "matkul_id": "24", "class": "4-43", "name": "Rachma Aprilia" },
+  {
+    "id": "591",
+    "matkul_id": "26",
+    "class": "4-43",
+    "name": "Prayudi Nugroho"
+  },
+  { "id": "592", "matkul_id": "27", "class": "4-43", "name": "Totoh Tholhah" },
+  {
+    "id": "593",
+    "matkul_id": "25",
+    "class": "4-43",
+    "name": "Akhmad Priharjanto"
+  },
+  { "id": "594", "matkul_id": "28", "class": "4-43", "name": "Marsono" },
+  { "id": "595", "matkul_id": "29", "class": "4-43", "name": "Nadief Kaelani" },
+  { "id": "596", "matkul_id": "23", "class": "4-44", "name": "Raynal Yasni" },
+  { "id": "597", "matkul_id": "24", "class": "4-44", "name": "Azas Mabrur" },
+  {
+    "id": "598",
+    "matkul_id": "26",
+    "class": "4-44",
+    "name": "Arifah Fibri Andriani"
+  },
+  {
+    "id": "599",
+    "matkul_id": "27",
+    "class": "4-44",
+    "name": "Mila Indriastuti"
+  },
+  {
+    "id": "600",
+    "matkul_id": "25",
+    "class": "4-44",
+    "name": "Akhmad Priharjanto"
+  },
+  {
+    "id": "601",
+    "matkul_id": "28",
+    "class": "4-44",
+    "name": "Sigit Argo Hananto"
+  },
+  {
+    "id": "602",
+    "matkul_id": "29",
+    "class": "4-44",
+    "name": "Widhayat Rudhi Windarta"
+  },
+  { "id": "603", "matkul_id": "23", "class": "4-45", "name": "Raynal Yasni" },
+  { "id": "604", "matkul_id": "24", "class": "4-45", "name": "Azas Mabrur" },
+  { "id": "605", "matkul_id": "26", "class": "4-45", "name": "Reskino" },
+  {
+    "id": "606",
+    "matkul_id": "27",
+    "class": "4-45",
+    "name": "Moh. Luthfi Mahrus"
+  },
+  {
+    "id": "607",
+    "matkul_id": "25",
+    "class": "4-45",
+    "name": "Akhmad Priharjanto"
+  },
+  {
+    "id": "608",
+    "matkul_id": "28",
+    "class": "4-45",
+    "name": "Sigit Argo Hananto"
+  },
+  {
+    "id": "609",
+    "matkul_id": "29",
+    "class": "4-45",
+    "name": "Eko Nur Surachman"
+  },
+  {
+    "id": "610",
+    "matkul_id": "23",
+    "class": "4-46",
+    "name": "Rahayu Kusumawati"
+  },
+  { "id": "611", "matkul_id": "24", "class": "4-46", "name": "Azas Mabrur" },
+  {
+    "id": "612",
+    "matkul_id": "26",
+    "class": "4-46",
+    "name": "Zizin Pusmawati"
+  },
+  {
+    "id": "613",
+    "matkul_id": "27",
+    "class": "4-46",
+    "name": "Danik Damaryanti"
+  },
+  {
+    "id": "614",
+    "matkul_id": "25",
+    "class": "4-46",
+    "name": "Santy Putri Dewi"
+  },
+  { "id": "615", "matkul_id": "28", "class": "4-46", "name": "Soni Samiono" },
+  {
+    "id": "616",
+    "matkul_id": "29",
+    "class": "4-46",
+    "name": "Eko Nur Surachman"
+  },
+  {
+    "id": "617",
+    "matkul_id": "23",
+    "class": "4-47",
+    "name": "Rahayu Kusumawati"
+  },
+  {
+    "id": "618",
+    "matkul_id": "24",
+    "class": "4-47",
+    "name": "Setyawan Dwi Antoro"
+  },
+  { "id": "619", "matkul_id": "26", "class": "4-47", "name": "Akhmad Khabibi" },
+  { "id": "620", "matkul_id": "27", "class": "4-47", "name": "Eko Purwanto" },
+  {
+    "id": "621",
+    "matkul_id": "25",
+    "class": "4-47",
+    "name": "Santy Putri Dewi"
+  },
+  { "id": "622", "matkul_id": "28", "class": "4-47", "name": "Joko Sustiyo" },
+  { "id": "623", "matkul_id": "29", "class": "4-47", "name": "Agung Nugroho" },
+  {
+    "id": "624",
+    "matkul_id": "23",
+    "class": "4-48",
+    "name": "Agung Dinarjito"
+  },
+  {
+    "id": "625",
+    "matkul_id": "24",
+    "class": "4-48",
+    "name": "Setyawan Dwi Antoro"
+  },
+  { "id": "626", "matkul_id": "26", "class": "4-48", "name": "Akhmad Khabibi" },
+  { "id": "627", "matkul_id": "27", "class": "4-48", "name": "Rizqi Haniyah" },
+  {
+    "id": "628",
+    "matkul_id": "25",
+    "class": "4-48",
+    "name": "Ali Tafriji Biswan"
+  },
+  { "id": "629", "matkul_id": "28", "class": "4-48", "name": "Joko Sustiyo" },
+  { "id": "630", "matkul_id": "29", "class": "4-48", "name": "Agung Nugroho" },
+  {
+    "id": "631",
+    "matkul_id": "18",
+    "class": "2-01",
+    "name": "Rini Adiati Ekoputranti"
+  },
+  { "id": "632", "matkul_id": "16", "class": "2-01", "name": "Susi Purwati" },
+  { "id": "633", "matkul_id": "21", "class": "2-01", "name": "Kusmono" },
+  { "id": "634", "matkul_id": "15", "class": "2-01", "name": "Sakti Prabowo" },
+  {
+    "id": "635",
+    "matkul_id": "22",
+    "class": "2-01",
+    "name": "Raditya Hendra Pratama"
+  },
+  {
+    "id": "636",
+    "matkul_id": "20",
+    "class": "2-01",
+    "name": "Riya Dwi Handaka"
+  },
+  { "id": "637", "matkul_id": "17", "class": "2-01", "name": "Trisulo" },
+  {
+    "id": "638",
+    "matkul_id": "14",
+    "class": "2-01",
+    "name": "Arifah Fibri Andriani"
+  },
+  {
+    "id": "639",
+    "matkul_id": "19",
+    "class": "2-01",
+    "name": "I Gede Made Artha Dharmakarja"
+  },
+  {
+    "id": "640",
+    "matkul_id": "34",
+    "class": "6-01",
+    "name": "Acwin Hendra Saputra"
+  },
+  { "id": "641", "matkul_id": "35", "class": "6-01", "name": "Budi Mulyana" },
+  {
+    "id": "642",
+    "matkul_id": "39",
+    "class": "6-01",
+    "name": "Muhammad Heru Akhmadi"
+  },
+  {
+    "id": "643",
+    "matkul_id": "37",
+    "class": "6-01",
+    "name": "Agus Sunarya Sulaeman"
+  },
+  { "id": "644", "matkul_id": "38", "class": "6-01", "name": "Yanuar Pribadi" },
+  { "id": "645", "matkul_id": "36", "class": "6-01", "name": "Santorry" },
+  {
+    "id": "646",
+    "matkul_id": "40",
+    "class": "4-11",
+    "name": "Acwin Hendra Saputra"
+  },
+  { "id": "647", "matkul_id": "41", "class": "4-11", "name": "Joko Sumantri" },
+  {
+    "id": "648",
+    "matkul_id": "44",
+    "class": "4-11",
+    "name": "Muhammad Syahrul Fuady"
+  },
+  {
+    "id": "649",
+    "matkul_id": "48",
+    "class": "4-11",
+    "name": "Beta Andri Anggiano Uliansyah"
+  },
+  {
+    "id": "650",
+    "matkul_id": "55",
+    "class": "4-01",
+    "name": "Rido Parulian Panjaitan"
+  },
+  {
+    "id": "651",
+    "matkul_id": "51",
+    "class": "4-01",
+    "name": "Rynalto Mukiwihando"
+  },
+  { "id": "652", "matkul_id": "50", "class": "4-01", "name": "Ambarwati" },
+  { "id": "653", "matkul_id": "49", "class": "4-01", "name": "Yanuar Pribadi" },
+  {
+    "id": "654",
+    "matkul_id": "52",
+    "class": "4-01",
+    "name": "Muhammad Heru Akhmadi"
+  },
+  { "id": "655", "matkul_id": "56", "class": "4-01", "name": "Joko Sumantri" },
+  { "id": "656", "matkul_id": "53", "class": "4-01", "name": "Budi Waluyo" },
+  { "id": "657", "matkul_id": "54", "class": "4-01", "name": "Santorry" },
+  {
+    "id": "658",
+    "matkul_id": "55",
+    "class": "4-02",
+    "name": "Rido Parulian Panjaitan"
+  },
+  {
+    "id": "659",
+    "matkul_id": "51",
+    "class": "4-02",
+    "name": "Rynalto Mukiwihando"
+  },
+  { "id": "660", "matkul_id": "50", "class": "4-02", "name": "Ambarwati" },
+  { "id": "661", "matkul_id": "49", "class": "4-02", "name": "Yanuar Pribadi" },
+  {
+    "id": "662",
+    "matkul_id": "52",
+    "class": "4-02",
+    "name": "Muhammad Heru Akhmadi"
+  },
+  {
+    "id": "663",
+    "matkul_id": "56",
+    "class": "4-02",
+    "name": "Muhammad Syahrul Fuady"
+  },
+  { "id": "664", "matkul_id": "53", "class": "4-02", "name": "Dani Sugiri" },
+  { "id": "665", "matkul_id": "54", "class": "4-02", "name": "Santorry" },
+  {
+    "id": "666",
+    "matkul_id": "55",
+    "class": "4-03",
+    "name": "Rido Parulian Panjaitan"
+  },
+  { "id": "667", "matkul_id": "51", "class": "4-03", "name": "Budi Mulyana" },
+  { "id": "668", "matkul_id": "50", "class": "4-03", "name": "Joko Sumantri" },
+  { "id": "669", "matkul_id": "49", "class": "4-03", "name": "Yanuar Pribadi" },
+  {
+    "id": "670",
+    "matkul_id": "52",
+    "class": "4-03",
+    "name": "Muhammad Agus Muljanto"
+  },
+  {
+    "id": "671",
+    "matkul_id": "56",
+    "class": "4-03",
+    "name": "Satria Adhitama"
+  },
+  { "id": "672", "matkul_id": "53", "class": "4-03", "name": "Budi Waluyo" },
+  { "id": "673", "matkul_id": "54", "class": "4-03", "name": "Handojo Wibowo" },
+  {
+    "id": "674",
+    "matkul_id": "55",
+    "class": "4-04",
+    "name": "Masruri Muchtar"
+  },
+  { "id": "675", "matkul_id": "51", "class": "4-04", "name": "Budi Waluyo" },
+  { "id": "676", "matkul_id": "50", "class": "4-04", "name": "Joko Sumantri" },
+  { "id": "677", "matkul_id": "49", "class": "4-04", "name": "Yanuar Pribadi" },
+  {
+    "id": "678",
+    "matkul_id": "52",
+    "class": "4-04",
+    "name": "Muhammad Agus Muljanto"
+  },
+  {
+    "id": "679",
+    "matkul_id": "56",
+    "class": "4-04",
+    "name": "Muhammad Syahrul Fuady"
+  },
+  {
+    "id": "680",
+    "matkul_id": "53",
+    "class": "4-04",
+    "name": "Irwan Suliantoro"
+  },
+  { "id": "681", "matkul_id": "54", "class": "4-04", "name": "Handojo Wibowo" },
+  {
+    "id": "682",
+    "matkul_id": "55",
+    "class": "4-05",
+    "name": "Satria Hadi Lubis"
+  },
+  { "id": "683", "matkul_id": "51", "class": "4-05", "name": "Budi Waluyo" },
+  { "id": "684", "matkul_id": "50", "class": "4-05", "name": "Agni Indriani" },
+  {
+    "id": "685",
+    "matkul_id": "49",
+    "class": "4-05",
+    "name": "I Gede Agus Ariutama"
+  },
+  {
+    "id": "686",
+    "matkul_id": "52",
+    "class": "4-05",
+    "name": "Agus Sunarya Sulaeman"
+  },
+  { "id": "687", "matkul_id": "56", "class": "4-05", "name": "Joko Sumantri" },
+  { "id": "688", "matkul_id": "53", "class": "4-05", "name": "Dani Sugiri" },
+  { "id": "689", "matkul_id": "54", "class": "4-05", "name": "Handojo Wibowo" },
+  {
+    "id": "690",
+    "matkul_id": "55",
+    "class": "4-06",
+    "name": "Muhammad Heru Akhmadi"
+  },
+  { "id": "691", "matkul_id": "51", "class": "4-06", "name": "Budi Waluyo" },
+  { "id": "692", "matkul_id": "50", "class": "4-06", "name": "Agni Indriani" },
+  {
+    "id": "693",
+    "matkul_id": "49",
+    "class": "4-06",
+    "name": "I Gede Agus Ariutama"
+  },
+  {
+    "id": "694",
+    "matkul_id": "52",
+    "class": "4-06",
+    "name": "Agus Sunarya Sulaeman"
+  },
+  {
+    "id": "695",
+    "matkul_id": "56",
+    "class": "4-06",
+    "name": "Satria Adhitama"
+  },
+  {
+    "id": "696",
+    "matkul_id": "53",
+    "class": "4-06",
+    "name": "Wurjanto Nopijantoro"
+  },
+  {
+    "id": "697",
+    "matkul_id": "54",
+    "class": "4-06",
+    "name": "Wirawan Setiadji"
+  },
+  {
+    "id": "698",
+    "matkul_id": "55",
+    "class": "4-07",
+    "name": "Rido Parulian Panjaitan"
+  },
+  {
+    "id": "699",
+    "matkul_id": "51",
+    "class": "4-07",
+    "name": "I Gede Agus Ariutama"
+  },
+  { "id": "700", "matkul_id": "50", "class": "4-07", "name": "Agni Indriani" },
+  {
+    "id": "701",
+    "matkul_id": "49",
+    "class": "4-07",
+    "name": "Acwin Hendra Saputra"
+  },
+  { "id": "702", "matkul_id": "52", "class": "4-07", "name": "Imam Subroto" },
+  { "id": "703", "matkul_id": "56", "class": "4-07", "name": "Renny Sukmono" },
+  { "id": "704", "matkul_id": "53", "class": "4-07", "name": "Dani Sugiri" },
+  {
+    "id": "705",
+    "matkul_id": "54",
+    "class": "4-07",
+    "name": "Wirawan Setiadji"
+  },
+  {
+    "id": "706",
+    "matkul_id": "55",
+    "class": "4-08",
+    "name": "Aditya Subur Purwana"
+  },
+  {
+    "id": "707",
+    "matkul_id": "51",
+    "class": "4-08",
+    "name": "I Gede Agus Ariutama"
+  },
+  {
+    "id": "708",
+    "matkul_id": "50",
+    "class": "4-08",
+    "name": "Agung Budilaksono"
+  },
+  { "id": "709", "matkul_id": "49", "class": "4-08", "name": "Andi Kurniawan" },
+  { "id": "710", "matkul_id": "52", "class": "4-08", "name": "Imam Subroto" },
+  { "id": "711", "matkul_id": "56", "class": "4-08", "name": "Renny Sukmono" },
+  {
+    "id": "712",
+    "matkul_id": "53",
+    "class": "4-08",
+    "name": "Rido Parulian Panjaitan"
+  },
+  {
+    "id": "713",
+    "matkul_id": "54",
+    "class": "4-08",
+    "name": "Irwan Suliantoro"
+  },
+  {
+    "id": "714",
+    "matkul_id": "55",
+    "class": "4-09",
+    "name": "Aditya Subur Purwana"
+  },
+  {
+    "id": "715",
+    "matkul_id": "51",
+    "class": "4-09",
+    "name": "Acwin Hendra Saputra"
+  },
+  {
+    "id": "716",
+    "matkul_id": "50",
+    "class": "4-09",
+    "name": "Agung Budilaksono"
+  },
+  { "id": "717", "matkul_id": "49", "class": "4-09", "name": "Andi Kurniawan" },
+  {
+    "id": "718",
+    "matkul_id": "52",
+    "class": "4-09",
+    "name": "Satria Adhitama"
+  },
+  { "id": "719", "matkul_id": "56", "class": "4-09", "name": "Sriyani" },
+  {
+    "id": "720",
+    "matkul_id": "53",
+    "class": "4-09",
+    "name": "Rido Parulian Panjaitan"
+  },
+  { "id": "721", "matkul_id": "54", "class": "4-09", "name": "Freddy Apriady" },
+  {
+    "id": "722",
+    "matkul_id": "55",
+    "class": "4-10",
+    "name": "Aditya Subur Purwana"
+  },
+  {
+    "id": "723",
+    "matkul_id": "51",
+    "class": "4-10",
+    "name": "Acwin Hendra Saputra"
+  },
+  {
+    "id": "724",
+    "matkul_id": "50",
+    "class": "4-10",
+    "name": "Masruri Muchtar"
+  },
+  { "id": "725", "matkul_id": "49", "class": "4-10", "name": "Andi Kurniawan" },
+  {
+    "id": "726",
+    "matkul_id": "52",
+    "class": "4-10",
+    "name": "Satria Adhitama"
+  },
+  { "id": "727", "matkul_id": "56", "class": "4-10", "name": "Sriyani" },
+  {
+    "id": "728",
+    "matkul_id": "53",
+    "class": "4-10",
+    "name": "Wurjanto Nopijantoro"
+  },
+  { "id": "729", "matkul_id": "54", "class": "4-10", "name": "Freddy Apriady" },
+  { "id": "730", "matkul_id": "60", "class": "6-01", "name": "Yasid Sulistya" },
+  { "id": "731", "matkul_id": "58", "class": "6-01", "name": "Budi Mulyana" },
+  {
+    "id": "732",
+    "matkul_id": "59",
+    "class": "6-01",
+    "name": "Wurjanto Nopijantoro"
+  },
+  { "id": "733", "matkul_id": "57", "class": "6-01", "name": "Renny Sukmono" },
+  { "id": "734", "matkul_id": "60", "class": "6-02", "name": "Yasid Sulistya" },
+  { "id": "735", "matkul_id": "58", "class": "6-02", "name": "Budi Mulyana" },
+  {
+    "id": "736",
+    "matkul_id": "59",
+    "class": "6-02",
+    "name": "Wurjanto Nopijantoro"
+  },
+  { "id": "737", "matkul_id": "57", "class": "6-02", "name": "Renny Sukmono" },
+  { "id": "738", "matkul_id": "60", "class": "6-03", "name": "Yasid Sulistya" },
+  { "id": "739", "matkul_id": "58", "class": "6-03", "name": "Budi Mulyana" },
+  { "id": "740", "matkul_id": "59", "class": "6-03", "name": "Santorry" },
+  {
+    "id": "741",
+    "matkul_id": "57",
+    "class": "6-03",
+    "name": "Eva Sulastri Manalu"
+  },
+  {
+    "id": "742",
+    "matkul_id": "60",
+    "class": "6-04",
+    "name": "Mega Dwi Sartika"
+  },
+  { "id": "743", "matkul_id": "58", "class": "6-04", "name": "Dani Sugiri" },
+  { "id": "744", "matkul_id": "59", "class": "6-04", "name": "Santorry" },
+  {
+    "id": "745",
+    "matkul_id": "57",
+    "class": "6-04",
+    "name": "Eva Sulastri Manalu"
+  },
+  {
+    "id": "746",
+    "matkul_id": "60",
+    "class": "6-05",
+    "name": "Mega Dwi Sartika"
+  },
+  { "id": "747", "matkul_id": "58", "class": "6-05", "name": "Dani Sugiri" },
+  { "id": "748", "matkul_id": "59", "class": "6-05", "name": "Santorry" },
+  {
+    "id": "749",
+    "matkul_id": "57",
+    "class": "6-05",
+    "name": "Muhammad Syahrul Fuady"
+  },
+  {
+    "id": "750",
+    "matkul_id": "60",
+    "class": "6-06",
+    "name": "Mega Dwi Sartika"
+  },
+  { "id": "751", "matkul_id": "58", "class": "6-06", "name": "Sriyani" },
+  {
+    "id": "752",
+    "matkul_id": "59",
+    "class": "6-06",
+    "name": "Muhammad Agus Muljanto"
+  },
+  {
+    "id": "753",
+    "matkul_id": "57",
+    "class": "6-06",
+    "name": "Muhammad Syahrul Fuady"
+  },
+  { "id": "754", "matkul_id": "60", "class": "6-07", "name": "Nur Rahmah" },
+  { "id": "755", "matkul_id": "58", "class": "6-07", "name": "Sriyani" },
+  {
+    "id": "756",
+    "matkul_id": "59",
+    "class": "6-07",
+    "name": "Muhammad Agus Muljanto"
+  },
+  { "id": "757", "matkul_id": "57", "class": "6-07", "name": "Ilhan Lasahido" },
+  { "id": "758", "matkul_id": "60", "class": "6-08", "name": "Nur Rahmah" },
+  {
+    "id": "759",
+    "matkul_id": "58",
+    "class": "6-08",
+    "name": "Beta Andri Anggiano Uliansyah"
+  },
+  {
+    "id": "760",
+    "matkul_id": "59",
+    "class": "6-08",
+    "name": "Muhammad Agus Muljanto"
+  },
+  { "id": "761", "matkul_id": "57", "class": "6-08", "name": "Ilhan Lasahido" },
+  { "id": "762", "matkul_id": "60", "class": "6-09", "name": "Nur Rahmah" },
+  {
+    "id": "763",
+    "matkul_id": "58",
+    "class": "6-09",
+    "name": "Beta Andri Anggiano Uliansyah"
+  },
+  { "id": "764", "matkul_id": "59", "class": "6-09", "name": "Jati Wibowo" },
+  {
+    "id": "765",
+    "matkul_id": "57",
+    "class": "6-09",
+    "name": "Rynalto Mukiwihando"
+  },
+  { "id": "766", "matkul_id": "60", "class": "6-10", "name": "Arief Wibisono" },
+  {
+    "id": "767",
+    "matkul_id": "58",
+    "class": "6-10",
+    "name": "Beta Andri Anggiano Uliansyah"
+  },
+  { "id": "768", "matkul_id": "59", "class": "6-10", "name": "Jati Wibowo" },
+  {
+    "id": "769",
+    "matkul_id": "57",
+    "class": "6-10",
+    "name": "Rynalto Mukiwihando"
+  },
+  { "id": "770", "matkul_id": "60", "class": "6-11", "name": "Arief Wibisono" },
+  {
+    "id": "771",
+    "matkul_id": "58",
+    "class": "6-11",
+    "name": "Agus Sunarya Sulaeman"
+  },
+  {
+    "id": "772",
+    "matkul_id": "59",
+    "class": "6-11",
+    "name": "Irwan Suliantoro"
+  },
+  { "id": "773", "matkul_id": "57", "class": "6-11", "name": "Suyono KNPK" },
+  { "id": "774", "matkul_id": "60", "class": "6-12", "name": "Arief Wibisono" },
+  {
+    "id": "775",
+    "matkul_id": "58",
+    "class": "6-12",
+    "name": "Agus Sunarya Sulaeman"
+  },
+  { "id": "776", "matkul_id": "59", "class": "6-12", "name": "Jati Wibowo" },
+  { "id": "777", "matkul_id": "57", "class": "6-12", "name": "Suyono KNPK" },
+  {
+    "id": "778",
+    "matkul_id": "60",
+    "class": "6-13",
+    "name": "Irlany Yunita Siregar"
+  },
+  { "id": "779", "matkul_id": "58", "class": "6-13", "name": "Agni Indriani" },
+  { "id": "780", "matkul_id": "59", "class": "6-13", "name": "Freddy Apriady" },
+  {
+    "id": "781",
+    "matkul_id": "57",
+    "class": "6-13",
+    "name": "Bambang Kismanto"
+  },
+  {
+    "id": "782",
+    "matkul_id": "60",
+    "class": "6-14",
+    "name": "Irlany Yunita Siregar"
+  },
+  { "id": "783", "matkul_id": "58", "class": "6-14", "name": "Imam Subroto" },
+  { "id": "784", "matkul_id": "59", "class": "6-14", "name": "Muchammad Nuh" },
+  {
+    "id": "785",
+    "matkul_id": "57",
+    "class": "6-14",
+    "name": "Bambang Kismanto"
+  },
+  {
+    "id": "786",
+    "matkul_id": "60",
+    "class": "6-15",
+    "name": "Irlany Yunita Siregar"
+  },
+  { "id": "787", "matkul_id": "58", "class": "6-15", "name": "Imam Subroto" },
+  { "id": "788", "matkul_id": "59", "class": "6-15", "name": "Muchammad Nuh" },
+  { "id": "789", "matkul_id": "57", "class": "6-15", "name": "Ivan Yulianto" },
+  {
+    "id": "790",
+    "matkul_id": "60",
+    "class": "6-16",
+    "name": "Anung Tri Wibowo"
+  },
+  { "id": "791", "matkul_id": "58", "class": "6-16", "name": "Mahartha Titi" },
+  {
+    "id": "792",
+    "matkul_id": "59",
+    "class": "6-16",
+    "name": "Irwan Suliantoro"
+  },
+  { "id": "793", "matkul_id": "57", "class": "6-16", "name": "Ivan Yulianto" },
+  {
+    "id": "794",
+    "matkul_id": "60",
+    "class": "6-17",
+    "name": "Anung Tri Wibowo"
+  },
+  { "id": "795", "matkul_id": "58", "class": "6-17", "name": "Mahartha Titi" },
+  { "id": "796", "matkul_id": "59", "class": "6-17", "name": "Muchammad Nuh" },
+  {
+    "id": "797",
+    "matkul_id": "57",
+    "class": "6-17",
+    "name": "Satria Hadi Lubis"
+  },
+  { "id": "798", "matkul_id": "60", "class": "6-18", "name": "Aditya Wirawan" },
+  {
+    "id": "799",
+    "matkul_id": "58",
+    "class": "6-18",
+    "name": "Imam Sumardjoko"
+  },
+  {
+    "id": "800",
+    "matkul_id": "59",
+    "class": "6-18",
+    "name": "Aang Prabudi Sanusi"
+  },
+  {
+    "id": "801",
+    "matkul_id": "57",
+    "class": "6-18",
+    "name": "Satria Hadi Lubis"
+  },
+  { "id": "802", "matkul_id": "60", "class": "6-19", "name": "Fajar Yulianto" },
+  {
+    "id": "803",
+    "matkul_id": "58",
+    "class": "6-19",
+    "name": "Imam Sumardjoko"
+  },
+  {
+    "id": "804",
+    "matkul_id": "59",
+    "class": "6-19",
+    "name": "Aang Prabudi Sanusi"
+  },
+  {
+    "id": "805",
+    "matkul_id": "57",
+    "class": "6-19",
+    "name": "Satria Hadi Lubis"
+  },
+  { "id": "806", "matkul_id": "60", "class": "6-20", "name": "Himawan Yusuf" },
+  {
+    "id": "807",
+    "matkul_id": "58",
+    "class": "6-20",
+    "name": "Isnanto Wimboro Dahrojatun"
+  },
+  {
+    "id": "808",
+    "matkul_id": "59",
+    "class": "6-20",
+    "name": "Aang Prabudi Sanusi"
+  },
+  {
+    "id": "809",
+    "matkul_id": "57",
+    "class": "6-20",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  { "id": "810", "matkul_id": "60", "class": "6-21", "name": "Budhi Setyawan" },
+  {
+    "id": "811",
+    "matkul_id": "58",
+    "class": "6-21",
+    "name": "Isnanto Wimboro Dahrojatun"
+  },
+  {
+    "id": "812",
+    "matkul_id": "59",
+    "class": "6-21",
+    "name": "Irwan Suliantoro"
+  },
+  {
+    "id": "813",
+    "matkul_id": "57",
+    "class": "6-21",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  {
+    "id": "814",
+    "matkul_id": "64",
+    "class": "6-01",
+    "name": "Ario Seno Nugroho"
+  },
+  {
+    "id": "815",
+    "matkul_id": "62",
+    "class": "6-01",
+    "name": "Mohammad Fachrudin"
+  },
+  {
+    "id": "816",
+    "matkul_id": "61",
+    "class": "6-01",
+    "name": "Akhmad Firdiansyah"
+  },
+  {
+    "id": "817",
+    "matkul_id": "65",
+    "class": "6-01",
+    "name": "Agung Budilaksono"
+  },
+  {
+    "id": "818",
+    "matkul_id": "63",
+    "class": "6-01",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  {
+    "id": "819",
+    "matkul_id": "64",
+    "class": "6-02",
+    "name": "Ario Seno Nugroho"
+  },
+  {
+    "id": "820",
+    "matkul_id": "62",
+    "class": "6-02",
+    "name": "Mohammad Fachrudin"
+  },
+  { "id": "821", "matkul_id": "61", "class": "6-02", "name": "Budhi Setyawan" },
+  {
+    "id": "822",
+    "matkul_id": "65",
+    "class": "6-02",
+    "name": "Akhmad Firdiansyah"
+  },
+  { "id": "823", "matkul_id": "63", "class": "6-02", "name": "Indra Asmadewa" },
+  {
+    "id": "824",
+    "matkul_id": "64",
+    "class": "6-03",
+    "name": "Indri Riesfandiari"
+  },
+  {
+    "id": "825",
+    "matkul_id": "62",
+    "class": "6-03",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  {
+    "id": "826",
+    "matkul_id": "61",
+    "class": "6-03",
+    "name": "Akhmad Firdiansyah"
+  },
+  {
+    "id": "827",
+    "matkul_id": "65",
+    "class": "6-03",
+    "name": "Mohammad Fachrudin"
+  },
+  {
+    "id": "828",
+    "matkul_id": "63",
+    "class": "6-03",
+    "name": "Satria Hadi Lubis"
+  },
+  {
+    "id": "829",
+    "matkul_id": "64",
+    "class": "6-04",
+    "name": "Indri Riesfandiari"
+  },
+  {
+    "id": "830",
+    "matkul_id": "62",
+    "class": "6-04",
+    "name": "Masruri Muchtar"
+  },
+  { "id": "831", "matkul_id": "61", "class": "6-04", "name": "Budhi Setyawan" },
+  {
+    "id": "832",
+    "matkul_id": "65",
+    "class": "6-04",
+    "name": "Akhmad Firdiansyah"
+  },
+  { "id": "833", "matkul_id": "63", "class": "6-04", "name": "Indra Asmadewa" },
+  {
+    "id": "834",
+    "matkul_id": "89",
+    "class": "6-01",
+    "name": "Ambang Aries Yudanto"
+  },
+  {
+    "id": "835",
+    "matkul_id": "91",
+    "class": "6-01",
+    "name": "Panca Irvan Sujianto"
+  },
+  {
+    "id": "836",
+    "matkul_id": "88",
+    "class": "6-01",
+    "name": "Octarina Ardyanti"
+  },
+  { "id": "837", "matkul_id": "90", "class": "6-01", "name": "Elvira" },
+  {
+    "id": "838",
+    "matkul_id": "89",
+    "class": "6-02",
+    "name": "Ambang Aries Yudanto"
+  },
+  {
+    "id": "839",
+    "matkul_id": "91",
+    "class": "6-02",
+    "name": "Panca Irvan Sujianto"
+  },
+  { "id": "840", "matkul_id": "88", "class": "6-02", "name": "Tanda Setiya" },
+  { "id": "841", "matkul_id": "90", "class": "6-02", "name": "Pratin" },
+  { "id": "842", "matkul_id": "89", "class": "6-03", "name": "Nurbiyanto" },
+  {
+    "id": "843",
+    "matkul_id": "91",
+    "class": "6-03",
+    "name": "Panca Irvan Sujianto"
+  },
+  { "id": "844", "matkul_id": "88", "class": "6-03", "name": "Tanda Setiya" },
+  { "id": "845", "matkul_id": "90", "class": "6-03", "name": "Elvira" },
+  {
+    "id": "846",
+    "matkul_id": "89",
+    "class": "6-04",
+    "name": "Ambang Aries Yudanto"
+  },
+  { "id": "847", "matkul_id": "91", "class": "6-04", "name": "Rohmat" },
+  { "id": "848", "matkul_id": "88", "class": "6-04", "name": "Taufik Raharjo" },
+  { "id": "849", "matkul_id": "90", "class": "6-04", "name": "Elvira" },
+  { "id": "850", "matkul_id": "89", "class": "6-05", "name": "Nurbiyanto" },
+  { "id": "851", "matkul_id": "91", "class": "6-05", "name": "Rohmat" },
+  { "id": "852", "matkul_id": "88", "class": "6-05", "name": "Taufik Raharjo" },
+  {
+    "id": "853",
+    "matkul_id": "90",
+    "class": "6-05",
+    "name": "Prayudi Nugroho"
+  },
+  {
+    "id": "854",
+    "matkul_id": "141",
+    "class": "8-01",
+    "name": "Yuniarto Hadiwibowo"
+  },
+  { "id": "855", "matkul_id": "139", "class": "8-01", "name": "Soffan Marsus" },
+  {
+    "id": "856",
+    "matkul_id": "140",
+    "class": "8-01",
+    "name": "Akhmad Priharjanto"
+  },
+  {
+    "id": "857",
+    "matkul_id": "135",
+    "class": "8-01",
+    "name": "Syanni Yustiani"
+  },
+  { "id": "858", "matkul_id": "134", "class": "8-01", "name": "Raynal Yasni" },
+  { "id": "859", "matkul_id": "123", "class": "5-01", "name": "Majdi Ali" },
+  {
+    "id": "860",
+    "matkul_id": "132",
+    "class": "6-01",
+    "name": "Agus Bandiyono"
+  },
+  {
+    "id": "861",
+    "matkul_id": "133",
+    "class": "6-01",
+    "name": "Rakhmayani Ardhanti"
+  },
+  {
+    "id": "862",
+    "matkul_id": "131",
+    "class": "6-01",
+    "name": "Rahadi Nugroho"
+  },
+  { "id": "863", "matkul_id": "129", "class": "6-01", "name": "Edy Riyanto" },
+  {
+    "id": "864",
+    "matkul_id": "130",
+    "class": "6-01",
+    "name": "Dhian Adhetiya Safitra"
+  },
+  {
+    "id": "865",
+    "matkul_id": "132",
+    "class": "6-02",
+    "name": "Agus Bandiyono"
+  },
+  {
+    "id": "866",
+    "matkul_id": "133",
+    "class": "6-02",
+    "name": "Nur Hendrastuti"
+  },
+  { "id": "867", "matkul_id": "131", "class": "6-02", "name": "Anisa Fahmi" },
+  { "id": "868", "matkul_id": "129", "class": "6-02", "name": "Edy Riyanto" },
+  {
+    "id": "869",
+    "matkul_id": "130",
+    "class": "6-02",
+    "name": "Dhian Adhetiya Safitra"
+  },
+  {
+    "id": "870",
+    "matkul_id": "132",
+    "class": "6-03",
+    "name": "Agus Bandiyono"
+  },
+  {
+    "id": "871",
+    "matkul_id": "133",
+    "class": "6-03",
+    "name": "Nur Hendrastuti"
+  },
+  { "id": "872", "matkul_id": "131", "class": "6-03", "name": "Anisa Fahmi" },
+  { "id": "873", "matkul_id": "129", "class": "6-03", "name": "Edy Riyanto" },
+  {
+    "id": "874",
+    "matkul_id": "130",
+    "class": "6-03",
+    "name": "Dhian Adhetiya Safitra"
+  },
+  { "id": "875", "matkul_id": "118", "class": "6-01", "name": "Edy Riyanto" },
+  {
+    "id": "876",
+    "matkul_id": "119",
+    "class": "6-01",
+    "name": "Nur Indah Lestari"
+  },
+  {
+    "id": "877",
+    "matkul_id": "117",
+    "class": "6-01",
+    "name": "Ridzky Aditya Saputra"
+  },
+  {
+    "id": "878",
+    "matkul_id": "120",
+    "class": "6-01",
+    "name": "Chekat Fahmy Rosyadi"
+  },
+  {
+    "id": "879",
+    "matkul_id": "118",
+    "class": "6-02",
+    "name": "Esap Mundi Hartono"
+  },
+  {
+    "id": "880",
+    "matkul_id": "119",
+    "class": "6-02",
+    "name": "Gatot Iswantoro"
+  },
+  { "id": "881", "matkul_id": "117", "class": "6-02", "name": "Agus Sriyanto" },
+  {
+    "id": "882",
+    "matkul_id": "120",
+    "class": "6-02",
+    "name": "Chekat Fahmy Rosyadi"
+  },
+  {
+    "id": "883",
+    "matkul_id": "118",
+    "class": "6-03",
+    "name": "Nugroho Yonimurwanto"
+  },
+  {
+    "id": "884",
+    "matkul_id": "119",
+    "class": "6-03",
+    "name": "Reza Pranata Putra"
+  },
+  {
+    "id": "885",
+    "matkul_id": "117",
+    "class": "6-03",
+    "name": "Riani Budiarsih"
+  },
+  { "id": "886", "matkul_id": "120", "class": "6-03", "name": "Jusa Sujana" },
+  {
+    "id": "887",
+    "matkul_id": "118",
+    "class": "6-04",
+    "name": "Nugroho Yonimurwanto"
+  },
+  {
+    "id": "888",
+    "matkul_id": "119",
+    "class": "6-04",
+    "name": "Reza Pranata Putra"
+  },
+  {
+    "id": "889",
+    "matkul_id": "117",
+    "class": "6-04",
+    "name": "Ridzky Aditya Saputra"
+  },
+  { "id": "890", "matkul_id": "120", "class": "6-04", "name": "Sarimin" },
+  {
+    "id": "891",
+    "matkul_id": "118",
+    "class": "6-05",
+    "name": "Nugroho Yonimurwanto"
+  },
+  {
+    "id": "892",
+    "matkul_id": "119",
+    "class": "6-05",
+    "name": "Budhi Setyawan"
+  },
+  { "id": "893", "matkul_id": "117", "class": "6-05", "name": "Sri Murwani" },
+  { "id": "894", "matkul_id": "120", "class": "6-05", "name": "Sarimin" },
+  {
+    "id": "895",
+    "matkul_id": "118",
+    "class": "6-06",
+    "name": "Esap Mundi Hartono"
+  },
+  {
+    "id": "896",
+    "matkul_id": "119",
+    "class": "6-06",
+    "name": "Satria Adhitama"
+  },
+  { "id": "897", "matkul_id": "117", "class": "6-06", "name": "Agus Sriyanto" },
+  {
+    "id": "898",
+    "matkul_id": "120",
+    "class": "6-06",
+    "name": "Mulyermananda Setiyahadi"
+  },
+  { "id": "899", "matkul_id": "118", "class": "6-07", "name": "Edy Riyanto" },
+  {
+    "id": "900",
+    "matkul_id": "119",
+    "class": "6-07",
+    "name": "Nur Indah Lestari"
+  },
+  {
+    "id": "901",
+    "matkul_id": "117",
+    "class": "6-07",
+    "name": "Riani Budiarsih"
+  },
+  {
+    "id": "902",
+    "matkul_id": "120",
+    "class": "6-07",
+    "name": "Mulyermananda Setiyahadi"
+  },
+  { "id": "903", "matkul_id": "118", "class": "6-08", "name": "Warlan" },
+  {
+    "id": "904",
+    "matkul_id": "119",
+    "class": "6-08",
+    "name": "Satria Adhitama"
+  },
+  {
+    "id": "905",
+    "matkul_id": "117",
+    "class": "6-08",
+    "name": "Hendra Sahputra"
+  },
+  { "id": "906", "matkul_id": "120", "class": "6-08", "name": "Himawan Yusuf" },
+  { "id": "907", "matkul_id": "118", "class": "6-09", "name": "Warlan" },
+  {
+    "id": "908",
+    "matkul_id": "119",
+    "class": "6-09",
+    "name": "Gatot Iswantoro"
+  },
+  {
+    "id": "909",
+    "matkul_id": "117",
+    "class": "6-09",
+    "name": "Hendra Sahputra"
+  },
+  { "id": "910", "matkul_id": "120", "class": "6-09", "name": "Himawan Yusuf" },
+  { "id": "911", "matkul_id": "112", "class": "4-01", "name": "Riko Riandoko" },
+  { "id": "912", "matkul_id": "111", "class": "4-01", "name": "Teguh Warsito" },
+  { "id": "913", "matkul_id": "113", "class": "4-01", "name": null },
+  { "id": "914", "matkul_id": "116", "class": "4-01", "name": "Oke Wibowo" },
+  {
+    "id": "915",
+    "matkul_id": "114",
+    "class": "4-01",
+    "name": "Lambang Adiatma"
+  },
+  { "id": "916", "matkul_id": "110", "class": "4-01", "name": "Heni Sulastri" },
+  { "id": "917", "matkul_id": "115", "class": "4-01", "name": "Majdi Ali" },
+  {
+    "id": "918",
+    "matkul_id": "109",
+    "class": "4-01",
+    "name": "Arif Nugrahanto"
+  },
+  { "id": "919", "matkul_id": "112", "class": "4-02", "name": "Riko Riandoko" },
+  { "id": "920", "matkul_id": "111", "class": "4-02", "name": "Teguh Warsito" },
+  { "id": "921", "matkul_id": "113", "class": "4-02", "name": null },
+  {
+    "id": "922",
+    "matkul_id": "116",
+    "class": "4-02",
+    "name": "Nugroho Yonimurwanto"
+  },
+  {
+    "id": "923",
+    "matkul_id": "114",
+    "class": "4-02",
+    "name": "Coradion Kusmo Setiarso"
+  },
+  {
+    "id": "924",
+    "matkul_id": "110",
+    "class": "4-02",
+    "name": "Adhipradana Prabu Swasito"
+  },
+  {
+    "id": "925",
+    "matkul_id": "115",
+    "class": "4-02",
+    "name": "Heri Supriyanto"
+  },
+  {
+    "id": "926",
+    "matkul_id": "109",
+    "class": "4-02",
+    "name": "I Wayan Sukada"
+  },
+  { "id": "927", "matkul_id": "112", "class": "4-03", "name": "Anisa Fahmi" },
+  {
+    "id": "928",
+    "matkul_id": "111",
+    "class": "4-03",
+    "name": "Kristian Agung Prasetyo"
+  },
+  { "id": "929", "matkul_id": "113", "class": "4-03", "name": null },
+  {
+    "id": "930",
+    "matkul_id": "116",
+    "class": "4-03",
+    "name": "Ardian Unggul Nurkusuma"
+  },
+  {
+    "id": "931",
+    "matkul_id": "114",
+    "class": "4-03",
+    "name": "Eko Henry Prasetyo"
+  },
+  { "id": "932", "matkul_id": "110", "class": "4-03", "name": "Khusnaini" },
+  {
+    "id": "933",
+    "matkul_id": "115",
+    "class": "4-03",
+    "name": "Agung Haris Setiawan"
+  },
+  {
+    "id": "934",
+    "matkul_id": "109",
+    "class": "4-03",
+    "name": "Arif Nugrahanto"
+  },
+  { "id": "935", "matkul_id": "112", "class": "4-04", "name": "Riko Riandoko" },
+  { "id": "936", "matkul_id": "111", "class": "4-04", "name": "Teguh Warsito" },
+  { "id": "937", "matkul_id": "113", "class": "4-04", "name": "Raynal Yasni" },
+  { "id": "938", "matkul_id": "116", "class": "4-04", "name": "Eri Wahyudi" },
+  {
+    "id": "939",
+    "matkul_id": "114",
+    "class": "4-04",
+    "name": "Coradion Kusmo Setiarso"
+  },
+  {
+    "id": "940",
+    "matkul_id": "110",
+    "class": "4-04",
+    "name": "Adhipradana Prabu Swasito"
+  },
+  {
+    "id": "941",
+    "matkul_id": "115",
+    "class": "4-04",
+    "name": "Agung Haris Setiawan"
+  },
+  {
+    "id": "942",
+    "matkul_id": "109",
+    "class": "4-04",
+    "name": "Heru Supriyanto"
+  },
+  { "id": "943", "matkul_id": "112", "class": "4-05", "name": "Anisa Fahmi" },
+  {
+    "id": "944",
+    "matkul_id": "111",
+    "class": "4-05",
+    "name": "Kristian Agung Prasetyo"
+  },
+  { "id": "945", "matkul_id": "113", "class": "4-05", "name": "Bondi Arifin" },
+  { "id": "946", "matkul_id": "116", "class": "4-05", "name": "Eri Wahyudi" },
+  {
+    "id": "947",
+    "matkul_id": "114",
+    "class": "4-05",
+    "name": "Eko Henry Prasetyo"
+  },
+  {
+    "id": "948",
+    "matkul_id": "110",
+    "class": "4-05",
+    "name": "Adhipradana Prabu Swasito"
+  },
+  { "id": "949", "matkul_id": "115", "class": "4-05", "name": "Harizul Akbar" },
+  {
+    "id": "950",
+    "matkul_id": "109",
+    "class": "4-05",
+    "name": "Heru Supriyanto"
+  },
+  { "id": "951", "matkul_id": "112", "class": "4-06", "name": "Riko Riandoko" },
+  { "id": "952", "matkul_id": "111", "class": "4-06", "name": "Teguh Warsito" },
+  { "id": "953", "matkul_id": "113", "class": "4-06", "name": "Bondi Arifin" },
+  { "id": "954", "matkul_id": "116", "class": "4-06", "name": "Eri Wahyudi" },
+  {
+    "id": "955",
+    "matkul_id": "114",
+    "class": "4-06",
+    "name": "Lambang Adiatma"
+  },
+  { "id": "956", "matkul_id": "110", "class": "4-06", "name": "Heni Sulastri" },
+  {
+    "id": "957",
+    "matkul_id": "115",
+    "class": "4-06",
+    "name": "Heri Supriyanto"
+  },
+  {
+    "id": "958",
+    "matkul_id": "109",
+    "class": "4-06",
+    "name": "Andri Marfiana"
+  },
+  {
+    "id": "959",
+    "matkul_id": "112",
+    "class": "4-07",
+    "name": "Riani Budiarsih"
+  },
+  {
+    "id": "960",
+    "matkul_id": "111",
+    "class": "4-07",
+    "name": "Kristian Agung Prasetyo"
+  },
+  {
+    "id": "961",
+    "matkul_id": "113",
+    "class": "4-07",
+    "name": "Habibie Nugroho Wicaksono"
+  },
+  {
+    "id": "962",
+    "matkul_id": "116",
+    "class": "4-07",
+    "name": "Ardian Unggul Nurkusuma"
+  },
+  {
+    "id": "963",
+    "matkul_id": "114",
+    "class": "4-07",
+    "name": "Muhammad Arif Nurcahyo"
+  },
+  { "id": "964", "matkul_id": "110", "class": "4-07", "name": "Khusnaini" },
+  { "id": "965", "matkul_id": "115", "class": "4-07", "name": "Majdi Ali" },
+  {
+    "id": "966",
+    "matkul_id": "109",
+    "class": "4-07",
+    "name": "Arif Nugrahanto"
+  },
+  {
+    "id": "967",
+    "matkul_id": "112",
+    "class": "4-08",
+    "name": "Riani Budiarsih"
+  },
+  {
+    "id": "968",
+    "matkul_id": "111",
+    "class": "4-08",
+    "name": "Kristian Agung Prasetyo"
+  },
+  {
+    "id": "969",
+    "matkul_id": "113",
+    "class": "4-08",
+    "name": "Habibie Nugroho Wicaksono"
+  },
+  {
+    "id": "970",
+    "matkul_id": "116",
+    "class": "4-08",
+    "name": "Nugroho Yonimurwanto"
+  },
+  {
+    "id": "971",
+    "matkul_id": "114",
+    "class": "4-08",
+    "name": "Muhammad Arif Nurcahyo"
+  },
+  {
+    "id": "972",
+    "matkul_id": "110",
+    "class": "4-08",
+    "name": "Adhipradana Prabu Swasito"
+  },
+  { "id": "973", "matkul_id": "115", "class": "4-08", "name": "Dedi Susanto" },
+  {
+    "id": "974",
+    "matkul_id": "109",
+    "class": "4-08",
+    "name": "I Wayan Sukada"
+  },
+  { "id": "975", "matkul_id": "99", "class": "4-01", "name": "Khusnaini" },
+  { "id": "976", "matkul_id": "98", "class": "4-01", "name": "Agus Bandiyono" },
+  {
+    "id": "977",
+    "matkul_id": "96",
+    "class": "4-01",
+    "name": "Agung Endika Satyadini"
+  },
+  {
+    "id": "978",
+    "matkul_id": "101",
+    "class": "4-01",
+    "name": "Primandita Fitriandi"
+  },
+  {
+    "id": "979",
+    "matkul_id": "95",
+    "class": "4-01",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  { "id": "980", "matkul_id": "97", "class": "4-01", "name": "Purwanto" },
+  {
+    "id": "981",
+    "matkul_id": "100",
+    "class": "4-01",
+    "name": "Muhammad Ridhwan Galela"
+  },
+  {
+    "id": "982",
+    "matkul_id": "102",
+    "class": "4-01",
+    "name": "Vissia Dewi Haptari"
+  },
+  {
+    "id": "983",
+    "matkul_id": "103",
+    "class": "4-01",
+    "name": "Suparna Wijaya"
+  },
+  { "id": "984", "matkul_id": "99", "class": "4-02", "name": "Khusnaini" },
+  { "id": "985", "matkul_id": "98", "class": "4-02", "name": "Sumitro" },
+  {
+    "id": "986",
+    "matkul_id": "96",
+    "class": "4-02",
+    "name": "Sindhu Wardhana"
+  },
+  {
+    "id": "987",
+    "matkul_id": "101",
+    "class": "4-02",
+    "name": "Primandita Fitriandi"
+  },
+  {
+    "id": "988",
+    "matkul_id": "95",
+    "class": "4-02",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  { "id": "989", "matkul_id": "97", "class": "4-02", "name": "Purwanto" },
+  {
+    "id": "990",
+    "matkul_id": "100",
+    "class": "4-02",
+    "name": "Andri Marfiana"
+  },
+  { "id": "991", "matkul_id": "102", "class": "4-02", "name": "Sulfan" },
+  {
+    "id": "992",
+    "matkul_id": "103",
+    "class": "4-02",
+    "name": "Suparna Wijaya"
+  },
+  { "id": "993", "matkul_id": "99", "class": "4-03", "name": "Rahadi Nugroho" },
+  { "id": "994", "matkul_id": "98", "class": "4-03", "name": "Sumitro" },
+  {
+    "id": "995",
+    "matkul_id": "96",
+    "class": "4-03",
+    "name": "Sindhu Wardhana"
+  },
+  {
+    "id": "996",
+    "matkul_id": "101",
+    "class": "4-03",
+    "name": "Primandita Fitriandi"
+  },
+  { "id": "997", "matkul_id": "95", "class": "4-03", "name": "Irwan Aribowo" },
+  { "id": "998", "matkul_id": "97", "class": "4-03", "name": "Purwanto" },
+  {
+    "id": "999",
+    "matkul_id": "100",
+    "class": "4-03",
+    "name": "Andri Marfiana"
+  },
+  { "id": "1000", "matkul_id": "102", "class": "4-03", "name": "Sulfan" },
+  {
+    "id": "1001",
+    "matkul_id": "103",
+    "class": "4-03",
+    "name": "Suparna Wijaya"
+  },
+  {
+    "id": "1002",
+    "matkul_id": "99",
+    "class": "4-04",
+    "name": "Rahadi Nugroho"
+  },
+  { "id": "1003", "matkul_id": "98", "class": "4-04", "name": "Fadlil Usman" },
+  { "id": "1004", "matkul_id": "96", "class": "4-04", "name": "Oke Wibowo" },
+  { "id": "1005", "matkul_id": "101", "class": "4-04", "name": "Febrian" },
+  { "id": "1006", "matkul_id": "95", "class": "4-04", "name": "Irwan Aribowo" },
+  { "id": "1007", "matkul_id": "97", "class": "4-04", "name": "Ferry Irawan" },
+  { "id": "1008", "matkul_id": "100", "class": "4-04", "name": "Purwanto" },
+  {
+    "id": "1009",
+    "matkul_id": "102",
+    "class": "4-04",
+    "name": "Vissia Dewi Haptari"
+  },
+  { "id": "1010", "matkul_id": "103", "class": "4-04", "name": "Sulfan" },
+  {
+    "id": "1011",
+    "matkul_id": "99",
+    "class": "4-05",
+    "name": "Rahadi Nugroho"
+  },
+  { "id": "1012", "matkul_id": "98", "class": "4-05", "name": "Fadlil Usman" },
+  { "id": "1013", "matkul_id": "96", "class": "4-05", "name": "Oke Wibowo" },
+  { "id": "1014", "matkul_id": "101", "class": "4-05", "name": "Febrian" },
+  { "id": "1015", "matkul_id": "95", "class": "4-05", "name": "Irwan Aribowo" },
+  { "id": "1016", "matkul_id": "97", "class": "4-05", "name": "Ferry Irawan" },
+  { "id": "1017", "matkul_id": "100", "class": "4-05", "name": "Purwanto" },
+  {
+    "id": "1018",
+    "matkul_id": "102",
+    "class": "4-05",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  { "id": "1019", "matkul_id": "103", "class": "4-05", "name": "Sulfan" },
+  { "id": "1020", "matkul_id": "99", "class": "4-06", "name": "Kuwat Slamet" },
+  { "id": "1021", "matkul_id": "98", "class": "4-06", "name": "Fadlil Usman" },
+  { "id": "1022", "matkul_id": "96", "class": "4-06", "name": "Oke Wibowo" },
+  { "id": "1023", "matkul_id": "101", "class": "4-06", "name": "Febrian" },
+  {
+    "id": "1024",
+    "matkul_id": "95",
+    "class": "4-06",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  {
+    "id": "1025",
+    "matkul_id": "97",
+    "class": "4-06",
+    "name": "Antonius Ragil Kuncoro"
+  },
+  {
+    "id": "1026",
+    "matkul_id": "100",
+    "class": "4-06",
+    "name": "I Gede Komang Chahya Bayu Anta Kusuma"
+  },
+  {
+    "id": "1027",
+    "matkul_id": "102",
+    "class": "4-06",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  {
+    "id": "1028",
+    "matkul_id": "103",
+    "class": "4-06",
+    "name": "Muhammad Taufiq Budiarto"
+  },
+  { "id": "1029", "matkul_id": "99", "class": "4-07", "name": "Kuwat Slamet" },
+  { "id": "1030", "matkul_id": "98", "class": "4-07", "name": "Fadlil Usman" },
+  { "id": "1031", "matkul_id": "96", "class": "4-07", "name": "Nurhidayati" },
+  { "id": "1032", "matkul_id": "101", "class": "4-07", "name": "Sulfan" },
+  {
+    "id": "1033",
+    "matkul_id": "95",
+    "class": "4-07",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  {
+    "id": "1034",
+    "matkul_id": "97",
+    "class": "4-07",
+    "name": "Antonius Ragil Kuncoro"
+  },
+  {
+    "id": "1035",
+    "matkul_id": "100",
+    "class": "4-07",
+    "name": "Vita Apriliasari"
+  },
+  {
+    "id": "1036",
+    "matkul_id": "102",
+    "class": "4-07",
+    "name": "Arief Budi Wardana"
+  },
+  {
+    "id": "1037",
+    "matkul_id": "103",
+    "class": "4-07",
+    "name": "Muhammad Taufiq Budiarto"
+  },
+  {
+    "id": "1038",
+    "matkul_id": "99",
+    "class": "4-08",
+    "name": "Muhammad Ridhwan Galela"
+  },
+  {
+    "id": "1039",
+    "matkul_id": "98",
+    "class": "4-08",
+    "name": "Chatarina Bernike"
+  },
+  { "id": "1040", "matkul_id": "96", "class": "4-08", "name": "Nurhidayati" },
+  { "id": "1041", "matkul_id": "101", "class": "4-08", "name": "Sulfan" },
+  {
+    "id": "1042",
+    "matkul_id": "95",
+    "class": "4-08",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  { "id": "1043", "matkul_id": "97", "class": "4-08", "name": "Supriyadi" },
+  {
+    "id": "1044",
+    "matkul_id": "100",
+    "class": "4-08",
+    "name": "Vita Apriliasari"
+  },
+  {
+    "id": "1045",
+    "matkul_id": "102",
+    "class": "4-08",
+    "name": "Arief Budi Wardana"
+  },
+  {
+    "id": "1046",
+    "matkul_id": "103",
+    "class": "4-08",
+    "name": "Mohammad Djufri"
+  },
+  {
+    "id": "1047",
+    "matkul_id": "99",
+    "class": "4-09",
+    "name": "Muhammad Ridhwan Galela"
+  },
+  {
+    "id": "1048",
+    "matkul_id": "98",
+    "class": "4-09",
+    "name": "Chatarina Bernike"
+  },
+  { "id": "1049", "matkul_id": "96", "class": "4-09", "name": "Sony Hartono" },
+  { "id": "1050", "matkul_id": "101", "class": "4-09", "name": "Nina Sabnita" },
+  {
+    "id": "1051",
+    "matkul_id": "95",
+    "class": "4-09",
+    "name": "Nur Farida Liyana"
+  },
+  { "id": "1052", "matkul_id": "97", "class": "4-09", "name": "Supriyadi" },
+  {
+    "id": "1053",
+    "matkul_id": "100",
+    "class": "4-09",
+    "name": "Hanik Susilawati Muamarah"
+  },
+  {
+    "id": "1054",
+    "matkul_id": "102",
+    "class": "4-09",
+    "name": "Arief Budi Wardana"
+  },
+  {
+    "id": "1055",
+    "matkul_id": "103",
+    "class": "4-09",
+    "name": "Mohammad Djufri"
+  },
+  {
+    "id": "1056",
+    "matkul_id": "99",
+    "class": "4-10",
+    "name": "Muhammad Ridhwan Galela"
+  },
+  {
+    "id": "1057",
+    "matkul_id": "98",
+    "class": "4-10",
+    "name": "Rizka Indri Arfianti"
+  },
+  { "id": "1058", "matkul_id": "96", "class": "4-10", "name": "Sony Hartono" },
+  { "id": "1059", "matkul_id": "101", "class": "4-10", "name": "Nina Sabnita" },
+  {
+    "id": "1060",
+    "matkul_id": "95",
+    "class": "4-10",
+    "name": "Nur Farida Liyana"
+  },
+  {
+    "id": "1061",
+    "matkul_id": "97",
+    "class": "4-10",
+    "name": "Vita Apriliasari"
+  },
+  {
+    "id": "1062",
+    "matkul_id": "100",
+    "class": "4-10",
+    "name": "Hanik Susilawati Muamarah"
+  },
+  {
+    "id": "1063",
+    "matkul_id": "102",
+    "class": "4-10",
+    "name": "Primandita Fitriandi"
+  },
+  {
+    "id": "1064",
+    "matkul_id": "103",
+    "class": "4-10",
+    "name": "Dhian Adhetiya Safitra"
+  },
+  {
+    "id": "1065",
+    "matkul_id": "99",
+    "class": "4-11",
+    "name": "Budiasih Widiastuti"
+  },
+  {
+    "id": "1066",
+    "matkul_id": "98",
+    "class": "4-11",
+    "name": "Rizka Indri Arfianti"
+  },
+  { "id": "1067", "matkul_id": "96", "class": "4-11", "name": "Sony Hartono" },
+  { "id": "1068", "matkul_id": "101", "class": "4-11", "name": "Nina Sabnita" },
+  {
+    "id": "1069",
+    "matkul_id": "95",
+    "class": "4-11",
+    "name": "Nur Farida Liyana"
+  },
+  {
+    "id": "1070",
+    "matkul_id": "97",
+    "class": "4-11",
+    "name": "Vita Apriliasari"
+  },
+  {
+    "id": "1071",
+    "matkul_id": "100",
+    "class": "4-11",
+    "name": "Hanik Susilawati Muamarah"
+  },
+  {
+    "id": "1072",
+    "matkul_id": "102",
+    "class": "4-11",
+    "name": "Primandita Fitriandi"
+  },
+  {
+    "id": "1073",
+    "matkul_id": "103",
+    "class": "4-11",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1074",
+    "matkul_id": "99",
+    "class": "4-12",
+    "name": "Budiasih Widiastuti"
+  },
+  {
+    "id": "1075",
+    "matkul_id": "98",
+    "class": "4-12",
+    "name": "Aloysius Harry Mukti"
+  },
+  {
+    "id": "1076",
+    "matkul_id": "96",
+    "class": "4-12",
+    "name": "Fajar Yulianto"
+  },
+  {
+    "id": "1077",
+    "matkul_id": "101",
+    "class": "4-12",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1078",
+    "matkul_id": "95",
+    "class": "4-12",
+    "name": "Ariesto Narindro"
+  },
+  {
+    "id": "1079",
+    "matkul_id": "97",
+    "class": "4-12",
+    "name": "Vita Apriliasari"
+  },
+  { "id": "1080", "matkul_id": "100", "class": "4-12", "name": "Moh. Yazid" },
+  {
+    "id": "1081",
+    "matkul_id": "102",
+    "class": "4-12",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1082",
+    "matkul_id": "103",
+    "class": "4-12",
+    "name": "Dhian Adhetiya Safitra"
+  },
+  { "id": "1083", "matkul_id": "99", "class": "4-13", "name": "Nurhidayati" },
+  {
+    "id": "1084",
+    "matkul_id": "98",
+    "class": "4-13",
+    "name": "Budiasih Widiastuti"
+  },
+  { "id": "1085", "matkul_id": "96", "class": "4-13", "name": "Kuwat Slamet" },
+  {
+    "id": "1086",
+    "matkul_id": "101",
+    "class": "4-13",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1087",
+    "matkul_id": "97",
+    "class": "4-13",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  {
+    "id": "1088",
+    "matkul_id": "95",
+    "class": "4-13",
+    "name": "Hanik Susilawati Muamarah"
+  },
+  {
+    "id": "1089",
+    "matkul_id": "100",
+    "class": "4-13",
+    "name": "Arief Budi Wardana"
+  },
+  {
+    "id": "1090",
+    "matkul_id": "102",
+    "class": "4-13",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1091",
+    "matkul_id": "103",
+    "class": "4-13",
+    "name": "Andri Marfiana"
+  },
+  { "id": "1092", "matkul_id": "99", "class": "4-14", "name": "Nurhidayati" },
+  {
+    "id": "1093",
+    "matkul_id": "98",
+    "class": "4-14",
+    "name": "Budiasih Widiastuti"
+  },
+  { "id": "1094", "matkul_id": "96", "class": "4-14", "name": "Kuwat Slamet" },
+  {
+    "id": "1095",
+    "matkul_id": "101",
+    "class": "4-14",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1096",
+    "matkul_id": "95",
+    "class": "4-14",
+    "name": "Hanik Susilawati Muamarah"
+  },
+  {
+    "id": "1097",
+    "matkul_id": "97",
+    "class": "4-14",
+    "name": "Kristian Agung Prasetyo"
+  },
+  {
+    "id": "1098",
+    "matkul_id": "100",
+    "class": "4-14",
+    "name": "Arief Budi Wardana"
+  },
+  {
+    "id": "1099",
+    "matkul_id": "102",
+    "class": "4-14",
+    "name": "Primandita Fitriandi"
+  },
+  {
+    "id": "1100",
+    "matkul_id": "103",
+    "class": "4-14",
+    "name": "Andri Marfiana"
+  },
+  { "id": "1101", "matkul_id": "106", "class": "6-01", "name": "Moh. Yazid" },
+  {
+    "id": "1102",
+    "matkul_id": "104",
+    "class": "6-01",
+    "name": "Niken Evi Suryani"
+  },
+  {
+    "id": "1103",
+    "matkul_id": "108",
+    "class": "6-01",
+    "name": "Reza Pranata Putra"
+  },
+  { "id": "1104", "matkul_id": "105", "class": "6-01", "name": "Supriyadi" },
+  {
+    "id": "1105",
+    "matkul_id": "107",
+    "class": "6-01",
+    "name": "Johar Samosir"
+  },
+  {
+    "id": "1106",
+    "matkul_id": "106",
+    "class": "6-02",
+    "name": "Bangkit Cahyono"
+  },
+  {
+    "id": "1107",
+    "matkul_id": "104",
+    "class": "6-02",
+    "name": "Budianto Napoh"
+  },
+  {
+    "id": "1108",
+    "matkul_id": "108",
+    "class": "6-02",
+    "name": "Siti Rizkiaty Fatimah Ritonga"
+  },
+  { "id": "1109", "matkul_id": "105", "class": "6-02", "name": "Supriyadi" },
+  {
+    "id": "1110",
+    "matkul_id": "107",
+    "class": "6-02",
+    "name": "Johar Samosir"
+  },
+  {
+    "id": "1111",
+    "matkul_id": "106",
+    "class": "6-03",
+    "name": "Bangkit Cahyono"
+  },
+  {
+    "id": "1112",
+    "matkul_id": "104",
+    "class": "6-03",
+    "name": "Afrian Jowan Pangarso Putro"
+  },
+  {
+    "id": "1113",
+    "matkul_id": "108",
+    "class": "6-03",
+    "name": "Riani Budiarsih"
+  },
+  {
+    "id": "1114",
+    "matkul_id": "105",
+    "class": "6-03",
+    "name": "Arnaldo Purba"
+  },
+  {
+    "id": "1115",
+    "matkul_id": "107",
+    "class": "6-03",
+    "name": "Ami Yuniarahmi"
+  },
+  {
+    "id": "1116",
+    "matkul_id": "106",
+    "class": "6-04",
+    "name": "Irwan Aribowo"
+  },
+  {
+    "id": "1117",
+    "matkul_id": "104",
+    "class": "6-04",
+    "name": "Yosep Poernomo"
+  },
+  {
+    "id": "1118",
+    "matkul_id": "108",
+    "class": "6-04",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  {
+    "id": "1119",
+    "matkul_id": "105",
+    "class": "6-04",
+    "name": "Arnaldo Purba"
+  },
+  {
+    "id": "1120",
+    "matkul_id": "107",
+    "class": "6-04",
+    "name": "Ami Yuniarahmi"
+  },
+  {
+    "id": "1121",
+    "matkul_id": "106",
+    "class": "6-05",
+    "name": "Irwan Aribowo"
+  },
+  {
+    "id": "1122",
+    "matkul_id": "104",
+    "class": "6-05",
+    "name": "Arif Nugrahanto"
+  },
+  {
+    "id": "1123",
+    "matkul_id": "108",
+    "class": "6-05",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  {
+    "id": "1124",
+    "matkul_id": "105",
+    "class": "6-05",
+    "name": "Rizky Indra Setiawan"
+  },
+  {
+    "id": "1125",
+    "matkul_id": "107",
+    "class": "6-05",
+    "name": "Indrayansyah Nur"
+  },
+  {
+    "id": "1126",
+    "matkul_id": "106",
+    "class": "6-06",
+    "name": "Irwan Aribowo"
+  },
+  {
+    "id": "1127",
+    "matkul_id": "104",
+    "class": "6-06",
+    "name": "Arif Nugrahanto"
+  },
+  {
+    "id": "1128",
+    "matkul_id": "108",
+    "class": "6-06",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  {
+    "id": "1129",
+    "matkul_id": "105",
+    "class": "6-06",
+    "name": "Rizky Indra Setiawan"
+  },
+  {
+    "id": "1130",
+    "matkul_id": "107",
+    "class": "6-06",
+    "name": "Indrayansyah Nur"
+  },
+  { "id": "1131", "matkul_id": "106", "class": "6-07", "name": "Ferry Irawan" },
+  {
+    "id": "1132",
+    "matkul_id": "104",
+    "class": "6-07",
+    "name": "Robby Triyanto"
+  },
+  {
+    "id": "1133",
+    "matkul_id": "108",
+    "class": "6-07",
+    "name": "Dika Arifiani"
+  },
+  {
+    "id": "1134",
+    "matkul_id": "105",
+    "class": "6-07",
+    "name": "Samsul Arifin"
+  },
+  { "id": "1135", "matkul_id": "107", "class": "6-07", "name": "Sony Hartono" },
+  { "id": "1136", "matkul_id": "106", "class": "6-08", "name": "Ferry Irawan" },
+  {
+    "id": "1137",
+    "matkul_id": "104",
+    "class": "6-08",
+    "name": "Robby Triyanto"
+  },
+  {
+    "id": "1138",
+    "matkul_id": "108",
+    "class": "6-08",
+    "name": "Dika Arifiani"
+  },
+  {
+    "id": "1139",
+    "matkul_id": "105",
+    "class": "6-08",
+    "name": "Samsul Arifin"
+  },
+  { "id": "1140", "matkul_id": "107", "class": "6-08", "name": "Sony Hartono" },
+  { "id": "1141", "matkul_id": "106", "class": "6-09", "name": "Ferry Irawan" },
+  {
+    "id": "1142",
+    "matkul_id": "104",
+    "class": "6-09",
+    "name": "Helmi Satria Fahmi"
+  },
+  { "id": "1143", "matkul_id": "108", "class": "6-09", "name": "Nina Sabnita" },
+  { "id": "1144", "matkul_id": "105", "class": "6-09", "name": "Sultoni" },
+  {
+    "id": "1145",
+    "matkul_id": "107",
+    "class": "6-09",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  { "id": "1146", "matkul_id": "106", "class": "6-10", "name": "Ferry Irawan" },
+  {
+    "id": "1147",
+    "matkul_id": "104",
+    "class": "6-10",
+    "name": "Helmi Satria Fahmi"
+  },
+  { "id": "1148", "matkul_id": "108", "class": "6-10", "name": "Nina Sabnita" },
+  { "id": "1149", "matkul_id": "105", "class": "6-10", "name": "Sultoni" },
+  {
+    "id": "1150",
+    "matkul_id": "107",
+    "class": "6-10",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  { "id": "1151", "matkul_id": "106", "class": "6-11", "name": "Kusmono" },
+  {
+    "id": "1152",
+    "matkul_id": "104",
+    "class": "6-11",
+    "name": "Benny Mangoting"
+  },
+  { "id": "1153", "matkul_id": "108", "class": "6-11", "name": "Nina Sabnita" },
+  {
+    "id": "1154",
+    "matkul_id": "105",
+    "class": "6-11",
+    "name": "Abdul Haris Muhammadi"
+  },
+  { "id": "1155", "matkul_id": "107", "class": "6-11", "name": "Jusa Sujana" },
+  { "id": "1156", "matkul_id": "106", "class": "6-12", "name": "Kusmono" },
+  { "id": "1157", "matkul_id": "104", "class": "6-12", "name": "Agus Muslim" },
+  {
+    "id": "1158",
+    "matkul_id": "108",
+    "class": "6-12",
+    "name": "Gusti Ayu Indah Ratnasari"
+  },
+  {
+    "id": "1159",
+    "matkul_id": "105",
+    "class": "6-12",
+    "name": "T. Qivi Hady Daholi"
+  },
+  { "id": "1160", "matkul_id": "107", "class": "6-12", "name": "Jusa Sujana" },
+  { "id": "1161", "matkul_id": "106", "class": "6-13", "name": "Kusmono" },
+  {
+    "id": "1162",
+    "matkul_id": "104",
+    "class": "6-13",
+    "name": "Afrian Jowan Pangarso Putro"
+  },
+  {
+    "id": "1163",
+    "matkul_id": "108",
+    "class": "6-13",
+    "name": "Ganti Lis Ariadi"
+  },
+  {
+    "id": "1164",
+    "matkul_id": "105",
+    "class": "6-13",
+    "name": "Falih Alhusnieka"
+  },
+  { "id": "1165", "matkul_id": "107", "class": "6-13", "name": "Susi Purwati" },
+  { "id": "1166", "matkul_id": "106", "class": "6-14", "name": "Kusmono" },
+  {
+    "id": "1167",
+    "matkul_id": "104",
+    "class": "6-14",
+    "name": "Yusuf Munandar"
+  },
+  {
+    "id": "1168",
+    "matkul_id": "108",
+    "class": "6-14",
+    "name": "Ganti Lis Ariadi"
+  },
+  {
+    "id": "1169",
+    "matkul_id": "105",
+    "class": "6-14",
+    "name": "Falih Alhusnieka"
+  },
+  { "id": "1170", "matkul_id": "107", "class": "6-14", "name": "Susi Purwati" },
+  {
+    "id": "1171",
+    "matkul_id": "106",
+    "class": "6-15",
+    "name": "Heni Sulastri"
+  },
+  {
+    "id": "1172",
+    "matkul_id": "104",
+    "class": "6-15",
+    "name": "Yusuf Munandar"
+  },
+  { "id": "1173", "matkul_id": "108", "class": "6-15", "name": "Mardial" },
+  {
+    "id": "1174",
+    "matkul_id": "105",
+    "class": "6-15",
+    "name": "Muhammad Ravin Alhakim"
+  },
+  {
+    "id": "1175",
+    "matkul_id": "107",
+    "class": "6-15",
+    "name": "Siti Rizkiaty Fatimah Ritonga"
+  },
+  {
+    "id": "1176",
+    "matkul_id": "106",
+    "class": "6-16",
+    "name": "Heni Sulastri"
+  },
+  {
+    "id": "1177",
+    "matkul_id": "104",
+    "class": "6-16",
+    "name": "I Gede Komang Chahya Bayu Anta Kusuma"
+  },
+  { "id": "1178", "matkul_id": "108", "class": "6-16", "name": "Mardial" },
+  {
+    "id": "1179",
+    "matkul_id": "105",
+    "class": "6-16",
+    "name": "Muhammad Ravin Alhakim"
+  },
+  {
+    "id": "1180",
+    "matkul_id": "107",
+    "class": "6-16",
+    "name": "Siti Rizkiaty Fatimah Ritonga"
+  },
+  {
+    "id": "1181",
+    "matkul_id": "106",
+    "class": "6-17",
+    "name": "Heni Sulastri"
+  },
+  {
+    "id": "1182",
+    "matkul_id": "104",
+    "class": "6-17",
+    "name": "I Gede Komang Chahya Bayu Anta Kusuma"
+  },
+  {
+    "id": "1183",
+    "matkul_id": "108",
+    "class": "6-17",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1184",
+    "matkul_id": "105",
+    "class": "6-17",
+    "name": "Andang Wirawan Setiabudi"
+  },
+  {
+    "id": "1185",
+    "matkul_id": "107",
+    "class": "6-17",
+    "name": "Hendra Kurnia Putra"
+  },
+  { "id": "1186", "matkul_id": "106", "class": "6-18", "name": "Budi Harsono" },
+  {
+    "id": "1187",
+    "matkul_id": "104",
+    "class": "6-18",
+    "name": "I Gede Komang Chahya Bayu Anta Kusuma"
+  },
+  {
+    "id": "1188",
+    "matkul_id": "108",
+    "class": "6-18",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1189",
+    "matkul_id": "105",
+    "class": "6-18",
+    "name": "Budianto Napoh"
+  },
+  {
+    "id": "1190",
+    "matkul_id": "107",
+    "class": "6-18",
+    "name": "Hendra Kurnia Putra"
+  },
+  { "id": "1191", "matkul_id": "106", "class": "6-19", "name": "Budi Harsono" },
+  { "id": "1192", "matkul_id": "104", "class": "6-19", "name": "Ryan Nugraha" },
+  {
+    "id": "1193",
+    "matkul_id": "108",
+    "class": "6-19",
+    "name": "Rachmad Utomo"
+  },
+  {
+    "id": "1194",
+    "matkul_id": "105",
+    "class": "6-19",
+    "name": "Rd. Tatan Jaka Tresnajaya"
+  },
+  { "id": "1195", "matkul_id": "107", "class": "6-19", "name": "Tri Ubayanto" },
+  {
+    "id": "1196",
+    "matkul_id": "106",
+    "class": "6-20",
+    "name": "Yadhy Cahyady"
+  },
+  { "id": "1197", "matkul_id": "104", "class": "6-20", "name": "Ryan Nugraha" },
+  {
+    "id": "1198",
+    "matkul_id": "108",
+    "class": "6-20",
+    "name": "Denny Handoyo Supriatman"
+  },
+  {
+    "id": "1199",
+    "matkul_id": "105",
+    "class": "6-20",
+    "name": "Rd. Tatan Jaka Tresnajaya"
+  },
+  { "id": "1200", "matkul_id": "107", "class": "6-20", "name": "Tri Ubayanto" },
+  {
+    "id": "1201",
+    "matkul_id": "106",
+    "class": "6-21",
+    "name": "Yadhy Cahyady"
+  },
+  {
+    "id": "1202",
+    "matkul_id": "104",
+    "class": "6-21",
+    "name": "Yosep Poernomo"
+  },
+  {
+    "id": "1203",
+    "matkul_id": "108",
+    "class": "6-21",
+    "name": "Fahrizal Ali Adkha"
+  },
+  {
+    "id": "1204",
+    "matkul_id": "105",
+    "class": "6-21",
+    "name": "Nidya Hapsari"
+  },
+  {
+    "id": "1205",
+    "matkul_id": "107",
+    "class": "6-21",
+    "name": "Sonder John Whendy"
+  },
+  {
+    "id": "1206",
+    "matkul_id": "106",
+    "class": "6-22",
+    "name": "Yadhy Cahyady"
+  },
+  { "id": "1207", "matkul_id": "104", "class": "6-22", "name": "Nady Safutra" },
+  {
+    "id": "1208",
+    "matkul_id": "108",
+    "class": "6-22",
+    "name": "Nur Farida Liyana"
+  },
+  {
+    "id": "1209",
+    "matkul_id": "105",
+    "class": "6-22",
+    "name": "Singgih Hadi Prasojo"
+  },
+  {
+    "id": "1210",
+    "matkul_id": "107",
+    "class": "6-22",
+    "name": "Sonder John Whendy"
+  },
+  {
+    "id": "1211",
+    "matkul_id": "106",
+    "class": "6-23",
+    "name": "Didik Hery Santosa"
+  },
+  {
+    "id": "1212",
+    "matkul_id": "104",
+    "class": "6-23",
+    "name": "Faisal Ahmad Chotib"
+  },
+  {
+    "id": "1213",
+    "matkul_id": "108",
+    "class": "6-23",
+    "name": "Nur Farida Liyana"
+  },
+  {
+    "id": "1214",
+    "matkul_id": "105",
+    "class": "6-23",
+    "name": "Trie Rundi Hartono"
+  },
+  { "id": "1215", "matkul_id": "107", "class": "6-23", "name": "Trisulo" },
+  {
+    "id": "1216",
+    "matkul_id": "106",
+    "class": "6-24",
+    "name": "Didik Hery Santosa"
+  },
+  {
+    "id": "1217",
+    "matkul_id": "104",
+    "class": "6-24",
+    "name": "Faisal Ahmad Chotib"
+  },
+  {
+    "id": "1218",
+    "matkul_id": "108",
+    "class": "6-24",
+    "name": "Nur Farida Liyana"
+  },
+  {
+    "id": "1219",
+    "matkul_id": "105",
+    "class": "6-24",
+    "name": "Trie Rundi Hartono"
+  },
+  { "id": "1220", "matkul_id": "107", "class": "6-24", "name": "Trisulo" },
+  { "id": "1221", "matkul_id": "106", "class": "6-25", "name": "Kusmono" },
+  {
+    "id": "1222",
+    "matkul_id": "104",
+    "class": "6-25",
+    "name": "Ariesta Hendras Prasetiyanto"
+  },
+  {
+    "id": "1223",
+    "matkul_id": "108",
+    "class": "6-25",
+    "name": "Yusrizal Amir"
+  },
+  {
+    "id": "1224",
+    "matkul_id": "105",
+    "class": "6-25",
+    "name": "Antonius Ragil Kuncoro"
+  },
+  { "id": "1225", "matkul_id": "107", "class": "6-25", "name": "Trisulo" },
+  { "id": "1226", "matkul_id": "106", "class": "6-26", "name": "Kusmono" },
+  {
+    "id": "1227",
+    "matkul_id": "104",
+    "class": "6-26",
+    "name": "Ariesta Hendras Prasetiyanto"
+  },
+  {
+    "id": "1228",
+    "matkul_id": "108",
+    "class": "6-26",
+    "name": "Yusrizal Amir"
+  },
+  {
+    "id": "1229",
+    "matkul_id": "105",
+    "class": "6-26",
+    "name": "Antonius Ragil Kuncoro"
+  },
+  { "id": "1230", "matkul_id": "107", "class": "6-26", "name": "Susi Purwati" },
+  {
+    "id": "1231",
+    "matkul_id": "106",
+    "class": "6-27",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  {
+    "id": "1232",
+    "matkul_id": "104",
+    "class": "6-27",
+    "name": "Purno Murtopo"
+  },
+  {
+    "id": "1233",
+    "matkul_id": "108",
+    "class": "6-27",
+    "name": "Fahrizal Ali Adkha"
+  },
+  {
+    "id": "1234",
+    "matkul_id": "105",
+    "class": "6-27",
+    "name": "Antonius Ragil Kuncoro"
+  },
+  {
+    "id": "1235",
+    "matkul_id": "107",
+    "class": "6-27",
+    "name": "Sigit Kusmaryanto"
+  },
+  {
+    "id": "1236",
+    "matkul_id": "106",
+    "class": "6-28",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  {
+    "id": "1237",
+    "matkul_id": "104",
+    "class": "6-28",
+    "name": "Rd. Tatan Jaka Tresnajaya"
+  },
+  {
+    "id": "1238",
+    "matkul_id": "108",
+    "class": "6-28",
+    "name": "Fahrizal Ali Adkha"
+  },
+  { "id": "1239", "matkul_id": "105", "class": "6-28", "name": "Adityawarman" },
+  {
+    "id": "1240",
+    "matkul_id": "107",
+    "class": "6-28",
+    "name": "Sigit Kusmaryanto"
+  },
+  { "id": "1241", "matkul_id": "106", "class": "6-29", "name": "Rinaningsih" },
+  {
+    "id": "1242",
+    "matkul_id": "104",
+    "class": "6-29",
+    "name": "Rd. Tatan Jaka Tresnajaya"
+  },
+  {
+    "id": "1243",
+    "matkul_id": "108",
+    "class": "6-29",
+    "name": "Yuyut Krisdiantoro"
+  },
+  { "id": "1244", "matkul_id": "105", "class": "6-29", "name": "Suwardi" },
+  { "id": "1245", "matkul_id": "107", "class": "6-29", "name": "Moh. Khoiri" },
+  { "id": "1246", "matkul_id": "106", "class": "6-30", "name": "Rinaningsih" },
+  {
+    "id": "1247",
+    "matkul_id": "104",
+    "class": "6-30",
+    "name": "Rd. Tatan Jaka Tresnajaya"
+  },
+  {
+    "id": "1248",
+    "matkul_id": "108",
+    "class": "6-30",
+    "name": "Yuyut Krisdiantoro"
+  },
+  { "id": "1249", "matkul_id": "105", "class": "6-30", "name": "Suwardi" },
+  { "id": "1250", "matkul_id": "107", "class": "6-30", "name": "Moh. Khoiri" },
+  {
+    "id": "1251",
+    "matkul_id": "106",
+    "class": "6-31",
+    "name": "Agaphilaksmo Adhyarsa Parayudha"
+  },
+  {
+    "id": "1252",
+    "matkul_id": "104",
+    "class": "6-31",
+    "name": "Johannes Aritonang"
+  },
+  {
+    "id": "1253",
+    "matkul_id": "108",
+    "class": "6-31",
+    "name": "Agus Bandiyono"
+  },
+  {
+    "id": "1254",
+    "matkul_id": "105",
+    "class": "6-31",
+    "name": "Andang Wirawan Setiabudi"
+  },
+  {
+    "id": "1255",
+    "matkul_id": "107",
+    "class": "6-31",
+    "name": "Dakun Prakoso"
+  },
+  {
+    "id": "1256",
+    "matkul_id": "106",
+    "class": "6-32",
+    "name": "Agaphilaksmo Adhyarsa Parayudha"
+  },
+  {
+    "id": "1257",
+    "matkul_id": "104",
+    "class": "6-32",
+    "name": "Johannes Aritonang"
+  },
+  {
+    "id": "1258",
+    "matkul_id": "108",
+    "class": "6-32",
+    "name": "Agus Bandiyono"
+  },
+  {
+    "id": "1259",
+    "matkul_id": "105",
+    "class": "6-32",
+    "name": "Tri Dewi Wulandari"
+  },
+  {
+    "id": "1260",
+    "matkul_id": "107",
+    "class": "6-32",
+    "name": "Dakun Prakoso"
+  },
+  {
+    "id": "1261",
+    "matkul_id": "93",
+    "class": "6-01",
+    "name": "Muhammad Ravin Alhakim"
+  },
+  {
+    "id": "1262",
+    "matkul_id": "92",
+    "class": "6-01",
+    "name": "I Gede Komang Chahya Bayu Anta Kusuma"
+  },
+  { "id": "1263", "matkul_id": "94", "class": "6-01", "name": "Yadhy Cahyady" },
+  { "id": "1264", "matkul_id": "93", "class": "6-02", "name": "Supriyadi" },
+  { "id": "1265", "matkul_id": "92", "class": "6-02", "name": "Febrian" },
+  { "id": "1266", "matkul_id": "94", "class": "6-02", "name": "Yadhy Cahyady" },
+  {
+    "id": "1267",
+    "matkul_id": "93",
+    "class": "6-03",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  { "id": "1268", "matkul_id": "92", "class": "6-03", "name": "Febrian" },
+  { "id": "1269", "matkul_id": "94", "class": "6-03", "name": "Yadhy Cahyady" },
+  {
+    "id": "1270",
+    "matkul_id": "93",
+    "class": "6-04",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  {
+    "id": "1271",
+    "matkul_id": "92",
+    "class": "6-04",
+    "name": "Maulia Githa Ustadztama"
+  },
+  {
+    "id": "1272",
+    "matkul_id": "94",
+    "class": "6-04",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1273",
+    "matkul_id": "93",
+    "class": "6-05",
+    "name": "Benny Gunawan Ardiansyah"
+  },
+  {
+    "id": "1274",
+    "matkul_id": "92",
+    "class": "6-05",
+    "name": "Maulia Githa Ustadztama"
+  },
+  {
+    "id": "1275",
+    "matkul_id": "94",
+    "class": "6-05",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1276",
+    "matkul_id": "93",
+    "class": "6-06",
+    "name": "Santoso Wahyu Utomo"
+  },
+  { "id": "1277", "matkul_id": "92", "class": "6-06", "name": "Suwadi" },
+  {
+    "id": "1278",
+    "matkul_id": "94",
+    "class": "6-06",
+    "name": "Benny Setiawan"
+  },
+  {
+    "id": "1279",
+    "matkul_id": "93",
+    "class": "6-07",
+    "name": "Santoso Wahyu Utomo"
+  },
+  { "id": "1280", "matkul_id": "92", "class": "6-07", "name": "Suwadi" },
+  {
+    "id": "1281",
+    "matkul_id": "94",
+    "class": "6-07",
+    "name": "Suhut Tumpal Sinaga"
+  },
+  {
+    "id": "1282",
+    "matkul_id": "84",
+    "class": "4-01",
+    "name": "Wurjanto Nopijantoro"
+  },
+  { "id": "1283", "matkul_id": "87", "class": "4-01", "name": "Nurbiyanto" },
+  { "id": "1284", "matkul_id": "81", "class": "4-01", "name": "Julius Ali" },
+  {
+    "id": "1285",
+    "matkul_id": "85",
+    "class": "4-01",
+    "name": "Aditya Wirawan"
+  },
+  { "id": "1286", "matkul_id": "83", "class": "4-01", "name": "Imam Muhasan" },
+  {
+    "id": "1287",
+    "matkul_id": "80",
+    "class": "4-01",
+    "name": "Intan Puspitarini"
+  },
+  {
+    "id": "1288",
+    "matkul_id": "82",
+    "class": "4-01",
+    "name": "Hendro Hastowo"
+  },
+  { "id": "1289", "matkul_id": "86", "class": "4-01", "name": "Heryantoro" },
+  {
+    "id": "1290",
+    "matkul_id": "84",
+    "class": "4-02",
+    "name": "Indrayansyah Nur"
+  },
+  { "id": "1291", "matkul_id": "87", "class": "4-02", "name": "Doni Triono" },
+  { "id": "1292", "matkul_id": "81", "class": "4-02", "name": "Pratin" },
+  { "id": "1293", "matkul_id": "85", "class": "4-02", "name": "Imam Muhasan" },
+  {
+    "id": "1294",
+    "matkul_id": "83",
+    "class": "4-02",
+    "name": "Aditya Wirawan"
+  },
+  { "id": "1295", "matkul_id": "80", "class": "4-02", "name": "Tanda Setiya" },
+  {
+    "id": "1296",
+    "matkul_id": "82",
+    "class": "4-02",
+    "name": "Hendro Hastowo"
+  },
+  { "id": "1297", "matkul_id": "86", "class": "4-02", "name": "Heryantoro" },
+  {
+    "id": "1298",
+    "matkul_id": "84",
+    "class": "4-03",
+    "name": "I Gede Made Artha Dharmakarja"
+  },
+  {
+    "id": "1299",
+    "matkul_id": "87",
+    "class": "4-03",
+    "name": "Taufik Raharjo"
+  },
+  { "id": "1300", "matkul_id": "81", "class": "4-03", "name": "Julius Ali" },
+  { "id": "1301", "matkul_id": "85", "class": "4-03", "name": "Imam Muhasan" },
+  { "id": "1302", "matkul_id": "83", "class": "4-03", "name": "Hendrawarman" },
+  {
+    "id": "1303",
+    "matkul_id": "80",
+    "class": "4-03",
+    "name": "Intan Puspitarini"
+  },
+  {
+    "id": "1304",
+    "matkul_id": "82",
+    "class": "4-03",
+    "name": "Roby Syaiful Ubed"
+  },
+  {
+    "id": "1305",
+    "matkul_id": "86",
+    "class": "4-03",
+    "name": "Yasser Arafat Usman"
+  },
+  { "id": "1306", "matkul_id": "84", "class": "4-04", "name": "Doni Triono" },
+  { "id": "1307", "matkul_id": "87", "class": "4-04", "name": "Nurbiyanto" },
+  { "id": "1308", "matkul_id": "81", "class": "4-04", "name": "Pratin" },
+  { "id": "1309", "matkul_id": "85", "class": "4-04", "name": "Imam Muhasan" },
+  { "id": "1310", "matkul_id": "83", "class": "4-04", "name": "Hendrawarman" },
+  { "id": "1311", "matkul_id": "80", "class": "4-04", "name": "Tanda Setiya" },
+  {
+    "id": "1312",
+    "matkul_id": "82",
+    "class": "4-04",
+    "name": "Roby Syaiful Ubed"
+  },
+  {
+    "id": "1313",
+    "matkul_id": "86",
+    "class": "4-04",
+    "name": "Aditya Wirawan"
+  },
+  {
+    "id": "1314",
+    "matkul_id": "84",
+    "class": "4-05",
+    "name": "I Gede Made Artha Dharmakarja"
+  },
+  { "id": "1315", "matkul_id": "87", "class": "4-05", "name": "Doni Triono" },
+  {
+    "id": "1316",
+    "matkul_id": "81",
+    "class": "4-05",
+    "name": "Pujo Hariyanto"
+  },
+  {
+    "id": "1317",
+    "matkul_id": "85",
+    "class": "4-05",
+    "name": "Rachmatunnisya"
+  },
+  {
+    "id": "1318",
+    "matkul_id": "83",
+    "class": "4-05",
+    "name": "Aditya Wirawan"
+  },
+  {
+    "id": "1319",
+    "matkul_id": "80",
+    "class": "4-05",
+    "name": "Roby Syaiful Ubed"
+  },
+  {
+    "id": "1320",
+    "matkul_id": "82",
+    "class": "4-05",
+    "name": "Intan Puspitarini"
+  },
+  {
+    "id": "1321",
+    "matkul_id": "86",
+    "class": "4-05",
+    "name": "Prayudi Nugroho"
+  },
+  {
+    "id": "1322",
+    "matkul_id": "84",
+    "class": "4-06",
+    "name": "Wurjanto Nopijantoro"
+  },
+  {
+    "id": "1323",
+    "matkul_id": "87",
+    "class": "4-06",
+    "name": "Taufik Raharjo"
+  },
+  {
+    "id": "1324",
+    "matkul_id": "81",
+    "class": "4-06",
+    "name": "Pujo Hariyanto"
+  },
+  {
+    "id": "1325",
+    "matkul_id": "85",
+    "class": "4-06",
+    "name": "Rachmatunnisya"
+  },
+  { "id": "1326", "matkul_id": "83", "class": "4-06", "name": "Imam Muhasan" },
+  {
+    "id": "1327",
+    "matkul_id": "80",
+    "class": "4-06",
+    "name": "Roby Syaiful Ubed"
+  },
+  {
+    "id": "1328",
+    "matkul_id": "82",
+    "class": "4-06",
+    "name": "Intan Puspitarini"
+  },
+  {
+    "id": "1329",
+    "matkul_id": "86",
+    "class": "4-06",
+    "name": "Yasser Arafat Usman"
+  },
+  { "id": "1330", "matkul_id": "68", "class": "4-01", "name": "Sri Murwani" },
+  { "id": "1331", "matkul_id": "67", "class": "4-01", "name": "Ivan Yulianto" },
+  {
+    "id": "1332",
+    "matkul_id": "66",
+    "class": "4-01",
+    "name": "Aditya Subur Purwana"
+  },
+  {
+    "id": "1333",
+    "matkul_id": "73",
+    "class": "4-01",
+    "name": "Masruri Muchtar"
+  },
+  { "id": "1334", "matkul_id": "69", "class": "4-01", "name": "Muh Nurkhamid" },
+  {
+    "id": "1335",
+    "matkul_id": "74",
+    "class": "4-01",
+    "name": "Nurul Budi Utomo"
+  },
+  {
+    "id": "1336",
+    "matkul_id": "71",
+    "class": "4-01",
+    "name": "Mohammad Fachrudin"
+  },
+  {
+    "id": "1337",
+    "matkul_id": "72",
+    "class": "4-01",
+    "name": "Agung Budilaksono"
+  },
+  {
+    "id": "1338",
+    "matkul_id": "70",
+    "class": "4-01",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  {
+    "id": "1339",
+    "matkul_id": "76",
+    "class": "6-01",
+    "name": "Masruri Muchtar"
+  },
+  { "id": "1340", "matkul_id": "78", "class": "6-01", "name": "Agus Sriyanto" },
+  { "id": "1341", "matkul_id": "77", "class": "6-01", "name": "Himawan Yusuf" },
+  { "id": "1342", "matkul_id": "75", "class": "6-01", "name": "Muh Nurkhamid" },
+  {
+    "id": "1343",
+    "matkul_id": "79",
+    "class": "6-01",
+    "name": "Mohammad Fachrudin"
+  },
+  {
+    "id": "1344",
+    "matkul_id": "76",
+    "class": "6-02",
+    "name": "Aditya Subur Purwana"
+  },
+  { "id": "1345", "matkul_id": "78", "class": "6-02", "name": "Agus Sriyanto" },
+  { "id": "1346", "matkul_id": "77", "class": "6-02", "name": "Himawan Yusuf" },
+  { "id": "1347", "matkul_id": "75", "class": "6-02", "name": "Muh Nurkhamid" },
+  {
+    "id": "1348",
+    "matkul_id": "79",
+    "class": "6-02",
+    "name": "Agung Budilaksono"
+  },
+  {
+    "id": "1349",
+    "matkul_id": "76",
+    "class": "6-03",
+    "name": "Aditya Subur Purwana"
+  },
+  {
+    "id": "1350",
+    "matkul_id": "78",
+    "class": "6-03",
+    "name": "Budhi Setyawan"
+  },
+  { "id": "1351", "matkul_id": "77", "class": "6-03", "name": "Himawan Yusuf" },
+  { "id": "1352", "matkul_id": "75", "class": "6-03", "name": "Sri Murwani" },
+  {
+    "id": "1353",
+    "matkul_id": "79",
+    "class": "6-03",
+    "name": "Marsanto Adi Nurcahyo"
+  },
+  { "id": "1354", "matkul_id": "76", "class": "6-04", "name": "Himawan Yusuf" },
+  {
+    "id": "1355",
+    "matkul_id": "78",
+    "class": "6-04",
+    "name": "Fajar Yulianto"
+  },
+  { "id": "1356", "matkul_id": "77", "class": "6-04", "name": "Ivan Yulianto" },
+  {
+    "id": "1357",
+    "matkul_id": "75",
+    "class": "6-04",
+    "name": "Muhammad Anshar Syamsuddin"
+  },
+  {
+    "id": "1358",
+    "matkul_id": "79",
+    "class": "6-04",
+    "name": "Mohammad Fachrudin"
+  }
+]

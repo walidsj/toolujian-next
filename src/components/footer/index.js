@@ -23,7 +23,7 @@ const socialMedia = [
 ];
 
 export default function Footer() {
-  const accentColor = useColorModeValue("teal.400", "teal.200");
+  const accentColor = useColorModeValue("teal.500", "teal.200");
   const grayColor = useColorModeValue("gray.500", "gray.400");
 
   return (
@@ -40,7 +40,7 @@ export default function Footer() {
           maxW={640}
           mx="auto"
         >
-          <Box py={2}>
+          <Box py={3}>
             <Text fontSize="xs" color={grayColor}>
               Made using{" "}
               <Link href="https://nextjs.org/" color={accentColor} isExternal>
@@ -63,7 +63,7 @@ export default function Footer() {
             <Text fontSize="xs" color={grayColor}>
               © 2020-{new Date().getFullYear()}{" "}
               <Link href="https://walid.id" isExternal>
-                <Link color={accentColor}>Lunatic Walid</Link>
+                <Link color={accentColor}>Walid</Link>
               </Link>
               .
             </Text>
