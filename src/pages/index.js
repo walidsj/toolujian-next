@@ -62,8 +62,9 @@ export default function Home() {
                   fontSize="1.25rem"
                   color="gray.400"
                   mt={1}
-                  children={<FaCreditCard />}
-                />
+                >
+                  <FaCreditCard />
+                </InputLeftElement>
                 <Input
                   variant="filled"
                   name="npm"
