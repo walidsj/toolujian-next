@@ -17,11 +17,13 @@ function MyApp({ Component, pageProps }) {
         showOnShallow={true}
         options={{ easing: "ease", speed: 500, showSpinner: false }}
       />
-      <Layout>
-        <AnimateSharedLayout>
-          <Component {...pageProps} />
-        </AnimateSharedLayout>
-      </Layout>
+      <Layout
+        children={
+          <AnimateSharedLayout>
+            <Component {...pageProps} />
+          </AnimateSharedLayout>
+        }
+      />
     </ChakraProvider>
   );
 }
