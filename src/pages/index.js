@@ -10,6 +10,7 @@ import {
   Input,
   InputGroup,
   InputLeftElement,
+  InputRightElement,
   Switch,
   Text,
   useColorModeValue,
@@ -160,10 +161,29 @@ export default function Home() {
               <FaSearch />
             </InputLeftElement>
             <Input
+              name="search"
+              type="text"
               variant="filled"
               placeholder="Type title, code, or lecturer..."
               onChange={(e) => setSearch(e.target.value)}
             />
+            {search && (
+              <InputRightElement width="4.5rem">
+                <Button
+                  h="1.75rem"
+                  size="sm"
+                  onClick={() => {
+                    setSearch("");
+                    Array.from(document.querySelectorAll("input")).forEach(
+                      (input) => (input.value = "")
+                    );
+                  }}
+                  color={grayColor}
+                >
+                  Clear
+                </Button>
+              </InputRightElement>
+            )}
           </InputGroup>
           {mahasiswa.matkul
             .filter((item) => {
