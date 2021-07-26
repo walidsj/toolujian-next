@@ -64,8 +64,13 @@ export default function Home() {
     const fetchData = async () => {
       const res = await fetch(`/api/mahasiswa/${npmQuery}/matkul`);
       const data = await res.json();
-      if (data.message) return swal("Failed", data.message, "error");
-      else setMahasiswa(data);
+      if (data.message) {
+        localStorage.removeItem("npm");
+        setMahasiswa("");
+        return swal("Failed", data.message, "error");
+      } else {
+        setMahasiswa(data);
+      }
     };
 
     if (currentNpm) setNpmQuery(currentNpm);
