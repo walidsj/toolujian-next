@@ -43,12 +43,14 @@ export default function Home() {
     "/logo-outline-white.svg"
   );
 
-  const [showPassword, setShowPassword] = useState(false);
+  const [showPassword, setShowPassword] = useState(true);
 
   const [npmQuery, setNpmQuery] = useState("");
   const [input, setInput] = useState("");
 
   const [remember, setRemember] = useState(false);
+
+  const [mahasiswa, setMahasiswa] = useState("");
 
   const handleNpm = async (e) => {
     e.preventDefault();
@@ -58,13 +60,22 @@ export default function Home() {
 
   useEffect(() => {
     const currentNpm = localStorage.getItem("npm");
-    if (currentNpm) setNpmQuery(currentNpm);
-  }, []);
 
-  const handleCopyFormat = (item) => {
+    const fetchData = async () => {
+      const res = await fetch(`/api/mahasiswa/${npmQuery}/matkul`);
+      const data = await res.json();
+      setMahasiswa(data);
+    };
+
+    if (currentNpm) setNpmQuery(currentNpm);
+
+    if (npmQuery) fetchData();
+  }, [npmQuery]);
+
+  const handleCopyFormat = (item, mahasiswa) => {
     let input = document.createElement("input");
     document.body.appendChild(input);
-    input.value = `LJU_${item.session}_${data.prodi.code}_${data.class}_${item.code}_${data.number}_${data.name}_${data.npm}`;
+    input.value = `LJU_${item.session}_${mahasiswa.prodi.code}_${mahasiswa.class}_${item.code}_${mahasiswa.number}_${mahasiswa.name}_${mahasiswa.npm}`;
     input.select();
     document.execCommand("copy");
     document.body.removeChild(input);
@@ -80,16 +91,14 @@ export default function Home() {
 
   const [search, setSearch] = useState("");
 
-  const { data } = useSWR(`/api/mahasiswa/${npmQuery}/matkul`, fetcher);
-
-  if (data)
+  if (mahasiswa)
     return (
       <motion.div
         initial={{ scale: 0.8, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
       >
         <NextSeo
-          title={`${data.name} (${data.npm}) - ${seo.title}`}
+          title={`${mahasiswa.name} (${mahasiswa.npm}) - ${seo.title}`}
           description={seo.description}
         />
 
@@ -105,10 +114,10 @@ export default function Home() {
               priority
             />
             <Heading as="h1" fontSize={["3xl", "4xl"]}>
-              {data.name}
+              {mahasiswa.name}
             </Heading>
             <Heading as="h2" fontSize="lg" fontWeight="400" py={1}>
-              {data.prodi.name} {data.year}
+              {mahasiswa.prodi.name} {mahasiswa.year}
             </Heading>
             <Heading as="h3" fontSize="sm" fontWeight="400" pt={1} pb={4}>
               <Flex
@@ -118,15 +127,15 @@ export default function Home() {
               >
                 <Icon as={FiCreditCard} />
                 <Text ml={1} mr={3}>
-                  {data.npm}
+                  {mahasiswa.npm}
                 </Text>
                 <Icon as={FiUsers} />
                 <Text ml={1} mr={3}>
-                  {data.class}
+                  {mahasiswa.class}
                 </Text>
                 <Icon as={FiBriefcase} />
                 <Text ml={1} mr={3}>
-                  {data.number}
+                  {mahasiswa.number}
                 </Text>
               </Flex>
             </Heading>
@@ -145,8 +154,12 @@ export default function Home() {
               onChange={(e) => setSearch(e.target.value)}
             />
           </InputGroup>
-          {data.matkul
-            .filter((item) => item.name.includes(search))
+          {mahasiswa.matkul
+            .filter((item) => {
+              if (search)
+                return item.name.toLowerCase().includes(search.toLowerCase());
+              else return true;
+            })
             .map((item) => {
               return (
                 <Flex
@@ -178,7 +191,9 @@ export default function Home() {
                     <Heading color={accentColor} fontSize="3xl" p="2">
                       {item.session}
                     </Heading>
-                    <Button onClick={() => handleCopyFormat(item)}>Copy</Button>
+                    <Button onClick={() => handleCopyFormat(item, mahasiswa)}>
+                      Copy
+                    </Button>
                   </Box>
                 </Flex>
               );
@@ -198,7 +213,7 @@ export default function Home() {
       </motion.div>
     );
 
-  if (!data)
+  if (!mahasiswa)
     return (
       <motion.div
         initial={{ scale: 0.8, opacity: 0 }}
