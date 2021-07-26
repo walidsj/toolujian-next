@@ -3,4 +3,5 @@ export const seo = {
   description:
     "Aplikasi sederhana untuk penamaan ujian akhir semester Politeknik Keuangan Negara STAN otomatis Tahun Ajaran 2020/2021.",
   author: "Moh. Walid Arkham Sani",
+  url: "https://uji.walid.id/",
 };

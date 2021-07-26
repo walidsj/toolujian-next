@@ -64,7 +64,8 @@ export default function Home() {
     const fetchData = async () => {
       const res = await fetch(`/api/mahasiswa/${npmQuery}/matkul`);
       const data = await res.json();
-      setMahasiswa(data);
+      if (data.message) return swal("Failed", data.message, "error");
+      else setMahasiswa(data);
     };
 
     if (currentNpm) setNpmQuery(currentNpm);
@@ -99,7 +100,6 @@ export default function Home() {
       >
         <NextSeo
           title={`${mahasiswa.name} (${mahasiswa.npm}) - ${seo.title}`}
-          description={seo.description}
         />
 
         <Box as="section" display="flex" flexDir="column" pt={6} pb={4}>
@@ -150,14 +150,21 @@ export default function Home() {
             </InputLeftElement>
             <Input
               variant="filled"
-              placeholder="Search your subject here..."
+              placeholder="Type title, code, or lecturer..."
               onChange={(e) => setSearch(e.target.value)}
             />
           </InputGroup>
           {mahasiswa.matkul
             .filter((item) => {
+              const filtered = (param) => {
+                return param.toLowerCase().includes(search.toLowerCase());
+              };
               if (search)
-                return item.name.toLowerCase().includes(search.toLowerCase());
+                return (
+                  filtered(item.name) ||
+                  filtered(item.code) ||
+                  filtered(item.dosen.name)
+                );
               else return true;
             })
             .map((item) => {
@@ -207,7 +214,7 @@ export default function Home() {
               setMahasiswa("");
             }}
           >
-            Type New NPM
+            Get Another NPM
           </Button>
         </Box>
       </motion.div>
@@ -219,7 +226,24 @@ export default function Home() {
         initial={{ scale: 0.8, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
       >
-        <NextSeo title={seo.title} description={seo.description} />
+        <NextSeo
+          title={seo.title}
+          description={seo.description}
+          canonical={seo.url}
+          openGraph={{
+            title: seo.title,
+            description: seo.title,
+            url: seo.url,
+            images: [
+              {
+                url: `${seo.url}logo.svg`,
+                width: "350px",
+                height: "350px",
+                alt: "avatar bigheads",
+              },
+            ],
+          }}
+        />
         <Box
           as="section"
           d="flex"

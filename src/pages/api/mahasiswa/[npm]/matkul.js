@@ -22,8 +22,7 @@ export default function getMahasiswaAndMatkulByNpm(req, res) {
     if (val.npm === req.query.npm) return true;
   })[0];
 
-  if (!mahasiswa)
-    return res.status(404).json({ message: "Data mahasiswa tidak ditemukan." });
+  if (!mahasiswa) return res.status(404).json({ message: "User not found." });
 
   const mahasiswasClass = mahasiswas
     .filter((val) => {
