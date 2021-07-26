@@ -20,6 +20,7 @@ import { NextSeo } from "next-seo";
 import { useEffect, useState } from "react";
 import { FiBriefcase, FiCreditCard, FiUsers } from "react-icons/fi";
 import {
+  FaArrowRight,
   FaBackspace,
   FaBackward,
   FaCopy,
@@ -69,6 +70,7 @@ export default function Home() {
         setMahasiswa("");
         return swal("Failed", data.message, "error");
       } else {
+        setInput("");
         setMahasiswa(data);
       }
     };
@@ -322,6 +324,18 @@ export default function Home() {
                     pl={14}
                     onChange={(e) => setInput(e.target.value)}
                   />
+                  {input && (
+                    <InputRightElement width="4.5rem">
+                      <Button
+                        mt="1.5rem"
+                        fontSize="1.5rem"
+                        color={grayColor}
+                        type="submit"
+                      >
+                        <FaArrowRight />
+                      </Button>
+                    </InputRightElement>
+                  )}
                 </InputGroup>
               </Flex>
               <Text fontSize="xs" py={4} color="gray.500">
