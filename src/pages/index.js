@@ -237,7 +237,7 @@ export default function Home() {
           canonical={seo.url}
           openGraph={{
             title: seo.title,
-            description: seo.title,
+            description: seo.description,
             url: seo.url,
             images: [
               {
