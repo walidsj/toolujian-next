@@ -1,5 +1,5 @@
 import { IconButton, useColorMode } from "@chakra-ui/react";
-import { FiMoon, FiSun } from "react-icons/fi";
+import { FaMoon, FaSun } from "react-icons/fa";
 
 export default function ColorModeToggle() {
   const { colorMode, toggleColorMode } = useColorMode();
@@ -9,11 +9,11 @@ export default function ColorModeToggle() {
       ml={{ lg: "4" }}
       variant="ghost"
       onClick={toggleColorMode}
-      fontSize="1.5rem"
+      fontSize="1.25rem"
       isRound
       aria-label="Dark mode toggle"
     >
-      {colorMode === "light" ? <FiMoon /> : <FiSun />}
+      {colorMode === "light" ? <FaMoon /> : <FaSun />}
     </IconButton>
   );
 }

@@ -10,7 +10,6 @@ import {
   Input,
   InputGroup,
   InputLeftElement,
-  InputRightElement,
   Switch,
   Text,
   useColorModeValue,
@@ -18,13 +17,15 @@ import {
 import { motion } from "framer-motion";
 import { NextSeo } from "next-seo";
 import { useEffect, useState } from "react";
+import { FiBriefcase, FiCreditCard, FiUsers } from "react-icons/fi";
 import {
-  FiBriefcase,
-  FiCopy,
-  FiCreditCard,
-  FiSearch,
-  FiUsers,
-} from "react-icons/fi";
+  FaBackspace,
+  FaBackward,
+  FaCopy,
+  FaCreditCard,
+  FaDoorClosed,
+  FaSearch,
+} from "react-icons/fa";
 import { AiOutlineEnter } from "react-icons/ai";
 import { seo } from "../config";
 import useSWR from "swr";
@@ -42,8 +43,6 @@ export default function Home() {
     "/logo-outline.svg",
     "/logo-outline-white.svg"
   );
-
-  const [showPassword, setShowPassword] = useState(true);
 
   const [npmQuery, setNpmQuery] = useState("");
   const [input, setInput] = useState("");
@@ -118,13 +117,20 @@ export default function Home() {
               blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
               priority
             />
-            <Heading as="h1" fontSize={["3xl", "4xl"]}>
+            <Heading as="h1" fontSize="4xl">
               {mahasiswa.name}
             </Heading>
-            <Heading as="h2" fontSize="lg" fontWeight="400" py={1}>
+            <Heading as="h2" fontSize="xl" fontWeight="400" py={1}>
               {mahasiswa.prodi.name} {mahasiswa.year}
             </Heading>
-            <Heading as="h3" fontSize="sm" fontWeight="400" pt={1} pb={4}>
+            <Heading
+              as="h3"
+              fontSize="sm"
+              color={grayColor}
+              fontWeight="400"
+              pt={1}
+              pb={4}
+            >
               <Flex
                 alignItems="center"
                 flexDirection="row"
@@ -151,7 +157,7 @@ export default function Home() {
           </Heading>
           <InputGroup mx="auto" mb={4}>
             <InputLeftElement pointerEvents="none" color="gray.400">
-              <FiSearch />
+              <FaSearch />
             </InputLeftElement>
             <Input
               variant="filled"
@@ -203,7 +209,10 @@ export default function Home() {
                     <Heading color={accentColor} fontSize="3xl" p="2">
                       {item.session}
                     </Heading>
-                    <Button onClick={() => handleCopyFormat(item, mahasiswa)}>
+                    <Button
+                      color={grayColor}
+                      onClick={() => handleCopyFormat(item, mahasiswa)}
+                    >
                       Copy
                     </Button>
                   </Box>
@@ -214,12 +223,15 @@ export default function Home() {
         <Box textAlign="center">
           <Button
             mt={6}
+            leftIcon={<FaBackspace />}
             onClick={() => {
               localStorage.removeItem("npm");
               setMahasiswa("");
               setRemember(false);
               setNpmQuery("");
+              setSearch("");
             }}
+            color={grayColor}
           >
             Try Another NPM
           </Button>
@@ -272,33 +284,23 @@ export default function Home() {
                 <InputGroup mx="auto">
                   <InputLeftElement
                     pointerEvents="none"
-                    fontSize="1.25rem"
+                    fontSize="1.5rem"
                     color="gray.400"
-                    mt={1}
+                    my=".75rem"
+                    ml=".65rem"
                   >
-                    <FiCreditCard />
+                    <FaCreditCard />
                   </InputLeftElement>
                   <Input
                     variant="filled"
                     name="npmQuery"
                     placeholder="Type your NPM..."
-                    size="lg"
-                    fontWeight={600}
-                    type={showPassword ? "number" : "password"}
+                    fontWeight={700}
+                    fontSize={{ base: "2xl", lg: "3xl" }}
+                    height="64px"
+                    pl={14}
                     onChange={(e) => setInput(e.target.value)}
                   />
-                  <InputRightElement width="4.5rem">
-                    <Button
-                      aria-label="Show or hide password"
-                      mt={2}
-                      h="1.75rem"
-                      size="sm"
-                      color="gray.400"
-                      onClick={() => setShowPassword(!showPassword)}
-                    >
-                      {showPassword ? "Hide" : "Show"}
-                    </Button>
-                  </InputRightElement>
                 </InputGroup>
               </Flex>
               <Text fontSize="xs" py={4} color="gray.500">
