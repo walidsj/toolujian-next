@@ -204,7 +204,7 @@ export default function Home() {
             mt={6}
             onClick={() => {
               localStorage.removeItem("npm");
-              setNpmQuery("");
+              setMahasiswa("");
             }}
           >
             Type New NPM
