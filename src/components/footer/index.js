@@ -36,7 +36,7 @@ export default function Footer() {
           flexDir="column"
           textAlign="center"
           minH="4rem"
-          py={8}
+          py={7}
           maxW={640}
           mx="auto"
         >
