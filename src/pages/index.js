@@ -241,10 +241,10 @@ export default function Home() {
             url: seo.url,
             images: [
               {
-                url: `${seo.url}logo.svg`,
+                url: `${seo.url}logo.png`,
                 width: "350px",
                 height: "350px",
-                alt: "avatar bigheads",
+                alt: seo.title,
               },
             ],
           }}
