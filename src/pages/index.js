@@ -217,6 +217,8 @@ export default function Home() {
             onClick={() => {
               localStorage.removeItem("npm");
               setMahasiswa("");
+              setRemember(false);
+              setNpmQuery("");
             }}
           >
             Get Another NPM
