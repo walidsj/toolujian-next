@@ -221,7 +221,7 @@ export default function Home() {
               setNpmQuery("");
             }}
           >
-            Get Another NPM
+            Try Another NPM
           </Button>
         </Box>
       </motion.div>
