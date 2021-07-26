@@ -293,6 +293,7 @@ export default function Home() {
                   </InputLeftElement>
                   <Input
                     variant="filled"
+                    type="number"
                     name="npmQuery"
                     placeholder="Type your NPM..."
                     fontWeight={700}
