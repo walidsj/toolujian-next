@@ -211,7 +211,8 @@ export default function Home() {
                 >
                   <Box pr={2}>
                     <Text fontSize="sm" fontWeight="500" py="1">
-                      {dayjs(item.date).format("ddd, D MMM YYYY")} - {item.hour}
+                      {dayjs(item.date).format("ddd, D MMM YYYY")} - {item.hour}{" "}
+                      WIB
                     </Text>
 
                     <Heading as="h3" fontSize="xl" fontWeight="700">
