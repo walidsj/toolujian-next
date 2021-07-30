@@ -61,20 +61,6 @@ function Navbar() {
               <a onClick={closeMenu}>About</a>
             </NextLink>
           </chakra.li>
-
-          <chakra.li
-            listStyleType="none"
-            px={{ lg: "4" }}
-            py={{ base: "3", lg: "0" }}
-          >
-            <Link
-              href="https://github.com/walidsj/ujian-next"
-              isExternal
-              style={{ textDecoration: "none" }}
-            >
-              <a onClick={closeMenu}>Source</a>
-            </Link>
-          </chakra.li>
         </chakra.ul>
 
         <ColorModeToggle />
