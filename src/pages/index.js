@@ -216,6 +216,13 @@ export default function Home() {
           </InputGroup>
           {mahasiswa.matkul
             .filter((item) => {
+              if (
+                new Date(item.date).toLocaleDateString() >=
+                new Date().toLocaleDateString()
+              )
+                return true;
+            })
+            .filter((item) => {
               const filtered = (param) => {
                 return param.toLowerCase().includes(search.toLowerCase());
               };
@@ -257,6 +264,78 @@ export default function Home() {
                   </Box>
                   <Box pl={2} textAlign="center" flexDirection="column">
                     <Heading color={accentColor} fontSize="3xl" p="2">
+                      {item.session}
+                    </Heading>
+                    <Button
+                      color={grayColor}
+                      onClick={() => handleCopyFormat(item, mahasiswa)}
+                    >
+                      Copy
+                    </Button>
+                  </Box>
+                </Flex>
+              );
+            })}
+          {mahasiswa.matkul
+            .filter((item) => {
+              if (
+                new Date(item.date).toLocaleDateString() <
+                new Date().toLocaleDateString()
+              )
+                return true;
+            })
+            .filter((item) => {
+              const filtered = (param) => {
+                return param.toLowerCase().includes(search.toLowerCase());
+              };
+              if (search)
+                return (
+                  filtered(item.name) ||
+                  filtered(item.code) ||
+                  filtered(item.dosen.name)
+                );
+              else return true;
+            })
+            .map((item) => {
+              return (
+                <Flex
+                  flexDirection="row"
+                  alignItems="center"
+                  justifyContent="space-between"
+                  my="3"
+                  key={item.id}
+                >
+                  <Box pr={2}>
+                    <Text
+                      fontSize="sm"
+                      fontWeight="500"
+                      py="1"
+                      color={grayColor}
+                    >
+                      {dayjs(item.date).format("ddd, D MMM YYYY")} - {item.hour}{" "}
+                      WIB
+                    </Text>
+
+                    <Heading
+                      as="h3"
+                      fontSize="xl"
+                      fontWeight="700"
+                      color={grayColor}
+                    >
+                      {item.name}
+                    </Heading>
+
+                    <Text
+                      fontSize="md"
+                      fontWeight="400"
+                      color={grayColor}
+                      py="1"
+                    >
+                      {item.dosen.name}
+                    </Text>
+                  </Box>
+                  <Box pl={2} textAlign="center" flexDirection="column">
+                    <Heading color={grayColor} fontSize="3xl" p="2">
                       {item.session}
                     </Heading>
                     <Button
