@@ -11,6 +11,7 @@ import {
   InputGroup,
   InputLeftElement,
   InputRightElement,
+  Link,
   Switch,
   Text,
   useColorModeValue,
@@ -22,11 +23,11 @@ import { FiBriefcase, FiCreditCard, FiUsers } from "react-icons/fi";
 import {
   FaArrowRight,
   FaBackspace,
-  FaBackward,
-  FaCopy,
   FaCreditCard,
   FaDoorClosed,
   FaSearch,
+  FaUpload,
+  FaWhatsapp,
 } from "react-icons/fa";
 import { AiOutlineEnter } from "react-icons/ai";
 import { seo } from "../config";
@@ -153,10 +154,36 @@ export default function Home() {
                 </Text>
               </Flex>
             </Heading>
+            <Flex
+              alignItems="center"
+              flexDirection="row"
+              justifyContent="center"
+            >
+              <Link
+                href={mahasiswa.link.url}
+                aria-label="link upload"
+                style={{ textDecoration: "none" }}
+                isExternal
+              >
+                <Button color={grayColor} mx={2} leftIcon={<FaUpload />}>
+                  Submit Form
+                </Button>
+              </Link>
+              <Link
+                href={`https://wa.me/${mahasiswa.jurusan.contact}`}
+                aria-label="link upload"
+                style={{ textDecoration: "none" }}
+                isExternal
+              >
+                <Button color={grayColor} mx={2} leftIcon={<FaWhatsapp />}>
+                  Helpdesk
+                </Button>
+              </Link>
+            </Flex>
           </Box>
           <Divider orientation="horizontal" mt={4} mb={12} />
           <Heading mb={3} fontSize={["2xl", "3xl"]} fontWeight="700">
-            Your Subject
+            Your Subjects
           </Heading>
           <InputGroup mx="auto" mb={4}>
             <InputLeftElement pointerEvents="none" color="gray.400">

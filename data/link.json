@@ -1,1478 +1,986 @@
 [
-  {
-    "id": "1",
-    "semester_id": "3",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3aktap_4-01"
-  },
-  {
-    "id": "2",
-    "semester_id": "4",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3aktap_6-01"
-  },
-  {
-    "id": "3",
-    "semester_id": "4",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3aktap_6-02"
-  },
-  {
-    "id": "4",
-    "semester_id": "4",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3aktap_6-03"
-  },
-  {
-    "id": "5",
-    "semester_id": "4",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3aktap_6-04"
-  },
-  {
-    "id": "6",
-    "semester_id": "4",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3aktap_6-05"
-  },
-  {
-    "id": "7",
-    "semester_id": "4",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3aktap_6-06"
-  },
-  {
-    "id": "8",
-    "semester_id": "4",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3aktap_6-07"
-  },
-  {
-    "id": "9",
-    "semester_id": "4",
-    "class": "6-08",
-    "url": "http://gg.gg/lju_d3aktap_6-08"
-  },
-  {
-    "id": "10",
-    "semester_id": "4",
-    "class": "6-09",
-    "url": "http://gg.gg/lju_d3aktap_6-09"
-  },
-  {
-    "id": "11",
-    "semester_id": "26",
-    "class": "2-01",
-    "url": "http://gg.gg/lju_d3akt_2-01"
-  },
-  {
-    "id": "12",
-    "semester_id": "1",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3akt_4-01"
-  },
-  {
-    "id": "13",
-    "semester_id": "1",
-    "class": "4-02",
-    "url": "http://gg.gg/lju_d3akt_4-02"
-  },
-  {
-    "id": "14",
-    "semester_id": "1",
-    "class": "4-03",
-    "url": "http://gg.gg/lju_d3akt_4-03"
-  },
-  {
-    "id": "15",
-    "semester_id": "1",
-    "class": "4-04",
-    "url": "http://gg.gg/lju_d3akt_4-04"
-  },
-  {
-    "id": "16",
-    "semester_id": "1",
-    "class": "4-05",
-    "url": "http://gg.gg/lju_d3akt_4-05"
-  },
-  {
-    "id": "17",
-    "semester_id": "1",
-    "class": "4-06",
-    "url": "http://gg.gg/lju_d3akt_4-06"
-  },
-  {
-    "id": "18",
-    "semester_id": "1",
-    "class": "4-07",
-    "url": "http://gg.gg/lju_d3akt_4-07"
-  },
-  {
-    "id": "19",
-    "semester_id": "1",
-    "class": "4-08",
-    "url": "http://gg.gg/lju_d3akt_4-08"
-  },
-  {
-    "id": "20",
-    "semester_id": "1",
-    "class": "4-09",
-    "url": "http://gg.gg/lju_d3akt_4-09"
-  },
-  {
-    "id": "21",
-    "semester_id": "1",
-    "class": "4-10",
-    "url": "http://gg.gg/lju_d3akt_4-10"
-  },
-  {
-    "id": "22",
-    "semester_id": "1",
-    "class": "4-11",
-    "url": "http://gg.gg/lju_d3akt_4-11"
-  },
-  {
-    "id": "23",
-    "semester_id": "1",
-    "class": "4-12",
-    "url": "http://gg.gg/lju_d3akt_4-12"
-  },
-  {
-    "id": "24",
-    "semester_id": "1",
-    "class": "4-13",
-    "url": "http://gg.gg/lju_d3akt_4-13"
-  },
-  {
-    "id": "25",
-    "semester_id": "1",
-    "class": "4-14",
-    "url": "http://gg.gg/lju_d3akt_4-14"
-  },
-  {
-    "id": "26",
-    "semester_id": "1",
-    "class": "4-15",
-    "url": "http://gg.gg/lju_d3akt_4-15"
-  },
-  {
-    "id": "27",
-    "semester_id": "1",
-    "class": "4-16",
-    "url": "http://gg.gg/lju_d3akt_4-16"
-  },
-  {
-    "id": "28",
-    "semester_id": "1",
-    "class": "4-17",
-    "url": "http://gg.gg/lju_d3akt_4-17"
-  },
-  {
-    "id": "29",
-    "semester_id": "1",
-    "class": "4-18",
-    "url": "http://gg.gg/lju_d3akt_4-18"
-  },
-  {
-    "id": "30",
-    "semester_id": "1",
-    "class": "4-19",
-    "url": "http://gg.gg/lju_d3akt_4-19"
-  },
-  {
-    "id": "31",
-    "semester_id": "1",
-    "class": "4-20",
-    "url": "http://gg.gg/lju_d3akt_4-20"
-  },
-  {
-    "id": "32",
-    "semester_id": "1",
-    "class": "4-21",
-    "url": "http://gg.gg/lju_d3akt_4-21"
-  },
-  {
-    "id": "33",
-    "semester_id": "1",
-    "class": "4-22",
-    "url": "http://gg.gg/lju_d3akt_4-22"
-  },
-  {
-    "id": "34",
-    "semester_id": "1",
-    "class": "4-23",
-    "url": "http://gg.gg/lju_d3akt_4-23"
-  },
-  {
-    "id": "35",
-    "semester_id": "1",
-    "class": "4-24",
-    "url": "http://gg.gg/lju_d3akt_4-24"
-  },
-  {
-    "id": "36",
-    "semester_id": "1",
-    "class": "4-25",
-    "url": "http://gg.gg/lju_d3akt_4-25"
-  },
-  {
-    "id": "37",
-    "semester_id": "1",
-    "class": "4-26",
-    "url": "http://gg.gg/lju_d3akt_4-26"
-  },
-  {
-    "id": "38",
-    "semester_id": "1",
-    "class": "4-27",
-    "url": "http://gg.gg/lju_d3akt_4-27"
-  },
-  {
-    "id": "39",
-    "semester_id": "1",
-    "class": "4-28",
-    "url": "http://gg.gg/lju_d3akt_4-28"
-  },
-  {
-    "id": "40",
-    "semester_id": "1",
-    "class": "4-29",
-    "url": "http://gg.gg/lju_d3akt_4-29"
-  },
-  {
-    "id": "41",
-    "semester_id": "1",
-    "class": "4-30",
-    "url": "http://gg.gg/lju_d3akt_4-30"
-  },
-  {
-    "id": "42",
-    "semester_id": "1",
-    "class": "4-31",
-    "url": "http://gg.gg/lju_d3akt_4-31"
-  },
-  {
-    "id": "43",
-    "semester_id": "1",
-    "class": "4-32",
-    "url": "http://gg.gg/lju_d3akt_4-32"
-  },
-  {
-    "id": "44",
-    "semester_id": "1",
-    "class": "4-33",
-    "url": "http://gg.gg/lju_d3akt_4-33"
-  },
-  {
-    "id": "45",
-    "semester_id": "1",
-    "class": "4-34",
-    "url": "http://gg.gg/lju_d3akt_4-34"
-  },
-  {
-    "id": "46",
-    "semester_id": "1",
-    "class": "4-35",
-    "url": "http://gg.gg/lju_d3akt_4-35"
-  },
-  {
-    "id": "47",
-    "semester_id": "1",
-    "class": "4-36",
-    "url": "http://gg.gg/lju_d3akt_4-36"
-  },
-  {
-    "id": "48",
-    "semester_id": "1",
-    "class": "4-37",
-    "url": "http://gg.gg/lju_d3akt_4-37"
-  },
-  {
-    "id": "49",
-    "semester_id": "1",
-    "class": "4-38",
-    "url": "http://gg.gg/lju_d3akt_4-38"
-  },
-  {
-    "id": "50",
-    "semester_id": "1",
-    "class": "4-39",
-    "url": "http://gg.gg/lju_d3akt_4-39"
-  },
-  {
-    "id": "51",
-    "semester_id": "1",
-    "class": "4-40",
-    "url": "http://gg.gg/lju_d3akt_4-40"
-  },
-  {
-    "id": "52",
-    "semester_id": "1",
-    "class": "4-41",
-    "url": "http://gg.gg/lju_d3akt_4-41"
-  },
-  {
-    "id": "53",
-    "semester_id": "1",
-    "class": "4-42",
-    "url": "http://gg.gg/lju_d3akt_4-42"
-  },
-  {
-    "id": "54",
-    "semester_id": "1",
-    "class": "4-43",
-    "url": "http://gg.gg/lju_d3akt_4-43"
-  },
-  {
-    "id": "55",
-    "semester_id": "1",
-    "class": "4-44",
-    "url": "http://gg.gg/lju_d3akt_4-44"
-  },
-  {
-    "id": "56",
-    "semester_id": "1",
-    "class": "4-45",
-    "url": "http://gg.gg/lju_d3akt_4-45"
-  },
-  {
-    "id": "57",
-    "semester_id": "1",
-    "class": "4-46",
-    "url": "http://gg.gg/lju_d3akt_4-46"
-  },
-  {
-    "id": "58",
-    "semester_id": "1",
-    "class": "4-47",
-    "url": "http://gg.gg/lju_d3akt_4-47"
-  },
-  {
-    "id": "59",
-    "semester_id": "1",
-    "class": "4-48",
-    "url": "http://gg.gg/lju_d3akt_4-48"
-  },
-  {
-    "id": "60",
-    "semester_id": "2",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3akt_6-01"
-  },
-  {
-    "id": "61",
-    "semester_id": "2",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3akt_6-02"
-  },
-  {
-    "id": "62",
-    "semester_id": "2",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3akt_6-03"
-  },
-  {
-    "id": "63",
-    "semester_id": "2",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3akt_6-04"
-  },
-  {
-    "id": "64",
-    "semester_id": "2",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3akt_6-05"
-  },
-  {
-    "id": "65",
-    "semester_id": "2",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3akt_6-06"
-  },
-  {
-    "id": "66",
-    "semester_id": "2",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3akt_6-07"
-  },
-  {
-    "id": "67",
-    "semester_id": "2",
-    "class": "6-08",
-    "url": "http://gg.gg/lju_d3akt_6-08"
-  },
-  {
-    "id": "68",
-    "semester_id": "2",
-    "class": "6-09",
-    "url": "http://gg.gg/lju_d3akt_6-09"
-  },
-  {
-    "id": "69",
-    "semester_id": "2",
-    "class": "6-10",
-    "url": "http://gg.gg/lju_d3akt_6-10"
-  },
-  {
-    "id": "70",
-    "semester_id": "2",
-    "class": "6-11",
-    "url": "http://gg.gg/lju_d3akt_6-11"
-  },
-  {
-    "id": "71",
-    "semester_id": "2",
-    "class": "6-12",
-    "url": "http://gg.gg/lju_d3akt_6-12"
-  },
-  {
-    "id": "72",
-    "semester_id": "2",
-    "class": "6-13",
-    "url": "http://gg.gg/lju_d3akt_6-13"
-  },
-  {
-    "id": "73",
-    "semester_id": "2",
-    "class": "6-14",
-    "url": "http://gg.gg/lju_d3akt_6-14"
-  },
-  {
-    "id": "74",
-    "semester_id": "2",
-    "class": "6-15",
-    "url": "http://gg.gg/lju_d3akt_6-15"
-  },
-  {
-    "id": "75",
-    "semester_id": "2",
-    "class": "6-16",
-    "url": "http://gg.gg/lju_d3akt_6-16"
-  },
-  {
-    "id": "76",
-    "semester_id": "2",
-    "class": "6-17",
-    "url": "http://gg.gg/lju_d3akt_6-17"
-  },
-  {
-    "id": "77",
-    "semester_id": "2",
-    "class": "6-18",
-    "url": "http://gg.gg/lju_d3akt_6-18"
-  },
-  {
-    "id": "78",
-    "semester_id": "2",
-    "class": "6-19",
-    "url": "http://gg.gg/lju_d3akt_6-19"
-  },
-  {
-    "id": "79",
-    "semester_id": "2",
-    "class": "6-20",
-    "url": "http://gg.gg/lju_d3akt_6-20"
-  },
-  {
-    "id": "80",
-    "semester_id": "2",
-    "class": "6-21",
-    "url": "http://gg.gg/lju_d3akt_6-21"
-  },
-  {
-    "id": "81",
-    "semester_id": "2",
-    "class": "6-22",
-    "url": "http://gg.gg/lju_d3akt_6-22"
-  },
-  {
-    "id": "82",
-    "semester_id": "2",
-    "class": "6-23",
-    "url": "http://gg.gg/lju_d3akt_6-23"
-  },
-  {
-    "id": "83",
-    "semester_id": "2",
-    "class": "6-24",
-    "url": "http://gg.gg/lju_d3akt_6-24"
-  },
-  {
-    "id": "84",
-    "semester_id": "2",
-    "class": "6-25",
-    "url": "http://gg.gg/lju_d3akt_6-25"
-  },
-  {
-    "id": "85",
-    "semester_id": "2",
-    "class": "6-26",
-    "url": "http://gg.gg/lju_d3akt_6-26"
-  },
-  {
-    "id": "86",
-    "semester_id": "2",
-    "class": "6-27",
-    "url": "http://gg.gg/lju_d3akt_6-27"
-  },
-  {
-    "id": "87",
-    "semester_id": "2",
-    "class": "6-28",
-    "url": "http://gg.gg/lju_d3akt_6-28"
-  },
-  {
-    "id": "88",
-    "semester_id": "2",
-    "class": "6-29",
-    "url": "http://gg.gg/lju_d3akt_6-29"
-  },
-  {
-    "id": "89",
-    "semester_id": "2",
-    "class": "6-30",
-    "url": "http://gg.gg/lju_d3akt_6-30"
-  },
-  {
-    "id": "90",
-    "semester_id": "2",
-    "class": "6-31",
-    "url": "http://gg.gg/lju_d3akt_6-31"
-  },
-  {
-    "id": "91",
-    "semester_id": "2",
-    "class": "6-32",
-    "url": "http://gg.gg/lju_d3akt_6-32"
-  },
-  {
-    "id": "92",
-    "semester_id": "2",
-    "class": "6-33",
-    "url": "http://gg.gg/lju_d3akt_6-33"
-  },
-  {
-    "id": "93",
-    "semester_id": "2",
-    "class": "6-34",
-    "url": "http://gg.gg/lju_d3akt_6-34"
-  },
-  {
-    "id": "94",
-    "semester_id": "2",
-    "class": "6-35",
-    "url": "http://gg.gg/lju_d3akt_6-35"
-  },
-  {
-    "id": "95",
-    "semester_id": "2",
-    "class": "6-36",
-    "url": "http://gg.gg/lju_d3akt_6-36"
-  },
-  {
-    "id": "96",
-    "semester_id": "2",
-    "class": "6-37",
-    "url": "http://gg.gg/lju_d3akt_6-37"
-  },
-  {
-    "id": "97",
-    "semester_id": "2",
-    "class": "6-38",
-    "url": "http://gg.gg/lju_d3akt_6-38"
-  },
-  {
-    "id": "98",
-    "semester_id": "2",
-    "class": "6-39",
-    "url": "http://gg.gg/lju_d3akt_6-39"
-  },
-  {
-    "id": "99",
-    "semester_id": "2",
-    "class": "6-40",
-    "url": "http://gg.gg/lju_d3akt_6-40"
-  },
-  {
-    "id": "100",
-    "semester_id": "2",
-    "class": "6-41",
-    "url": "http://gg.gg/lju_d3akt_6-41"
-  },
-  {
-    "id": "101",
-    "semester_id": "2",
-    "class": "6-42",
-    "url": "http://gg.gg/lju_d3akt_6-42"
-  },
-  {
-    "id": "102",
-    "semester_id": "2",
-    "class": "6-43",
-    "url": "http://gg.gg/lju_d3akt_6-43"
-  },
-  {
-    "id": "103",
-    "semester_id": "2",
-    "class": "6-44",
-    "url": "http://gg.gg/lju_d3akt_6-44"
-  },
-  {
-    "id": "104",
-    "semester_id": "2",
-    "class": "6-45",
-    "url": "http://gg.gg/lju_d3akt_6-45"
-  },
-  {
-    "id": "105",
-    "semester_id": "2",
-    "class": "6-46",
-    "url": "http://gg.gg/lju_d3akt_6-46"
-  },
-  {
-    "id": "106",
-    "semester_id": "2",
-    "class": "6-47",
-    "url": "http://gg.gg/lju_d3akt_6-47"
-  },
-  {
-    "id": "107",
-    "semester_id": "2",
-    "class": "6-48",
-    "url": "http://gg.gg/lju_d3akt_6-48"
-  },
-  {
-    "id": "108",
-    "semester_id": "2",
-    "class": "6-49",
-    "url": "http://gg.gg/lju_d3akt_6-49"
-  },
-  {
-    "id": "109",
-    "semester_id": "2",
-    "class": "6-50",
-    "url": "http://gg.gg/lju_d3akt_6-50"
-  },
-  {
-    "id": "110",
-    "semester_id": "2",
-    "class": "6-51",
-    "url": "http://gg.gg/lju_d3akt_6-51"
-  },
-  {
-    "id": "111",
-    "semester_id": "2",
-    "class": "6-52",
-    "url": "http://gg.gg/lju_d3akt_6-52"
-  },
-  {
-    "id": "112",
-    "semester_id": "2",
-    "class": "6-53",
-    "url": "http://gg.gg/lju_d3akt_6-53"
-  },
-  {
-    "id": "113",
-    "semester_id": "2",
-    "class": "6-54",
-    "url": "http://gg.gg/lju_d3akt_6-54"
-  },
-  {
-    "id": "114",
-    "semester_id": "2",
-    "class": "6-55",
-    "url": "http://gg.gg/lju_d3akt_6-55"
-  },
-  {
-    "id": "115",
-    "semester_id": "2",
-    "class": "6-56",
-    "url": "http://gg.gg/lju_d3akt_6-56"
-  },
-  {
-    "id": "116",
-    "semester_id": "2",
-    "class": "6-57",
-    "url": "http://gg.gg/lju_d3akt_6-57"
-  },
-  {
-    "id": "117",
-    "semester_id": "2",
-    "class": "6-58",
-    "url": "http://gg.gg/lju_d3akt_6-58"
-  },
-  {
-    "id": "118",
-    "semester_id": "2",
-    "class": "6-59",
-    "url": "http://gg.gg/lju_d3akt_6-59"
-  },
-  {
-    "id": "119",
-    "semester_id": "23",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3kbnap_6-01"
-  },
-  {
-    "id": "120",
-    "semester_id": "21",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3kbn_4-01"
-  },
-  {
-    "id": "121",
-    "semester_id": "21",
-    "class": "4-02",
-    "url": "http://gg.gg/lju_d3kbn_4-02"
-  },
-  {
-    "id": "122",
-    "semester_id": "21",
-    "class": "4-03",
-    "url": "http://gg.gg/lju_d3kbn_4-03"
-  },
-  {
-    "id": "123",
-    "semester_id": "21",
-    "class": "4-04",
-    "url": "http://gg.gg/lju_d3kbn_4-04"
-  },
-  {
-    "id": "124",
-    "semester_id": "21",
-    "class": "4-05",
-    "url": "http://gg.gg/lju_d3kbn_4-05"
-  },
-  {
-    "id": "125",
-    "semester_id": "21",
-    "class": "4-06",
-    "url": "http://gg.gg/lju_d3kbn_4-06"
-  },
-  {
-    "id": "126",
-    "semester_id": "21",
-    "class": "4-07",
-    "url": "http://gg.gg/lju_d3kbn_4-07"
-  },
-  {
-    "id": "127",
-    "semester_id": "21",
-    "class": "4-08",
-    "url": "http://gg.gg/lju_d3kbn_4-08"
-  },
-  {
-    "id": "128",
-    "semester_id": "21",
-    "class": "4-09",
-    "url": "http://gg.gg/lju_d3kbn_4-09"
-  },
-  {
-    "id": "129",
-    "semester_id": "21",
-    "class": "4-10",
-    "url": "http://gg.gg/lju_d3kbn_4-10"
-  },
-  {
-    "id": "130",
-    "semester_id": "21",
-    "class": "4-11",
-    "url": "http://gg.gg/lju_d3kbn_4-11"
-  },
-  {
-    "id": "131",
-    "semester_id": "22",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3kbn_6-01"
-  },
-  {
-    "id": "132",
-    "semester_id": "22",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3kbn_6-02"
-  },
-  {
-    "id": "133",
-    "semester_id": "22",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3kbn_6-03"
-  },
-  {
-    "id": "134",
-    "semester_id": "22",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3kbn_6-04"
-  },
-  {
-    "id": "135",
-    "semester_id": "22",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3kbn_6-05"
-  },
-  {
-    "id": "136",
-    "semester_id": "22",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3kbn_6-06"
-  },
-  {
-    "id": "137",
-    "semester_id": "22",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3kbn_6-07"
-  },
-  {
-    "id": "138",
-    "semester_id": "22",
-    "class": "6-08",
-    "url": "http://gg.gg/lju_d3kbn_6-08"
-  },
-  {
-    "id": "139",
-    "semester_id": "22",
-    "class": "6-09",
-    "url": "http://gg.gg/lju_d3kbn_6-09"
-  },
-  {
-    "id": "140",
-    "semester_id": "22",
-    "class": "6-10",
-    "url": "http://gg.gg/lju_d3kbn_6-10"
-  },
-  {
-    "id": "141",
-    "semester_id": "22",
-    "class": "6-11",
-    "url": "http://gg.gg/lju_d3kbn_6-11"
-  },
-  {
-    "id": "142",
-    "semester_id": "22",
-    "class": "6-12",
-    "url": "http://gg.gg/lju_d3kbn_6-12"
-  },
-  {
-    "id": "143",
-    "semester_id": "22",
-    "class": "6-13",
-    "url": "http://gg.gg/lju_d3kbn_6-13"
-  },
-  {
-    "id": "144",
-    "semester_id": "22",
-    "class": "6-14",
-    "url": "http://gg.gg/lju_d3kbn_6-14"
-  },
-  {
-    "id": "145",
-    "semester_id": "22",
-    "class": "6-15",
-    "url": "http://gg.gg/lju_d3kbn_6-15"
-  },
-  {
-    "id": "146",
-    "semester_id": "22",
-    "class": "6-16",
-    "url": "http://gg.gg/lju_d3kbn_6-16"
-  },
-  {
-    "id": "147",
-    "semester_id": "22",
-    "class": "6-17",
-    "url": "http://gg.gg/lju_d3kbn_6-17"
-  },
-  {
-    "id": "148",
-    "semester_id": "22",
-    "class": "6-18",
-    "url": "http://gg.gg/lju_d3kbn_6-18"
-  },
-  {
-    "id": "149",
-    "semester_id": "22",
-    "class": "6-19",
-    "url": "http://gg.gg/lju_d3kbn_6-19"
-  },
-  {
-    "id": "150",
-    "semester_id": "22",
-    "class": "6-20",
-    "url": "http://gg.gg/lju_d3kbn_6-20"
-  },
-  {
-    "id": "151",
-    "semester_id": "22",
-    "class": "6-21",
-    "url": "http://gg.gg/lju_d3kbn_6-21"
-  },
-  {
-    "id": "152",
-    "semester_id": "20",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3bcap_6-01"
-  },
-  {
-    "id": "153",
-    "semester_id": "20",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3bcap_6-02"
-  },
-  {
-    "id": "154",
-    "semester_id": "20",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3bcap_6-03"
-  },
-  {
-    "id": "155",
-    "semester_id": "20",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3bcap_6-04"
-  },
-  {
-    "id": "156",
-    "semester_id": "18",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3bc_4-01"
-  },
-  {
-    "id": "157",
-    "semester_id": "19",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3bc_6-01"
-  },
-  {
-    "id": "158",
-    "semester_id": "19",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3bc_6-02"
-  },
-  {
-    "id": "159",
-    "semester_id": "19",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3bc-6-03"
-  },
-  {
-    "id": "160",
-    "semester_id": "19",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3bc_6-04"
-  },
-  {
-    "id": "161",
-    "semester_id": "24",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3ma_4-01"
-  },
-  {
-    "id": "162",
-    "semester_id": "24",
-    "class": "4-02",
-    "url": "http://gg.gg/lju_d3ma_4-02"
-  },
-  {
-    "id": "163",
-    "semester_id": "24",
-    "class": "4-03",
-    "url": "http://gg.gg/lju_d3ma_4-03"
-  },
-  {
-    "id": "164",
-    "semester_id": "24",
-    "class": "4-04",
-    "url": "http://gg.gg/lju_d3ma_4-04"
-  },
-  {
-    "id": "165",
-    "semester_id": "24",
-    "class": "4-05",
-    "url": "http://gg.gg/lju_d3ma_4-05"
-  },
-  {
-    "id": "166",
-    "semester_id": "24",
-    "class": "4-06",
-    "url": "http://gg.gg/lju_d3ma_4-06"
-  },
-  {
-    "id": "167",
-    "semester_id": "25",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3ma_6-01"
-  },
-  {
-    "id": "168",
-    "semester_id": "25",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3ma_6-02"
-  },
-  {
-    "id": "169",
-    "semester_id": "25",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3ma_6-03"
-  },
-  {
-    "id": "170",
-    "semester_id": "25",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3ma_6-04"
-  },
-  {
-    "id": "171",
-    "semester_id": "25",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3ma_6-05"
-  },
-  {
-    "id": "172",
-    "semester_id": "12",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3pjkap_6-01"
-  },
-  {
-    "id": "173",
-    "semester_id": "12",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3pjkap_6-02"
-  },
-  {
-    "id": "174",
-    "semester_id": "12",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3pjkap_6-03"
-  },
-  {
-    "id": "175",
-    "semester_id": "12",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3pjkap_6-04"
-  },
-  {
-    "id": "176",
-    "semester_id": "12",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3pjkap_6-05"
-  },
-  {
-    "id": "177",
-    "semester_id": "12",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3pjkap_6-06"
-  },
-  {
-    "id": "178",
-    "semester_id": "12",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3pjkap_6-07"
-  },
-  {
-    "id": "179",
-    "semester_id": "9",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3pjk_4-01"
-  },
-  {
-    "id": "180",
-    "semester_id": "9",
-    "class": "4-02",
-    "url": "http://gg.gg/lju_d3pjk_4-02"
-  },
-  {
-    "id": "181",
-    "semester_id": "9",
-    "class": "4-03",
-    "url": "http://gg.gg/lju_d3pjk_4_03"
-  },
-  {
-    "id": "182",
-    "semester_id": "9",
-    "class": "4-04",
-    "url": "http://gg.gg/lju_d3pjk_4-04"
-  },
-  {
-    "id": "183",
-    "semester_id": "9",
-    "class": "4-05",
-    "url": "http://gg.gg/lju_d3pjk_4-05"
-  },
-  {
-    "id": "184",
-    "semester_id": "9",
-    "class": "4-06",
-    "url": "http://gg.gg/lju_d3pjk_4-06"
-  },
-  {
-    "id": "185",
-    "semester_id": "9",
-    "class": "4-07",
-    "url": "http://gg.gg/lju_d3pjk_4-07"
-  },
-  {
-    "id": "186",
-    "semester_id": "9",
-    "class": "4-08",
-    "url": "http://gg.gg/lju_d3pjk_4-08"
-  },
-  {
-    "id": "187",
-    "semester_id": "9",
-    "class": "4-09",
-    "url": "http://gg.gg/lju_d3pjk_4-09"
-  },
-  {
-    "id": "188",
-    "semester_id": "9",
-    "class": "4-10",
-    "url": "http://gg.gg/lju_d3pjk_4-10"
-  },
-  {
-    "id": "189",
-    "semester_id": "9",
-    "class": "4-11",
-    "url": "http://gg.gg/lju_d3pjk_4-11"
-  },
-  {
-    "id": "190",
-    "semester_id": "9",
-    "class": "4-12",
-    "url": "http://gg.gg/lju_d3pjk_4-12"
-  },
-  {
-    "id": "191",
-    "semester_id": "9",
-    "class": "4-13",
-    "url": "http://gg.gg/lju_d3pjk_4-13"
-  },
-  {
-    "id": "192",
-    "semester_id": "9",
-    "class": "4-14",
-    "url": "http://gg.gg/lju_d3pjk_4-14"
-  },
-  {
-    "id": "193",
-    "semester_id": "10",
-    "class": "6-01",
-    "url": "http://gg.gg/lju_d3pjk_6-01"
-  },
-  {
-    "id": "194",
-    "semester_id": "10",
-    "class": "6-02",
-    "url": "http://gg.gg/lju_d3pjk_6-02"
-  },
-  {
-    "id": "195",
-    "semester_id": "10",
-    "class": "6-03",
-    "url": "http://gg.gg/lju_d3pjk_6-03"
-  },
-  {
-    "id": "196",
-    "semester_id": "10",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3pjk_6-04"
-  },
-  {
-    "id": "197",
-    "semester_id": "10",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3pjk_6-05"
-  },
-  {
-    "id": "198",
-    "semester_id": "10",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3pjk_6-06"
-  },
-  {
-    "id": "199",
-    "semester_id": "10",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3pjk_6-07"
-  },
-  {
-    "id": "200",
-    "semester_id": "10",
-    "class": "6-08",
-    "url": "http://gg.gg/lju_d3pjk_6-08"
-  },
-  {
-    "id": "201",
-    "semester_id": "10",
-    "class": "6-09",
-    "url": "http://gg.gg/lju_d3pjk_6-09"
-  },
-  {
-    "id": "202",
-    "semester_id": "10",
-    "class": "6-10",
-    "url": "http://gg.gg/lju_d3pjk_6-10"
-  },
-  {
-    "id": "203",
-    "semester_id": "10",
-    "class": "6-11",
-    "url": "http://gg.gg/lju_d3pjk_6-11"
-  },
-  {
-    "id": "204",
-    "semester_id": "10",
-    "class": "6-12",
-    "url": "http://gg.gg/lju_d3pjk_6-12"
-  },
-  {
-    "id": "205",
-    "semester_id": "10",
-    "class": "6-13",
-    "url": "http://gg.gg/lju_d3pjk_6-13"
-  },
-  {
-    "id": "206",
-    "semester_id": "10",
-    "class": "6-14",
-    "url": "http://gg.gg/lju_d3pjk_6-14"
-  },
-  {
-    "id": "207",
-    "semester_id": "10",
-    "class": "6-15",
-    "url": "http://gg.gg/lju_d3pjk_6-15"
-  },
-  {
-    "id": "208",
-    "semester_id": "10",
-    "class": "6-16",
-    "url": "http://gg.gg/lju_d3pjk_6-16"
-  },
-  {
-    "id": "209",
-    "semester_id": "10",
-    "class": "6-17",
-    "url": "http://gg.gg/lju_d3pjk_6-17"
-  },
-  {
-    "id": "210",
-    "semester_id": "10",
-    "class": "6-18",
-    "url": "http://gg.gg/lju_d3pjk_6-18"
-  },
-  {
-    "id": "211",
-    "semester_id": "10",
-    "class": "6-19",
-    "url": "http://gg.gg/lju_d3pjk_6-19"
-  },
-  {
-    "id": "212",
-    "semester_id": "10",
-    "class": "6-20",
-    "url": "http://gg.gg/lju_d3pjk_6-20"
-  },
-  {
-    "id": "213",
-    "semester_id": "10",
-    "class": "6-21",
-    "url": "http://gg.gg/lju_d3pjk_6-21"
-  },
-  {
-    "id": "214",
-    "semester_id": "10",
-    "class": "6-22",
-    "url": "http://gg.gg/lju_d3pjk_6-22"
-  },
-  {
-    "id": "215",
-    "semester_id": "10",
-    "class": "6-23",
-    "url": "http://gg.gg/lju_d3pjk_6-23"
-  },
-  {
-    "id": "216",
-    "semester_id": "10",
-    "class": "6-24",
-    "url": "http://gg.gg/lju-d3pjk_6-24"
-  },
-  {
-    "id": "217",
-    "semester_id": "10",
-    "class": "6-25",
-    "url": "http://gg.gg/lju_d3pjk_6-25"
-  },
-  {
-    "id": "218",
-    "semester_id": "10",
-    "class": "6-26",
-    "url": "http://gg.gg/lju_d3pjk_6-26"
-  },
-  {
-    "id": "219",
-    "semester_id": "10",
-    "class": "6-27",
-    "url": "http://gg.gg/lju_d3pjk_6-27"
-  },
-  {
-    "id": "220",
-    "semester_id": "10",
-    "class": "6-28",
-    "url": "http://gg.gg/lju_d3pjk_6-28"
-  },
-  {
-    "id": "221",
-    "semester_id": "10",
-    "class": "6-29",
-    "url": "http://gg.gg/lju_d3pjk_6-29"
-  },
-  {
-    "id": "222",
-    "semester_id": "10",
-    "class": "6-30",
-    "url": "http://gg.gg/lju_d3pjk_6-30"
-  },
-  {
-    "id": "223",
-    "semester_id": "10",
-    "class": "6-31",
-    "url": "http://gg.gg/lju_d3pjk_6-31"
-  },
-  {
-    "id": "224",
-    "semester_id": "10",
-    "class": "6-32",
-    "url": "http://gg.gg/lju_d3pjk_6-32"
-  },
-  {
-    "id": "225",
-    "semester_id": "13",
-    "class": "4-01",
-    "url": "http://gg.gg/lju_d3pbb_4-01"
-  },
-  {
-    "id": "226",
-    "semester_id": "13",
-    "class": "4-02",
-    "url": "http://gg.gg/lju_d3pbb_4-02"
-  },
-  {
-    "id": "227",
-    "semester_id": "13",
-    "class": "4-03",
-    "url": "http://gg.gg/lju_d3pbb_4-03"
-  },
-  {
-    "id": "228",
-    "semester_id": "13",
-    "class": "4-04",
-    "url": "http://gg.gg/lju_d3pbb_4-04"
-  },
-  {
-    "id": "229",
-    "semester_id": "13",
-    "class": "4-05",
-    "url": "http://gg.gg/lju_d3pbb_4-05"
-  },
-  {
-    "id": "230",
-    "semester_id": "13",
-    "class": "4-06",
-    "url": "http://gg.gg/lju_d3pbb_4-06"
-  },
-  {
-    "id": "231",
-    "semester_id": "13",
-    "class": "4-07",
-    "url": "http://gg.gg/lju_d3pbb_4-07"
-  },
-  {
-    "id": "232",
-    "semester_id": "13",
-    "class": "4-08",
-    "url": "http://gg.gg/lju_d3pbb_4-08"
-  },
-  {
-    "id": "233",
-    "semester_id": "14",
-    "class": "6-01",
-    "url": "http://gg.gg/lju-d3pbb-6_01"
-  },
-  {
-    "id": "234",
-    "semester_id": "14",
-    "class": "6-02",
-    "url": "http://gg.gg/lju-d3pbb_6-02"
-  },
-  {
-    "id": "235",
-    "semester_id": "14",
-    "class": "6-03",
-    "url": "http://gg.gg/lju-d3pbb_6-03"
-  },
-  {
-    "id": "236",
-    "semester_id": "14",
-    "class": "6-04",
-    "url": "http://gg.gg/lju_d3pbb_6-04"
-  },
-  {
-    "id": "237",
-    "semester_id": "14",
-    "class": "6-05",
-    "url": "http://gg.gg/lju_d3pbb_6-05"
-  },
-  {
-    "id": "238",
-    "semester_id": "14",
-    "class": "6-06",
-    "url": "http://gg.gg/lju_d3pbb_6-06"
-  },
-  {
-    "id": "239",
-    "semester_id": "14",
-    "class": "6-07",
-    "url": "http://gg.gg/lju_d3pbb_6-07"
-  },
-  {
-    "id": "240",
-    "semester_id": "14",
-    "class": "6-08",
-    "url": "http://gg.gg/lju_d3pbb_6-08"
-  },
-  {
-    "id": "241",
-    "semester_id": "14",
-    "class": "6-09",
-    "url": "http://gg.gg/lju_d3pbb_6-09"
-  },
-  {
-    "id": "242",
-    "semester_id": "15",
-    "class": "5-01",
-    "url": "http://gg.gg/lju-d3pbbap_5-01"
-  },
-  {
-    "id": "243",
-    "semester_id": "16",
-    "class": "6-01",
-    "url": "http://gg.gg/lju-d3pbbap_6-01"
-  },
-  {
-    "id": "244",
-    "semester_id": "16",
-    "class": "6-02",
-    "url": "http://gg.gg/lju-d3pbbap_6-02"
-  },
-  {
-    "id": "245",
-    "semester_id": "16",
-    "class": "6-03",
-    "url": "http://gg.gg/lju-d3pbbap_6-03"
-  },
-  {
-    "id": "246",
-    "semester_id": "6",
-    "class": "8-01",
-    "url": "http://gg.gg/lju_d4aktap_8-01"
-  }
+ {
+   "id": "1", "semester_id":"3", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSec64ODRgKVCjEra8vodfW8wQSKzb-lzxIdDS5ucpSGHor7tQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "2", "semester_id":"4", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKrFsWywokERsdRlJvmjoXJBrvqexEjD8M1_CnsLaGbRktdw/viewform?usp=pp_url"
+ },
+ {
+   "id": "3", "semester_id":"4", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScRkfMSmo6XxqHX77lElI-xGcFpOZMMH7kggTrgMJ1EEnUaJw/viewform?usp=pp_url"
+ },
+ {
+   "id": "4", "semester_id":"4", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScVtOt-D0UcNUIyzXQpXZl-NGI29BQFkmezG00AJUMYXJpQBw/viewform?usp=pp_url"
+ },
+ {
+   "id": "5", "semester_id":"4", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSaWo368Xf0KiDVjvFeEobA3UKGFBlhxRargQj5pvvyIYGBA/viewform?usp=pp_url"
+ },
+ {
+   "id": "6", "semester_id":"4", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSenblFZSYiliizWxQJgjSXLk-hbqB4jfvNjDP1m3LcwNKoZjw/viewform?usp=pp_url"
+ },
+ {
+   "id": "7", "semester_id":"4", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc58DnaUGaSBo7eC82VJuE8Q9l1JZPEW-Nq04gdyXlYVv_4Qg/viewform?usp=pp_url"
+ },
+ {
+   "id": "8", "semester_id":"4", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdzndmHLTm3wvWJItWMA1AH2T7vPOm6vK-AWlRdL4G6frzSVw/viewform?usp=pp_url"
+ },
+ {
+   "id": "9", "semester_id":"4", "class": "6-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfaxQb0-KdLB3Ez2W-ckzy_Zs-M7hUE5Hun90P_Iot2RHXwIg/viewform?usp=pp_url"
+ },
+ {
+   "id": "10", "semester_id":"4", "class": "6-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTSvkroTUIJ_gtrHkR73vZU83AbqnbyUndGDxAK2Rep5rkaw/viewform?usp=pp_url"
+ },
+ {
+   "id": "11", "semester_id":"26", "class": "2-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfZxn9guVh5XAI6Kln89FPKQKxO5NnYrb65C2PzIBlHR5HVHQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "12", "semester_id":"1", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdEv0rL-UClqp_O9AlGBAneto2sR8ONuBVx-aGqX1UPSc5ZKA/viewform?usp=pp_url"
+ },
+ {
+   "id": "13", "semester_id":"1", "class": "4-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdFMukzEeljBTqt37ddSH4AVPugwmWgHmLMs1Reg6ODb0fQpg/viewform?usp=pp_url"
+ },
+ {
+   "id": "14", "semester_id":"1", "class": "4-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScNUDMByNYseBhS3UqwP7FlCPPgdAyY30JeUl9Ewo4oXZLo1Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "15", "semester_id":"1", "class": "4-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScVZB627YTbT35hdUvcV-WsS0tt5wWNkD8k_nK7NyxRyS8BVg/viewform?usp=pp_url"
+ },
+ {
+   "id": "16", "semester_id":"1", "class": "4-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScYifqiFAKJ9B97bfsORdVp60pZn9s13y9bXgVb0a8qwNHfyA/viewform?usp=pp_url"
+ },
+ {
+   "id": "17", "semester_id":"1", "class": "4-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc0lSu7SfRoPYkp-bOk5GiPCuPdFwLJB8H0Yk_ZzHdBogwVvQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "18", "semester_id":"1", "class": "4-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScNFNtSr8mhGKLfkl9x3Oe2AZzvkSE3lu_70yJqoLf4tPG13A/viewform?usp=pp_url"
+ },
+ {
+   "id": "19", "semester_id":"1", "class": "4-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdnSTaTLhAkBVswMAz2RxVevBgdteNXENAFYp8HSjIxkFAjTw/viewform?usp=pp_url"
+ },
+ {
+   "id": "20", "semester_id":"1", "class": "4-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfTIjrRfZvk93Mydm7Upxm7lkxlKYfh5UBV3LNuF0Oxibs7Tw/viewform?usp=pp_url"
+ },
+ {
+   "id": "21", "semester_id":"1", "class": "4-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSepTirq0A6kfDlysu5Hu5rdFN2m3G6TLVeTpRPx3RWDdDglpw/viewform?usp=pp_url"
+ },
+ {
+   "id": "22", "semester_id":"1", "class": "4-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfKe-qFpR5zPxTW-QRyrgd3FfzKC-msYnEQS9Q_1c8tZ16H2w/viewform?usp=pp_url"
+ },
+ {
+   "id": "23", "semester_id":"1", "class": "4-12",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfOccKsA0eHHpscmNiFDkQyl7oh74z9XAlr_l2StLUcxG8Qfw/viewform?usp=pp_url"
+ },
+ {
+   "id": "24", "semester_id":"1", "class": "4-13",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeY7PNNuyR-IFrFYjI73t_2BnCzHzzKZA6l3C8qUiynf2nFaA/viewform?usp=pp_url"
+ },
+ {
+   "id": "25", "semester_id":"1", "class": "4-14",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSexZaN83KmdLjuujYnIwuTFksaknrA9NzP-LxfA7cQtrzXZqQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "26", "semester_id":"1", "class": "4-15",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc26OAB-VHbIPKWC41suvIT3Looi0RuFxIfJ4xjc-UQcJivlQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "27", "semester_id":"1", "class": "4-16",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeuD1bUwsyYYHx2t66PU21fcEGr8BOdOWiaRAzQdSoe-q0kJQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "28", "semester_id":"1", "class": "4-17",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_Nl6BsqjQmCu4OpD8M11xkC3u3mzJ5v7SBrlSUMKcWdxqsA/viewform?usp=pp_url"
+ },
+ {
+   "id": "29", "semester_id":"1", "class": "4-18",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeE4x0EvoSgmqODbdHZM4xwpwbRUMYrG5WPtCLV5rfYthmEBg/viewform?usp=pp_url"
+ },
+ {
+   "id": "30", "semester_id":"1", "class": "4-19",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSemmTS3dso01-a_lBaryvwrFoa2stE9dSnfpp4d8Ts_cFnP8A/viewform?usp=pp_url"
+ },
+ {
+   "id": "31", "semester_id":"1", "class": "4-20",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfcKOjkt4gVw5ZIjV7EAis-Q-z88nPrMB6E-5IVmqfLtk9apg/viewform?usp=pp_url"
+ },
+ {
+   "id": "32", "semester_id":"1", "class": "4-21",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdym3hdAjchjQMXeGLasOCEiZYCt-NhXGyTiQAXbD5kfjdxDg/viewform?usp=pp_url"
+ },
+ {
+   "id": "33", "semester_id":"1", "class": "4-22",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScFwu27u2yGrMzSq_NQA47NC4aPMidHCWpTK_U3tvxsZMwJ3Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "34", "semester_id":"1", "class": "4-23",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdXWc9vaQk5_Klmqx97DaGqbzayL6fNTMe3ei9cz7v414bAeg/viewform?usp=pp_url"
+ },
+ {
+   "id": "35", "semester_id":"1", "class": "4-24",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdiPJ1VB_o0-lovHsQHFsAgOZhjAZCRKTBq5jAZMSoGBF0ig/viewform?usp=pp_url"
+ },
+ {
+   "id": "36", "semester_id":"1", "class": "4-25",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScAEJYTnetxMnbRr-djrTWiE73J7k1Mvr3Whc5m7tLw58Dpvg/viewform?usp=pp_url"
+ },
+ {
+   "id": "37", "semester_id":"1", "class": "4-26",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfJNguAoJ9dYAjgb5xAjGX8Ab_bzVlv4Hd_vW5huCQnauDCZg/viewform?usp=pp_url"
+ },
+ {
+   "id": "38", "semester_id":"1", "class": "4-27",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfRBRgapor49fLYAJ7S5-fQm3ImBtLk-1FgEN6HT95TUqG2Fg/viewform?usp=pp_url"
+ },
+ {
+   "id": "39", "semester_id":"1", "class": "4-28",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdM2dP4_CDGx4wqrBs90keiFBtcyd0MxrP8hRfhpXR-KYTlOg/viewform?usp=pp_url"
+ },
+ {
+   "id": "40", "semester_id":"1", "class": "4-29",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScfAg9a_sLOISBF6bRUkYVmkcQcpy5sVb-XBZhrEFt2tjpAJw/viewform?usp=pp_url"
+ },
+ {
+   "id": "41", "semester_id":"1", "class": "4-30",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScKJs8K1d_yL2AMvdqNegrGn3M1Prgm7rsApyqhW-9pRyMPEg/viewform?usp=pp_url"
+ },
+ {
+   "id": "42", "semester_id":"1", "class": "4-31",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScfNDa2NOXAEhUEJpsf3BF75rq247bXLr0JpIH7mzj-1w29Gw/viewform?usp=pp_url"
+ },
+ {
+   "id": "43", "semester_id":"1", "class": "4-32",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScYRALtNuDUrCwHb6Vzzz9Vs-_zwIb6cnGQJSFRodYe4HaHcg/viewform?usp=pp_url"
+ },
+ {
+   "id": "44", "semester_id":"1", "class": "4-33",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRubHk8sKCuXSFprp134c-rFOw--EEeuKuqXbLWYWS7pSMlQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "45", "semester_id":"1", "class": "4-34",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScr5lhmP1H-BR8sT7Kl8IsUjHac06R7nUbvuiOJ1emLLap17A/viewform?usp=pp_url"
+ },
+ {
+   "id": "46", "semester_id":"1", "class": "4-35",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd3P7qWw7Ao5hI1ZE7ArvDBIr6KMkX80O3OtQUCp7iPuwyy_g/viewform?usp=pp_url"
+ },
+ {
+   "id": "47", "semester_id":"1", "class": "4-36",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSenRx2CSSTQROd3qxT_yCd_n16hV-7zKjYFn6G38fjM9R9Mlw/viewform?usp=pp_url"
+ },
+ {
+   "id": "48", "semester_id":"1", "class": "4-37",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScvU8bIWbDshjcFhpZrrOjwS2mFXaM5eofMftXff8skCsbVwA/viewform?usp=pp_url"
+ },
+ {
+   "id": "49", "semester_id":"1", "class": "4-38",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhlOOaB4ec5WTjw_4sYUMIxEI-oXR-vif8KOH0tuivl4Id7g/viewform?usp=pp_url"
+ },
+ {
+   "id": "50", "semester_id":"1", "class": "4-39",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe5nB9HmzS_dztE28kYTrcr8BCqwNm2rCjn9crzdDFLts6Bdw/viewform?usp=pp_url"
+ },
+ {
+   "id": "51", "semester_id":"1", "class": "4-40",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrRAoF7wJVJICf7yDP1WHYU7O-xDvudmP1Ze5KgyzsYVx-VQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "52", "semester_id":"1", "class": "4-41",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZS55rR5D-Az4xvTU1bLMIoJMmGy5hDBt7WXJyxMeVoiZ1_A/viewform?usp=sf_link"
+ },
+ {
+   "id": "53", "semester_id":"1", "class": "4-42",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfs7L3vRhE435xIlWQEGyOu6iCO7U0FFC_wpKPJhVN87TcrPQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "54", "semester_id":"1", "class": "4-43",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfjmlh7nIngcXjto-zki1pNOyjQYKcU22i_gnauHZP35yThEQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "55", "semester_id":"1", "class": "4-44",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdklaludqBHS6NlVGFew_UThB6RrtucsztlWkKfRy3Bk6-AFA/viewform?usp=sf_link"
+ },
+ {
+   "id": "56", "semester_id":"1", "class": "4-45",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSew3-UW-gPhV0Bl7ipMmC1jE3QKK0hyJmHjl_M5BCXm2869SA/viewform?usp=sf_link"
+ },
+ {
+   "id": "57", "semester_id":"1", "class": "4-46",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaacX56yU-Lz9yZd8qJvWHgeVSaO-y6mXuUQ8oOAVKqqT2HA/viewform?usp=sf_link"
+ },
+ {
+   "id": "58", "semester_id":"1", "class": "4-47",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf_wki7RVgPMnosgz3oZkfsckf8cTPIdP8E18_LhONeFfi8Bg/viewform?usp=sf_link"
+ },
+ {
+   "id": "59", "semester_id":"1", "class": "4-48",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeVxujXayj0SZrxBOEjcFuW5QZCJodRn2lQHmu7U8qfBZIHEA/viewform?usp=sf_link"
+ },
+ {
+   "id": "60", "semester_id":"2", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScaikXS9yColQxI7zpnFhB51pFBcQyxqEJ7jwI5CqBNEWmJwg/viewform?usp=sf_link"
+ },
+ {
+   "id": "61", "semester_id":"2", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrk0_ewv2tJJ5JfYerJnxRWVkI-PWQmaNqwnsm_DQULk2u3Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "62", "semester_id":"2", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdR5oyCPAyAg8QTaxKzGdQWYqJcRZCsRnGxNZs8eSgW7DC5Qw/viewform?usp=sf_link"
+ },
+ {
+   "id": "63", "semester_id":"2", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScqbYNDwGJduE2D1oVczCUNrwvIo77fuMBooIckLLLSzXnsqg/viewform?usp=sf_link"
+ },
+ {
+   "id": "64", "semester_id":"2", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeMHfqA-nEQ6r353jswF2weYFa3jJtDv3l0OZBPJUdjUzkaLQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "65", "semester_id":"2", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfbUtT7-ZVHT6W6ux6NcYqlNSlXbfDEZcefaPO9lT8EMBz4Ww/viewform?usp=sf_link"
+ },
+ {
+   "id": "66", "semester_id":"2", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSepNRa-Mz3lgdnAVLyHlBKuuy-ohoJTudxQvSaJUyoWTOciMQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "67", "semester_id":"2", "class": "6-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZQQb0Txmkb2nyyRAbiGD_bHElmWPFknKz-HUaDqQioJKI1Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "68", "semester_id":"2", "class": "6-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdmJ_cF7u9IK8UfrwQNhAOoT3phF8hgSSVahdjcaPMSspkq1Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "69", "semester_id":"2", "class": "6-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzFkTx8BPG0ZXMiOnS8PWF69CKWEeeCpf7Tvp3M1BQOdvGLQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "70", "semester_id":"2", "class": "6-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfD6tfilTkkBcEElurSrJo8p591P2st7Ur758rXFd8VJG-w5w/viewform?usp=sf_link"
+ },
+ {
+   "id": "71", "semester_id":"2", "class": "6-12",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScca_wxwzgbzooGDbkqN0Fg9w67Uu03f7xKcr9g1pShoTUtWQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "72", "semester_id":"2", "class": "6-13",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZgdPKmWmP7WZgyN6uaJOIqO4ExgKbDKJLKV-BNNjNdT-6qg/viewform?usp=sf_link"
+ },
+ {
+   "id": "73", "semester_id":"2", "class": "6-14",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSecdMpj0duf-2z3svA8XY72NBxWMRh493G2QwkMBaUkHiH0NQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "74", "semester_id":"2", "class": "6-15",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7L8_ZXXsk4HviWIMrMtqKGLOICgBnvqTnd0qqt99ja20zsA/viewform?usp=sf_link"
+ },
+ {
+   "id": "75", "semester_id":"2", "class": "6-16",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSetoWZxDl8N_oAd_ojm8Tun9EqlY5QBUGi1AmZHRYJyGB2-OQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "76", "semester_id":"2", "class": "6-17",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgDZ36l2a6DyXwrin7e5jiR6OImrNyUU0fLIliU09TwKjkxQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "77", "semester_id":"2", "class": "6-18",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSffhql-5RTArIKtBvWYm4F8JQogIcnw7AofV_ApPBm6SEn2Sg/viewform?usp=sf_link"
+ },
+ {
+   "id": "78", "semester_id":"2", "class": "6-19",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3VjiXnPK6Lcs8p_ku3ndabZ4EhygOs0IWs-_DRH6TYa0rEg/viewform?usp=sf_link"
+ },
+ {
+   "id": "79", "semester_id":"2", "class": "6-20",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdY0C-5dT5RgbO_M2uGcxzkkEIXo1H3WFDuIa--u7oGc8rYuw/viewform?usp=sf_link"
+ },
+ {
+   "id": "80", "semester_id":"2", "class": "6-21",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRNjBxMcWsOgqDorNs-sXKDdEWgdEuMR2hj6XRWSexutmPMw/viewform?usp=sf_link"
+ },
+ {
+   "id": "81", "semester_id":"2", "class": "6-22",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSea75dI1wlnJ_AAZfX-c8t18ZKDjllnuwXF0w6CM_tXMXAI9w/viewform?usp=sf_link"
+ },
+ {
+   "id": "82", "semester_id":"2", "class": "6-23",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe5MYk2kijFgUL5TaG0nWCFuVBdDz_DsP2R-wRLha66OECddQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "83", "semester_id":"2", "class": "6-24",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSerGCNNIkFnxbgATPG7SVn8j8iJ-0dbrJG7d_1HVdahF8mfNA/viewform?usp=sf_link"
+ },
+ {
+   "id": "84", "semester_id":"2", "class": "6-25",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdpAxrFsfg8Y-0TWL2TgCTPzjpLyRKT2IqPNC_XnuJ2GdcbRg/viewform?usp=sf_link"
+ },
+ {
+   "id": "85", "semester_id":"2", "class": "6-26",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf1-JX9lGFJWPVwyeVFImqTgB7WE0HfwRrgIimsGnGkpyevgA/viewform?usp=sf_link"
+ },
+ {
+   "id": "86", "semester_id":"2", "class": "6-27",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHO5I39TbA9G-mT6V6P8vReVdKAUM3-jOAWuDvF4PptgkVNg/viewform?usp=sf_link"
+ },
+ {
+   "id": "87", "semester_id":"2", "class": "6-28",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTExFHhO61Csu3yv4wH4ZJv-5SMD1vf_ZGJB5JztCVaryD1Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "88", "semester_id":"2", "class": "6-29",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRFoTPajR6qyHIokB1I8ClIWV5_bQH9exI-0XygmInC-NX4Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "89", "semester_id":"2", "class": "6-30",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfJQmBK3OplxpK2fZHSz-Z4BcIR1xkjc1PL--Pc1HOon5mPUg/viewform?usp=sf_link"
+ },
+ {
+   "id": "90", "semester_id":"2", "class": "6-31",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd0H12w95DFt2TmxhVVV4yPro5Diu-Wo44lDwL77HiCg4FU0w/viewform?usp=sf_link"
+ },
+ {
+   "id": "91", "semester_id":"2", "class": "6-32",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhbCz4CKeRqSUplNKezbbGDTcx9dkHLdqBjuOdH7GSlymv3Q/viewform?usp=sf_link"
+ },
+ {
+   "id": "92", "semester_id":"2", "class": "6-33",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfcklgoJHnTI0JaBbI93NhTdmt8aP0ME-FrJyIw14hz4AAJPw/viewform?usp=sf_link"
+ },
+ {
+   "id": "93", "semester_id":"2", "class": "6-34",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdywaUj6jW4pxzTR82zwbmASlOs3_0-eZSTGwtxdSzsqrgoQQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "94", "semester_id":"2", "class": "6-35",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYqiyfswXZ0OO6s7E5-1ufevIiKWgbCoETEno9hPKWhtbW1w/viewform?usp=sf_link"
+ },
+ {
+   "id": "95", "semester_id":"2", "class": "6-36",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfOJ5jF4rPKq4fXNfTQGWkn75h5D_pu39sqY_nz2GqMDhpNZg/viewform?usp=sf_link"
+ },
+ {
+   "id": "96", "semester_id":"2", "class": "6-37",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdj4TD12_UVszmSQcushH0NmCmrEXg2oHfzVvnk1yTVIgiqgw/viewform?usp=sf_link"
+ },
+ {
+   "id": "97", "semester_id":"2", "class": "6-38",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdl3_1BXQH2mi06zkJVdxHCUlZAC0mzivwDRwLBMzUdSx7XOQ/viewform?usp=sf_link"
+ },
+ {
+   "id": "98", "semester_id":"2", "class": "6-39",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfsTYr6hDoX_DpNjf49y6Yrq8_t37fNGFd2qP_YOvS-8RcZdw/viewform?usp=sf_link"
+ },
+ {
+   "id": "99", "semester_id":"2", "class": "6-40",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeFxBo207e5MJHnPeL5OL0vX2ED75Ue5Ba1Linvba7uN0zOQA/viewform?usp=sf_link"
+ },
+ {
+   "id": "100", "semester_id":"2", "class": "6-41",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZckGsl5ufypFVbTtQwKiDDzGVN_rk7Lz2p0yDc8oDiKOhkA/viewform?usp=sf_link"
+ },
+ {
+   "id": "101", "semester_id":"2", "class": "6-42",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-e8tF97bRSWTHHztCXGGS5i39C2ByXEP7b-p6-NZh9mNOug/viewform?usp=pp_url"
+ },
+ {
+   "id": "102", "semester_id":"2", "class": "6-43",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScgFYdsDqAZ8ltyLct5mq9yZII_MCAy1fBks3DJ8tStr6_Aiw/viewform?usp=pp_url"
+ },
+ {
+   "id": "103", "semester_id":"2", "class": "6-44",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSccFAZ8ZKjhnukEnMvhrersI-rJ27X6LevGShxzeRLCIKZiWA/viewform?usp=pp_url"
+ },
+ {
+   "id": "104", "semester_id":"2", "class": "6-45",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc3vTPsINHR9-xIprhoQ5yq-f5DZgCEl_qUpTlfevgUlM0lJw/viewform?usp=pp_url"
+ },
+ {
+   "id": "105", "semester_id":"2", "class": "6-46",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfux560dOM4Q7GO-nRZf6vU2x8sN5qAE8lGnt8HWHPCbjx6FA/viewform?usp=pp_url"
+ },
+ {
+   "id": "106", "semester_id":"2", "class": "6-47",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeFxRszX1a6QRFF8HTkb92IG0uK6FPKUl4Zp5X9PO-mGWmSqQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "107", "semester_id":"2", "class": "6-48",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeeqVkgLLxIoCcfF9uVW1GL4Xwa17P1VMz-ak18FodZ0xiAlA/viewform?usp=pp_url"
+ },
+ {
+   "id": "108", "semester_id":"2", "class": "6-49",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSecfdcZQRzMaZtqhJnrebZqzNVbkMokH12tDaxeYcjzo0QTVg/viewform?usp=pp_url"
+ },
+ {
+   "id": "109", "semester_id":"2", "class": "6-50",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSftzNx0JkCg-FVEN6Ti5kFk9mvCcT7m08mNHH2RQ-ODuls6gg/viewform?usp=pp_url"
+ },
+ {
+   "id": "110", "semester_id":"2", "class": "6-51",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeBH974IQNKU8eaX1fCIb7MKWnjvr5WoGQCzWRW7mbOd88s1Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "111", "semester_id":"2", "class": "6-52",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdgNxQWQ3KKLCWiUz46SB553dGUqrmkFbQys5UzN-XhCmTRZw/viewform?usp=pp_url"
+ },
+ {
+   "id": "112", "semester_id":"2", "class": "6-53",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdPBWmIvaIU8-EYgoFGCOUSc4xkvfba2NC08oYj3pNLT3ou8g/viewform?usp=pp_url"
+ },
+ {
+   "id": "113", "semester_id":"2", "class": "6-54",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfUVYqnVy_tR6HzEuB6UHWE18uwujwmHl2Itdq5_79U3oOY0g/viewform?usp=pp_url"
+ },
+ {
+   "id": "114", "semester_id":"2", "class": "6-55",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeRV7KcZ-d44cvtE4GqbVwS5TXz1mQzrbavOJdFo42HbRhqwA/viewform?usp=pp_url"
+ },
+ {
+   "id": "115", "semester_id":"2", "class": "6-56",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfFXyVo4mW37JT6EU_r_NJE5mlCOF2NhbXgkNVDZLgDvV3ErQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "116", "semester_id":"2", "class": "6-57",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-1IsaTmUDZbNy5TrmQgQTWkn6L9aJzJLS53ssXHkO4VfaBg/viewform?usp=pp_url"
+ },
+ {
+   "id": "117", "semester_id":"2", "class": "6-58",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdvZ8Y0gEwAFmQWmv6qimPeP2KuaOsGPIKicMpV7JPfTiu-EQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "118", "semester_id":"2", "class": "6-59",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeOas6Xpg3-boFI4iVNlaHLOd7EycDyMmS4tokwuvil_g3YrQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "119", "semester_id":"23", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeuYWus3xaxGCi0tQ8xXBZ_H0tI4-L-ucO_RbXLvx41Fm2DQA/viewform?usp=pp_url"
+ },
+ {
+   "id": "120", "semester_id":"21", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeIx5h3KGl7rhUhgfOiHKOrB28kKH_6MMwvRLZpWPPIC3_lEA/viewform?usp=pp_url"
+ },
+ {
+   "id": "121", "semester_id":"21", "class": "4-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeISIkIQJ1CM08_hKLsGUIKqJfSXPSFgaM6PmWUQ5ohbfqTFg/viewform?usp=pp_url"
+ },
+ {
+   "id": "122", "semester_id":"21", "class": "4-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdWDVjo-bT6ES4bxx2pSbnnFyBnlpDm1gGmATzZ62f74tpmJg/viewform?usp=pp_url"
+ },
+ {
+   "id": "123", "semester_id":"21", "class": "4-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSellyPd9Omp-o7vqq_sNoRsrtfHuKVPXXu0la709CwLjy4_fQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "124", "semester_id":"21", "class": "4-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdl0-NF8tJMiOsGDepRZevCtliEW-QU2KlLgANZztPu6NyIYw/viewform?usp=pp_url"
+ },
+ {
+   "id": "125", "semester_id":"21", "class": "4-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd8yqFE7UeS01MjrHpNEGwFHUaLaggxEPySjqxnwrp6EJ-TfA/viewform?usp=pp_url"
+ },
+ {
+   "id": "126", "semester_id":"21", "class": "4-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdIF0-QBIFq4u9yWsOhzvb7R0A0vD2flaK_koYAuqwJ2lCj0w/viewform?usp=pp_url"
+ },
+ {
+   "id": "127", "semester_id":"21", "class": "4-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSw3Lj6B2SpxfQbzo5IghCU2mmfuX6XX2uw40OmKIdXEfaVw/viewform?usp=pp_url"
+ },
+ {
+   "id": "128", "semester_id":"21", "class": "4-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeAuCxDdwxocNTq915e8-mLr9qXzO4pr2Yu-g1BDy_j3aAFDg/viewform?usp=pp_url"
+ },
+ {
+   "id": "129", "semester_id":"21", "class": "4-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSck-ws23h27j2u4gIvzZoIHroPk2IkkdNjjOMiZIMSqksReRg/viewform?usp=pp_url"
+ },
+ {
+   "id": "130", "semester_id":"21", "class": "4-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdjak5vQWslIAqIL5ySBz0bTVpS7sjgHt3CqQbCoIkI7eQBlQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "131", "semester_id":"22", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc8ao3k1kc0GzGGdewi87VlyYvgyII4lgkY5vr5hXkeKXHD8Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "132", "semester_id":"22", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScRKabTaMozBLxsDTNSbUzegjY7Y3nB9ywlbNTdCy1upttmMg/viewform?usp=pp_url"
+ },
+ {
+   "id": "133", "semester_id":"22", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdHck_at3srjeHs2rdJFMuDkC21OSLhYdTCSW0__YcFQ7hyvg/viewform?usp=pp_url"
+ },
+ {
+   "id": "134", "semester_id":"22", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdfeDPXn_94jHfgbq3sBKM5thiGRg3fqlGP5gGl1c8K89ZyFA/viewform?usp=pp_url"
+ },
+ {
+   "id": "135", "semester_id":"22", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSee4SNiflTX7rqz_Izrc9ZAc09sKpOj17oUgYPj5LoPXutvgw/viewform?usp=pp_url"
+ },
+ {
+   "id": "136", "semester_id":"22", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdooDDQ6ENu4arAFkpWoDWQDrsK7Hjb1EGmCH3AXV27aOlqbw/viewform?usp=pp_url"
+ },
+ {
+   "id": "137", "semester_id":"22", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdIAhAU5rI8ZvLYkKGxv288vcpMCdycoJblnDADJozlJRNxMQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "138", "semester_id":"22", "class": "6-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf--wrMSLV4kzhVCGF3yuRzE0NbGXBAJyZig1SNcAIbIMESMg/viewform?usp=pp_url"
+ },
+ {
+   "id": "139", "semester_id":"22", "class": "6-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd6CPOhkki6sVmAreqz5LOANnXpppgYzjrgw6Z5HpFV44NRPg/viewform?usp=pp_url"
+ },
+ {
+   "id": "140", "semester_id":"22", "class": "6-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSchh5mrVzFjc5AromhXXrX4Yu6vTBnE0MuXj3FvX34a2f9KfQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "141", "semester_id":"22", "class": "6-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeLJT2lEpuDlvIZR6_HgxCTJWpfKjVI8Swry0OvtTAZ3OY-XQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "142", "semester_id":"22", "class": "6-12",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeMTXCiTR1OoQ7Rbn0FgX9G2k_eMdR3XNzsC4JtHEn171VsSA/viewform?usp=pp_url"
+ },
+ {
+   "id": "143", "semester_id":"22", "class": "6-13",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc8EYkt1BlR7PpSnQEFfDPRjllwIugVCOxBSazCJKqAUH8suw/viewform?usp=pp_url"
+ },
+ {
+   "id": "144", "semester_id":"22", "class": "6-14",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSckznqvDLyS0RjFdKr2u8B5Xow1Wpwf6PburcjE9uTTOq6DQQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "145", "semester_id":"22", "class": "6-15",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-K85nJ0I12NPdne5RyxEsaLl0aMgijsl5lTMxTtMOijBQtQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "146", "semester_id":"22", "class": "6-16",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfpi1Jdl2LWiWDR8zbinHx8o2V1uD_SH44fe4nnRuauyt113w/viewform?usp=pp_url"
+ },
+ {
+   "id": "147", "semester_id":"22", "class": "6-17",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfCXnU6DOwhGTrs_jcueFkbpJD-AtSZmsCi-2FQRs24NM3BvQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "148", "semester_id":"22", "class": "6-18",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdadyyVTTvrdMEPMGyFz7-uFC6cdGRsU4eiw9TYXvoWpyuCHg/viewform?usp=pp_url"
+ },
+ {
+   "id": "149", "semester_id":"22", "class": "6-19",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdiX3WxfzdIPpOh7mReN6e6QxdC8xAU1X-xhvRB-Z_MJczIiQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "150", "semester_id":"22", "class": "6-20",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-4H3CijsnBz6lA0U4hFZwn39QzzCNZuztKYdARLcaY611pw/viewform?usp=pp_url"
+ },
+ {
+   "id": "151", "semester_id":"22", "class": "6-21",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf9bsC1uPHbk2LQbx-u5Y4CVRhwEGs74pmRUwrTm9WtUTmLaQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "152", "semester_id":"20", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScc8SJF-3Uo03REKw4W5L0Cao2vYH15ZgMuiAQtGKTppddxGA/viewform?usp=pp_url"
+ },
+ {
+   "id": "153", "semester_id":"20", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeu5efXV8U6rAy4QnaMypVYp92_n-U_QvWCpy0xF9pv6DTakA/viewform?usp=pp_url"
+ },
+ {
+   "id": "154", "semester_id":"20", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScYXK-IvWfB8wfX7Z80vpweHLBzvw81nKij-3lusVdPJ0eq6Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "155", "semester_id":"20", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_O4k7nXd3S6EUreOSGageIxEzRkI3SjUeBRMerJ29L4Oi7A/viewform?usp=pp_url"
+ },
+ {
+   "id": "156", "semester_id":"18", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSchx59yVb8Agz7X46TXm1I66OVLGCCHZ1I4BxVv4WnwLLRh4g/viewform?usp=pp_url"
+ },
+ {
+   "id": "157", "semester_id":"19", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdap43BIp6IYsqt-8zGCO2SCBPSb60ZmzzrQOc7Zlhzukxcyg/viewform?usp=pp_url"
+ },
+ {
+   "id": "158", "semester_id":"19", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdclUrM-_DhRLRKiB4jBaFYD4qERch51wVdzNtDJxD0a-yigA/viewform?usp=pp_url"
+ },
+ {
+   "id": "159", "semester_id":"19", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdrHzHftNBrQ4CB0kVrQY8v9m220uukt51AZ753vNXVaq06-g/viewform?usp=pp_url"
+ },
+ {
+   "id": "160", "semester_id":"19", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTfvtLtYOQebu7M2_NWaSezR6Yly6n5ULSWMS_04AE2VObXw/viewform?usp=pp_url"
+ },
+ {
+   "id": "161", "semester_id":"24", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSem9gbyRbZiAlcUi5bvWTVn7c78tvvOZbv-mqvEB1vzLTgX6g/viewform?usp=pp_url"
+ },
+ {
+   "id": "162", "semester_id":"24", "class": "4-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScK5wtllir92qMaC2y7rDYmFQmYu-qkWa3WhgdIU-ceW-FSRA/viewform?usp=pp_url"
+ },
+ {
+   "id": "163", "semester_id":"24", "class": "4-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfez4tfZkM8zGwoiZeXu3rqEgY-kmR1YPC3OKnf2oO-llbECQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "164", "semester_id":"24", "class": "4-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc8Xz0hkXWHoj-tD_NFAALij469NvGFHPD6L4wC5kX_DvtTcg/viewform?usp=pp_url"
+ },
+ {
+   "id": "165", "semester_id":"24", "class": "4-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSekwadI8p7-x5FzIk8jTIWfT0eNPlIeh2znpKTn0lrMSFyUTg/viewform?usp=pp_url"
+ },
+ {
+   "id": "166", "semester_id":"24", "class": "4-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfirKZurtdyokAcQu5ysLPFrhKF8_fFuqB6EzhOpyY-G9dmRw/viewform?usp=pp_url"
+ },
+ {
+   "id": "167", "semester_id":"25", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfAQFBTfhy7F3KFjsZMdcg6qS9vjcojbCvX5G_DenmD-FJS_A/viewform?usp=pp_url"
+ },
+ {
+   "id": "168", "semester_id":"25", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc9I2PYWbsHxDWlDlZxjxbFt3HtucRBDor03LzuWXhNQjlRJA/viewform?usp=pp_url"
+ },
+ {
+   "id": "169", "semester_id":"25", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScMe21LIORR142x7xiXUXexLx7rPlFgUX1eKqSnCrMPEOZ37A/viewform?usp=pp_url"
+ },
+ {
+   "id": "170", "semester_id":"25", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeH4kZJSSBZKGbnGaJpjaHVRKvCzv_Y7-cBnIH9IuZSf-Mh5Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "171", "semester_id":"25", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScQSxENZcaj-GO85MwP0qmtEOrkGwD8n92gDcWnPGT89bgNMg/viewform?usp=pp_url"
+ },
+ {
+   "id": "172", "semester_id":"12", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSctLqu99rEu3_IjUHPGKQHnTB9VuCBNCZmG95_vjfG3rw5p_w/viewform?usp=pp_url"
+ },
+ {
+   "id": "173", "semester_id":"12", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdg7wT-Jlx2Rq122bPuN2mIDdyaY6bwb7ROjnIrcMLES3WyiQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "174", "semester_id":"12", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCTmLKu2EE7R3jzFzgeIjsZZP3UVg1TOHfOeFNHVjaPue3Hg/viewform?usp=pp_url"
+ },
+ {
+   "id": "175", "semester_id":"12", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNpzjoxB2x48iyfOXlKqIytW_WicluOFy3Tf82MPrZU48AiQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "176", "semester_id":"12", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScMzoc3ssBzqQbLJJPMopynwBblaKWfdvc9x6f0yTniOf7hiA/viewform?usp=pp_url"
+ },
+ {
+   "id": "177", "semester_id":"12", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSGhFMolmZWPxsoqskfNcloZ1ThEKw5qPfsVgCdsuthJ-EyA/viewform?usp=pp_url"
+ },
+ {
+   "id": "178", "semester_id":"12", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScGw4xV_sasKPE2GzKVK6CoeD3XECQlhadzg42-045kFI5Kxg/viewform?usp=pp_url"
+ },
+ {
+   "id": "179", "semester_id":"9", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScsQP7mLvopwVbFMhG2Ibypu1Zq138UFvt29p5hCYhyZdzH2A/viewform?usp=pp_url"
+ },
+ {
+   "id": "180", "semester_id":"9", "class": "4-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhk0ANr4vqdid92psNscW7bgS4pSlf03KEDjkeRJwevv3ESQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "181", "semester_id":"9", "class": "4-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSegQQJo0jc_t3afdzY1uU7W52iYZyj3tlNDVlNDf-7NoLCQQw/viewform?usp=pp_url"
+ },
+ {
+   "id": "182", "semester_id":"9", "class": "4-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd3LhrCfvn-7zgaG-Nqk1h0nLtIH8jFWJx0Q_NjDCWfEvhDAA/viewform?usp=pp_url"
+ },
+ {
+   "id": "183", "semester_id":"9", "class": "4-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScQBifm6iWdMVMP69X32Nb3nm7pXkMmty2qrUvtROQxDO7rmA/viewform?usp=pp_url"
+ },
+ {
+   "id": "184", "semester_id":"9", "class": "4-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSefl5rLtn8x3lShBGRj2BpBuEUDhhkfXH77bNDb0RTZUWn3zw/viewform?usp=pp_url"
+ },
+ {
+   "id": "185", "semester_id":"9", "class": "4-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSerK3osYviK5yhjNZjXw0f6BPC4LXF-0SSGhCvWQrCkCDzG8g/viewform?usp=pp_url"
+ },
+ {
+   "id": "186", "semester_id":"9", "class": "4-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd8vbJ1k7Ik-jueuoqq6_fgW7RuF4ldrrl-oDb7xLZF8BQz7A/viewform?usp=pp_url"
+ },
+ {
+   "id": "187", "semester_id":"9", "class": "4-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe97F8uXCKNj5eJpcDgUYXWZn_7-wBDWTEljc1vZr30qEUtQg/viewform?usp=pp_url"
+ },
+ {
+   "id": "188", "semester_id":"9", "class": "4-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeVQ_HrTYDXl0AbnmyK_GE27SAaOCI3Jbg8YT6XNpnkzQYc9w/viewform?usp=pp_url"
+ },
+ {
+   "id": "189", "semester_id":"9", "class": "4-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeEpmFN6jB-lMIxTimi-bbDPTVIZVd-0o9HEKGg_3zgrG5B0Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "190", "semester_id":"9", "class": "4-12",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeoI1ozOcILn4OT1FVicCQL0L8OG_lAHoI6fmD208Re_SeI1Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "191", "semester_id":"9", "class": "4-13",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdxCNpM-UImslVtOVEtmhXl0jER0Kr6FDnKOulUYkyCHwwJHA/viewform?usp=pp_url"
+ },
+ {
+   "id": "192", "semester_id":"9", "class": "4-14",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKIc-SNyOFX0pvQp3bvJGhIp9d7L1UryoGKd56nfG8uwne7A/viewform?usp=pp_url"
+ },
+ {
+   "id": "193", "semester_id":"10", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSelT46B4n9XnziKxxZ6JCP4vTRS5G8BLi7becZHAX1reHZFag/viewform?usp=pp_url"
+ },
+ {
+   "id": "194", "semester_id":"10", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScqLSDjKl-eMyW-JdL0PzS2_zHh-HfXxI8fxwWpDUE1bEk-0g/viewform?usp=pp_url"
+ },
+ {
+   "id": "195", "semester_id":"10", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScN1iEHD7NUT_c17PpM63v9tDs8Dm_wx82xEoSSjq4TgMgJxg/viewform?usp=pp_url"
+ },
+ {
+   "id": "196", "semester_id":"10", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-BHjHoxlz1d3dqKrXOm1ZZIbGYgfal3qN9lTL-2yKTt3-iQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "197", "semester_id":"10", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdrspgbZdpS3IlIqH9nl0WfvIHnUeTmeosJSuA0aVJ-Fdte4A/viewform?usp=pp_url"
+ },
+ {
+   "id": "198", "semester_id":"10", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeJ-NkKHsNq2QEVU270dsQN5BC6e2aVlWcUwyPlKW38-NKbcg/viewform?usp=pp_url"
+ },
+ {
+   "id": "199", "semester_id":"10", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScFzdU94ZYZ3qeBhR9rDFgvsDotC7bPgiDHgie0W3cqDGw6Yw/viewform?usp=pp_url"
+ },
+ {
+   "id": "200", "semester_id":"10", "class": "6-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeMNa1DiFdsN2En-B_S6cLlE-Z6cEWhYZldJ_LL0u7o9874TA/viewform?usp=pp_url"
+ },
+ {
+   "id": "201", "semester_id":"10", "class": "6-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5vVbJJpnEJXr3_j0DIqvrr7mplDyGPnYbLKQa4NbuBBPHlw/viewform?usp=pp_url"
+ },
+ {
+   "id": "202", "semester_id":"10", "class": "6-10",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSecKch4azt1Z6_4BrSvvB4JA4zDLsj8ZU_nQmxzEfwfrPZdvQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "203", "semester_id":"10", "class": "6-11",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_MYiUCJ-e36yjsGWIdf-eBvVGQut-NVgl_nTcEcM_Gr7Clg/viewform?usp=pp_url"
+ },
+ {
+   "id": "204", "semester_id":"10", "class": "6-12",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfTtyL17ddOuFzkTvLZTXVkHnHpbH0ZcDKtdSARduNeweanig/viewform?usp=pp_url"
+ },
+ {
+   "id": "205", "semester_id":"10", "class": "6-13",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeW4BBvewHx46BTvEo6ICLlGlaNaVN28cmxbG8NpjwNV5CO5Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "206", "semester_id":"10", "class": "6-14",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-waYWs-iEEP5LWA2mcpS3iN1nPIsbKajmJzr95fvPsyIuOw/viewform?usp=pp_url"
+ },
+ {
+   "id": "207", "semester_id":"10", "class": "6-15",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe83mEnVpAvJ-TGV_vIF5DfWAellZUd4wZ-WBoGd55AOCNdKw/viewform?usp=pp_url"
+ },
+ {
+   "id": "208", "semester_id":"10", "class": "6-16",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScS5-v5Sh7Zf9r69OO9apkvsVuzrU0tL6Z5I-1OVm8-J3fGHA/viewform?usp=pp_url"
+ },
+ {
+   "id": "209", "semester_id":"10", "class": "6-17",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfH06NuIlO2aw70UNO8vPxatLZcKuOQ9gYZzgXOc-vfGho9ww/viewform?usp=pp_url"
+ },
+ {
+   "id": "210", "semester_id":"10", "class": "6-18",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScRJHDwD7fgrZY4OAQnrOwJ082Dx0QoRWMH6y2LObZwssm4vQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "211", "semester_id":"10", "class": "6-19",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeIEBBKbDbHX6kKlwp56GYB3_X8JoKji-HpMk-g81k8pjV-zA/viewform?usp=pp_url"
+ },
+ {
+   "id": "212", "semester_id":"10", "class": "6-20",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeFH0XAaYVXmFXLfG8jsfHFpdpeAFqBPLO71jA4Ne9NEGCamw/viewform?usp=pp_url"
+ },
+ {
+   "id": "213", "semester_id":"10", "class": "6-21",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWoAObAvNffsqsJxos1bubqjEInrhHY9E1nEu8-BiatlCWiQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "214", "semester_id":"10", "class": "6-22",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfMWYmPJ59rTf8qdEiTin_ztj4BTCrUhttSwgLxKMsKmE5u0w/viewform?usp=pp_url"
+ },
+ {
+   "id": "215", "semester_id":"10", "class": "6-23",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScNxmCHQyfpD_6Mt4pYSXfze7h0Mx7DrSB9Ntm31_dz12fTVw/viewform?usp=pp_url"
+ },
+ {
+   "id": "216", "semester_id":"10", "class": "6-24",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeQHz4c-creZxAEqCENvg89jxgzGP8aLeOK1MZDkJZAyV1Bzg/viewform?usp=pp_url"
+ },
+ {
+   "id": "217", "semester_id":"10", "class": "6-25",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf4L0nQMZ9AZUwFtJ5HTLZkl40-XQFA25QFcOCmv967SJzOsA/viewform?usp=pp_url"
+ },
+ {
+   "id": "218", "semester_id":"10", "class": "6-26",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfauM2ER_fmRqYqzs6wtjy9f9ooCPihGhpDJMgfJkRCEjD9tg/viewform?usp=pp_url"
+ },
+ {
+   "id": "219", "semester_id":"10", "class": "6-27",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSem10jWnJKaTuL37JhuVsY3-QVF8di5Ot5myjg_1FtDYP0zHg/viewform?usp=pp_url"
+ },
+ {
+   "id": "220", "semester_id":"10", "class": "6-28",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScMS8OBi0S_Ibp9mgLQ3D20RwoxDhJ3H3zqe6jBHiCa_lI8_w/viewform?usp=pp_url"
+ },
+ {
+   "id": "221", "semester_id":"10", "class": "6-29",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfiHqM_Xt697GSmYz9ivE_arVsICu0dTy3CgH0tSdIDJ7Bjjg/viewform?usp=pp_url"
+ },
+ {
+   "id": "222", "semester_id":"10", "class": "6-30",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScV9iEemuZ3MpBa2wz1jh2y9cslk5t_AHWXgcW91voU71fVhA/viewform?usp=pp_url"
+ },
+ {
+   "id": "223", "semester_id":"10", "class": "6-31",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdkmmNk9zo3ptX6VqNa0HysiVf6qYm5grU5zLUmbXfu1htShA/viewform?usp=pp_url"
+ },
+ {
+   "id": "224", "semester_id":"10", "class": "6-32",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSf73MV11VSAQ9RUfYZy-DlrBxcul_qqWOyonblv3ME-_8nhcQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "225", "semester_id":"13", "class": "4-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSepLYeWlsKhUU6eFlhXO24jLldC76nrkAjUxuTQ0Hmq5Z91hA/viewform?usp=pp_url"
+ },
+ {
+   "id": "226", "semester_id":"13", "class": "4-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSexM62rAiLsLaRrYP9Nez-64m1RPf4uUzGlOh8lBiOdLGXIiA/viewform?usp=pp_url"
+ },
+ {
+   "id": "227", "semester_id":"13", "class": "4-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfQA0Hnxds3kxkZKPAuooj1JO2PAH44mx94jRRoEPImOZiFtA/viewform?usp=pp_url"
+ },
+ {
+   "id": "228", "semester_id":"13", "class": "4-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSddEkY08FakuKA8Hq9PCRv5fFGrk-pklzmL47mCNPy2Od0BNA/viewform?usp=pp_url"
+ },
+ {
+   "id": "229", "semester_id":"13", "class": "4-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScBrI_7aXM6HWQQwYNf215FE3nPkBXQiEsLpqw-tYIAYF55-g/viewform?usp=pp_url"
+ },
+ {
+   "id": "230", "semester_id":"13", "class": "4-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9C0-_LLaHBqnI4eCeJ01gTZtJv_vu_Dd3S09xsVqzU_Gg9Q/viewform?usp=pp_url"
+ },
+ {
+   "id": "231", "semester_id":"13", "class": "4-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeoFnu5pbuxBDBKpj5O7fyHltEcpffzkmIYD6aO91Lbziglbw/viewform?usp=pp_url"
+ },
+ {
+   "id": "232", "semester_id":"13", "class": "4-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfDM_BHYbHOZCOMsbTkqg_cbFtojz_9taXbnrafXsxKjqbBLQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "233", "semester_id":"14", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdWN4zK2ZBB2w83pBzua3r7mBEybdErZ6Lntt8j3BIRuhCaqA/viewform?usp=pp_url"
+ },
+ {
+   "id": "234", "semester_id":"14", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe6xrny8UzWxzIzIOyAQxZlOUfBEMvCXKp42Zg83AwFKK2Zig/viewform?usp=pp_url"
+ },
+ {
+   "id": "235", "semester_id":"14", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfe3QYSJpMrTTr7LGCI_eFdNisBr_fS9YeyXj1WxhMz5G7OLQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "236", "semester_id":"14", "class": "6-04",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3g-VixFvjyRje44ckWki9vBHnXz2c1tRnDTcF6mQebq9OLA/viewform?usp=pp_url"
+ },
+ {
+   "id": "237", "semester_id":"14", "class": "6-05",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe8rj-bfPzb0-BCBQoY0zPIg9GBkEWWl1VojUtwuTUDiRFoWw/viewform?usp=pp_url"
+ },
+ {
+   "id": "238", "semester_id":"14", "class": "6-06",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdBeNmycpQFkNboQKh2hysuAP8PkpJ8U-GQjNEnIJAH-nqb3A/viewform?usp=pp_url"
+ },
+ {
+   "id": "239", "semester_id":"14", "class": "6-07",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeeCZLf0jAstqOzFNJTeOabp8zBUNxIyLjJa3P-gsv9DkWiwg/viewform?usp=pp_url"
+ },
+ {
+   "id": "240", "semester_id":"14", "class": "6-08",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7H4UiQ2vlqoMBaUKmnNdgfN49hGmdR1kwmiSGWTxYz7iLNg/viewform?usp=pp_url"
+ },
+ {
+   "id": "241", "semester_id":"14", "class": "6-09",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScDu3D1IdkokTjc9CkjiE6kuk47Xcfw6KL4H035s3ZZYFJxHQ/viewform?usp=pp_url"
+ },
+ {
+   "id": "242", "semester_id":"15", "class": "5-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdmqGNQO_Twg7ZWgo-sSeuk4JuhZlPNPGtvaiRZDEwZjsoaQg/viewform?usp=pp_url"
+ },
+ {
+   "id": "243", "semester_id":"16", "class": "6-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSchqTi80FrXLVF3Yik6yzm63R_TkVHipRuhiQ2V8UD-88dIIg/viewform?usp=pp_url"
+ },
+ {
+   "id": "244", "semester_id":"16", "class": "6-02",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdm3zhHUnExJrvGBitFZ7dGfgbUlKZHPuu1YE8D_5u4iL3PKA/viewform?usp=pp_url"
+ },
+ {
+   "id": "245", "semester_id":"16", "class": "6-03",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfuF1PH-TTWO3HGmksBeE_mpse-G4v1IMO9wBKY7e0yxuY61g/viewform?usp=pp_url"
+ },
+ {
+   "id": "246", "semester_id":"6", "class": "8-01",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeMPgmXhDyp5N7NvvkpA4QMVCWKhJueq1Xph4FGvadZR-H7qg/viewform?usp=pp_url"
+ }
 ]
