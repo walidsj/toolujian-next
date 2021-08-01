@@ -18,7 +18,7 @@ export default function About() {
         textAlign="center"
         py="4"
       >
-        about page
+        Cuma ingin segera lulus {":)"}
       </Box>
     </motion.div>
   );
