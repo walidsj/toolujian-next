@@ -27,7 +27,7 @@ export default function Logo() {
               Tooluji
             </Text>
             <Text fontSize="xs" color={subtitleColor}>
-              by Walid
+              PENG-97/PKN/2021
             </Text>
           </Box>
         </Box>
