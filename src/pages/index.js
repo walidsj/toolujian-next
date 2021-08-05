@@ -327,7 +327,7 @@ export default function Home() {
               <Text as="span" color={accentColor}>
                 precious
               </Text>{" "}
-              exam time.
+              time.
             </Heading>
             <form onSubmit={(e) => handleNpm(e)}>
               <Flex justify="center">
