@@ -112,7 +112,7 @@ export default function Home() {
 
         <Box as="section" display="flex" flexDir="column" pt={6} pb={4}>
           <Box as="header" textAlign="center">
-            <Image
+            {/* <Image
               src={imgHeader}
               width={108}
               height={108}
@@ -120,7 +120,7 @@ export default function Home() {
               placeholder="blur"
               blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
               priority
-            />
+            /> */}
             <Heading as="h1" fontSize="4xl">
               {mahasiswa.name}
             </Heading>
