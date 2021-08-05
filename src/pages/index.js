@@ -323,11 +323,11 @@ export default function Home() {
         >
           <Box pt={4} maxW={{ lg: 360 }}>
             <Heading mb={4} fontSize={["4xl", "5xl"]} fontWeight="700">
-              Give you more{" "}
+              Save your{" "}
               <Text as="span" color={accentColor}>
-                extra
+                precious
               </Text>{" "}
-              time.
+              exam time.
             </Heading>
             <form onSubmit={(e) => handleNpm(e)}>
               <Flex justify="center">
