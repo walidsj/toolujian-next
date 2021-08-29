@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import jwt from "jsonwebtoken";
 
 /**
  * Get directory of data folder.
@@ -14,58 +15,79 @@ const dataDir = path.resolve(process.cwd(), "data");
  * @returns
  */
 export default function getMahasiswaAndMatkulByNpm(req, res) {
-  const mahasiswas = JSON.parse(
-    fs.readFileSync(path.join(dataDir, "mahasiswa.json"), "utf-8")
-  );
+  switch (req.method) {
+    case "POST": {
+      const { npm } = jwt.verify(
+        req.headers.authorization.split(" ")[1],
+        process.env.JWT_KEY
+      );
 
-  const mahasiswa = mahasiswas.filter((val) => {
-    if (val.npm === req.query.npm) return true;
-  })[0];
+      const mahasiswas = JSON.parse(
+        fs.readFileSync(path.join(dataDir, "mahasiswa.json"), "utf-8")
+      );
 
-  if (!mahasiswa) return res.status(404).json({ message: "User not found." });
+      const mahasiswa = mahasiswas.filter((val) => {
+        if (val.npm === npm) return true;
+      })[0];
 
-  const mahasiswasClass = mahasiswas
-    .filter((val) => {
-      if (
-        val.semester_id === mahasiswa.semester_id &&
-        val.class === mahasiswa.class
-      )
-        return true;
-    })
-    .sort(function (a, b) {
-      return a.name.localeCompare(b.name);
-    });
+      if (!mahasiswa)
+        return res.status(404).json({ message: "User not found." });
 
-  const number = String(mahasiswasClass.indexOf(mahasiswa) + 1).padStart(
-    2,
-    "0"
-  );
+      const mahasiswasClass = mahasiswas
+        .filter((val) => {
+          if (
+            val.semester_id === mahasiswa.semester_id &&
+            val.class === mahasiswa.class
+          )
+            return true;
+        })
+        .sort(function (a, b) {
+          return a.name.localeCompare(b.name);
+        });
 
-  const semester = getSemesterById(mahasiswa.semester_id);
+      const number = String(mahasiswasClass.indexOf(mahasiswa) + 1).padStart(
+        2,
+        "0"
+      );
 
-  const prodi = getProdiById(semester.prodi_id);
+      const semester = getSemesterById(mahasiswa.semester_id);
 
-  const jurusan = getJurusanById(prodi.jurusan_id);
+      const prodi = getProdiById(semester.prodi_id);
 
-  const link = getLinkBySemesterIdAndClass({
-    semester_id: semester.id,
-    class: mahasiswa.class,
-  });
+      const jurusan = getJurusanById(prodi.jurusan_id);
 
-  const matkul = getMatkulAndDosenBySemesterIdAndClass({
-    semester_id: semester.id,
-    class: mahasiswa.class,
-  });
+      const link = getLinkBySemesterIdAndClass({
+        semester_id: semester.id,
+        class: mahasiswa.class,
+      });
 
-  res.status(200).json({
-    ...mahasiswa,
-    number,
-    link,
-    semester,
-    prodi,
-    jurusan,
-    matkul,
-  });
+      const matkul = getMatkulAndDosenBySemesterIdAndClass({
+        semester_id: semester.id,
+        class: mahasiswa.class,
+      });
+
+      return res.status(200).json({
+        status: true,
+        message: "Mahasiswa and matkul found.",
+        data: {
+          ...mahasiswa,
+          number,
+          link,
+          semester,
+          prodi,
+          jurusan,
+          matkul,
+        },
+      });
+      break;
+    }
+    default: {
+      return res.status(422).json({
+        status: false,
+        message: "Your method request is invalid. Expected: POST",
+      });
+    }
+  }
 }
 
 /**
