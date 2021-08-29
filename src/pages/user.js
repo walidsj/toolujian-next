@@ -229,8 +229,8 @@ export default function User({ user, token }) {
             onClick={async () => {
               setIsLoading(true);
               try {
-                const { data } = await axios.get("/api/signout");
-                if (data) return router.push("/");
+                await axios.post("/api/signout");
+                return router.push("/");
               } catch (e) {
                 swal("Failed!", e.response.data.message, "error");
                 setIsLoading(false);
