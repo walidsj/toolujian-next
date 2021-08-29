@@ -23,8 +23,8 @@ import dayjs from "dayjs";
 import swal from "sweetalert";
 import axios from "axios";
 import jwt from "jsonwebtoken";
-import { destroyCookie } from "nookies";
 import { useRouter } from "next/router";
+import cookie from "cookie";
 
 export default function User({ user, token }) {
   const router = useRouter();
@@ -32,17 +32,21 @@ export default function User({ user, token }) {
   const accentColor = useColorModeValue("teal.500", "teal.200");
   const grayColor = useColorModeValue("gray.500", "gray.400");
 
-  const [mahasiswa, setMahasiswa] = useState("");
+  const [mahasiswa, setMahasiswa] = useState();
+  const [search, setSearch] = useState();
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const { data } = await axios.post("/api/data", "", {
+        const {
+          data: { data },
+        } = await axios.post("/api/data", null, {
           headers: {
             Authorization: `Bearer ${token}`,
           },
         });
-        setMahasiswa(data.data);
+        setMahasiswa(data);
       } catch (err) {
         const { message } = err.response.data;
         swal("Failed!", message, "error");
@@ -70,23 +74,7 @@ export default function User({ user, token }) {
     }
   };
 
-  const [search, setSearch] = useState("");
-
-  if (!mahasiswa)
-    return (
-      <Box
-        as="section"
-        display="flex"
-        flexDir="column"
-        alignItems="center"
-        justifyContent="center"
-        pt={6}
-        pb={4}
-      >
-        <NextSeo title={`${user.name} (${user.npm}) - ${seo.title}`} />
-        <Spinner />
-      </Box>
-    );
+  if (!mahasiswa) return <Loading user={user} />;
 
   if (mahasiswa)
     return (
@@ -237,13 +225,15 @@ export default function User({ user, token }) {
         <Box textAlign="center">
           <Button
             mt={6}
-            leftIcon={<FaBackspace />}
+            leftIcon={isLoading ? <Spinner /> : <FaBackspace />}
             onClick={async () => {
+              setIsLoading(true);
               try {
                 const { data } = await axios.get("/api/signout");
                 if (data) return router.push("/");
               } catch (e) {
                 swal("Failed!", e.response.data.message, "error");
+                setIsLoading(false);
               }
             }}
             color={grayColor}
@@ -255,21 +245,54 @@ export default function User({ user, token }) {
     );
 }
 
+const Loading = ({ user }) => {
+  return (
+    <Box
+      as="section"
+      display="flex"
+      flexDir="column"
+      alignItems="center"
+      justifyContent="center"
+      pt={6}
+      pb={4}
+    >
+      <NextSeo title={`${user.name} (${user.npm}) - ${seo.title}`} />
+      <Spinner size="xl" />
+    </Box>
+  );
+};
+
 export const getServerSideProps = async (context) => {
-  const token = context.req.headers.cookie?.split("=")[1];
+  const cookies = context.req.headers.cookie;
 
-  if (token) {
-    const user = jwt.verify(token, process.env.JWT_KEY);
-    if (!user)
-      return {
-        redirect: {
-          destination: "/",
-          permanent: false,
-        },
-      };
-
+  if (!cookies)
     return {
-      props: { user, token },
+      redirect: {
+        destination: "/",
+        permanent: false,
+      },
     };
-  }
+
+  const { token } = cookie.parse(cookies);
+
+  if (!token)
+    return {
+      redirect: {
+        destination: "/",
+        permanent: false,
+      },
+    };
+
+  const user = jwt.verify(token, process.env.JWT_KEY);
+  if (!user)
+    return {
+      redirect: {
+        destination: "/",
+        permanent: false,
+      },
+    };
+
+  return {
+    props: { user, token },
+  };
 };

@@ -9,6 +9,7 @@ import {
   InputGroup,
   InputLeftElement,
   InputRightElement,
+  Spinner,
   Switch,
   Text,
   useColorModeValue,
@@ -22,6 +23,7 @@ import swal from "sweetalert";
 import axios from "axios";
 import { useRouter } from "next/router";
 import jwt from "jsonwebtoken";
+import cookie from "cookie";
 
 export default function Home() {
   const router = useRouter();
@@ -30,16 +32,18 @@ export default function Home() {
   const grayColor = useColorModeValue("gray.500", "gray.400");
 
   const [inputs, setInputs] = useState();
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleNpm = async (e) => {
     e.preventDefault();
+    setIsLoading(true);
     try {
-      const { data } = await axios.post("/api/signin", inputs);
+      await axios.post("/api/signin", inputs);
       router.push("/user");
     } catch (err) {
       const { message } = err.response.data;
       swal("Failed!", message, "error");
-      throw err;
+      setIsLoading(false);
     }
   };
 
@@ -111,7 +115,7 @@ export default function Home() {
                     color={grayColor}
                     type="submit"
                   >
-                    <FaArrowRight />
+                    {isLoading ? <Spinner /> : <FaArrowRight />}
                   </Button>
                 </InputRightElement>
               )}
@@ -155,17 +159,20 @@ export default function Home() {
 }
 
 export const getServerSideProps = async (context) => {
-  const token = context.req.headers.cookie?.split("=")[1];
+  const cookies = context.req.headers.cookie;
+  if (cookies) {
+    const { token } = cookie.parse(cookies);
 
-  if (token) {
-    const user = jwt.verify(token, process.env.JWT_KEY);
-    if (user)
-      return {
-        redirect: {
-          destination: "/user",
-          permanent: false,
-        },
-      };
+    if (token) {
+      const user = jwt.verify(token, process.env.JWT_KEY);
+      if (user)
+        return {
+          redirect: {
+            destination: "/user",
+            permanent: false,
+          },
+        };
+    }
   }
 
   return {
