@@ -1,5 +1,4 @@
 import { ChakraProvider } from "@chakra-ui/react";
-import { AnimateSharedLayout } from "framer-motion";
 import NextNProgress from "nextjs-progressbar";
 import Layout from "../layouts";
 import theme from "./../themes/index";
@@ -18,9 +17,7 @@ function MyApp({ Component, pageProps }) {
         options={{ easing: "ease", speed: 500, showSpinner: false }}
       />
       <Layout>
-        <AnimateSharedLayout>
-          <Component {...pageProps} />
-        </AnimateSharedLayout>
+        <Component {...pageProps} />
       </Layout>
     </ChakraProvider>
   );

@@ -15,6 +15,7 @@
     "@fontsource/poppins": "^4.5.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.6",
+    "framer-motion": "^4.1.17",
     "hamburger-react": "^2.4.1",
     "jsonwebtoken": "^8.5.1",
     "next": "11.0.1",
