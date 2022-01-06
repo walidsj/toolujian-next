@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/walidsj/ujian-next/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/walidsj/ujian-next?style=flat-square"></a>
+  <a href="https://github.com/walidsj/ujian-next"><img alt="GitHub license" src="https://img.shields.io/github/license/walidsj/ujian-next?style=flat-square"></a>
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
