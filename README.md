@@ -1,41 +1,48 @@
 <p align="center">
+  <a href="https://uji.vercel.app/">
+    <img alt="Tooluji by Walid" width="124" src="https://user-images.githubusercontent.com/50021257/148527635-51236ef1-8f24-4e43-aafc-e3da09415176.png">
+    <h1 align="center">Tooluji by Walid</h1>
+  </a>
+</p>
+  
+<p align="center">
   <a href="https://github.com/walidsj/ujian-next/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/walidsj/ujian-next?style=flat-square"></a>
   <a href="https://github.com/walidsj/ujian-next/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/walidsj/ujian-next?style=flat-square"></a>
   <a href="https://github.com/walidsj/ujian-next/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/walidsj/ujian-next?style=flat-square"></a>
   <a href="https://github.com/walidsj/ujian-next"><img alt="GitHub license" src="https://img.shields.io/github/license/walidsj/ujian-next?style=flat-square"></a>
 </p>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About
+This tool has usability for formatting and naming the exam answer sheets or files in accordance with applicable provisions that have been established by the educational institution of [PKN STAN](https://www.linkedin.com/school/politeknik-keuangan-negara-stan/) (State Finance Polytechnic of STAN). By using latest javascript framework, we finally can produce a simple program like this tool but very useful for student's exam lifes, especially in [campus of PKN STAN](https://pknstan.ac.id).
 
-## Getting Started
+![148529233-d59623b3-b31e-45f8-b39b-049d19997f06](https://user-images.githubusercontent.com/50021257/148530084-26c84c63-7692-4c33-afb9-f0f052a0cf45.png)
 
-First, run the development server:
+It uses Cookies as a central userdata storage (instead of using LocalStorage because its simplicity), so it can save user's default exam settings which filled-in by students. Because of its light approach in production, it is suitable for rapid-mass use and requires no strong connection.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+##### Table of Contents
+* [About](#about)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Previous Tool](#previous-tool)
+* [License](#license)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+In the latest release, this tool includes update with an extensible and more modern javascript framework named [Next.js](https://nextjs.org), replaces the former javascript library Vue.js that implemented well before to this tool in the [earlier version](https://github.com/walidsj/toolujian).
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Features
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+* Automatic fill session of exam
+* Full database of students, majors, semesters, courses, and exam sessions
+* Input validation according to institutional provision and regulation
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Screenshots
+![Tooluji by Walid](https://user-images.githubusercontent.com/50021257/148529246-211fea88-8d53-4501-8b68-c39eaa177dbd.png)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Previous Tool
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [Tool Ujian Ganjil (Vue)](https://walidsj.github.io/toolujian/) - [Github](https://github.com/walidsj/toolujian)
+* [Tooluji Baru (Create React App)](https://github.com/walidsj/tooluji-baru)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Tooluji by Walid is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
